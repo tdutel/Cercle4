@@ -6,7 +6,7 @@
 #    By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/07/21 13:40:06 by tdutel            #+#    #+#              #
-#    Updated: 2023/07/25 14:43:18 by tdutel           ###   ########.fr        #
+#    Updated: 2023/07/25 15:26:14 by tdutel           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@ NAME = a.out
 HEADER = Fixed.hpp Point.hpp
 CC = c++
 CFLAGS = -Wall -Werror -Wextra -std=c++98
-SRC =	main.cpp Fixed.cpp Point.cpp
+SRC =	main.cpp Fixed.cpp Point.cpp bsp.cpp
 
 OBJ = $(SRC:.cpp=.o)
 

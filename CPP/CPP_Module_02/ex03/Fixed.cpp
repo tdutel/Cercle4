@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/23 11:48:35 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/25 14:20:06 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/07/25 16:02:46 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -96,24 +96,36 @@ Fixed& Fixed::operator+(const Fixed& other)
 {
 	this->_raw += other._raw;
 	return (*this);
+	// return Fixed(this->toFloat() + other.toFloat());
 }
 
 Fixed& Fixed::operator-(const Fixed& other)
 {
 	this->_raw -= other._raw;
 	return (*this);
+	// return Fixed(this->toFloat() - other.toFloat());
 }
 
 Fixed& Fixed::operator*(const Fixed& other)
 {
 	this->_raw *= other._raw >> _bits;
 	return (*this);
+	// return Fixed(this->toFloat() * other.toFloat());
 }
 
 Fixed& Fixed::operator/(const Fixed& other)
 {
+	if (other._raw >> _bits == 0)
+		{std::cout << "Error division by 0\n";
+		exit;}
 	this->_raw /= other._raw >> _bits;
 	return (*this);
+	// if (other.toFloat() == 0)
+    // {
+    //     std::cerr << "Error: Division by zero!" << std::endl;
+    //     return Fixed();
+    // }
+    // return Fixed(this->toFloat() / other.toFloat());
 }
 
 

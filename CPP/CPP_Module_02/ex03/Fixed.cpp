@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/23 11:48:35 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/25 16:02:46 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/07/26 13:54:52 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,7 +31,7 @@ Fixed::Fixed(const int nb)
 
 Fixed::Fixed(const float nb)
 {
-	_raw = roundf(nb * (1 << _bits));
+	_raw = (int)roundf(nb * (1 << _bits));
 }
 
 Fixed::~Fixed()
@@ -41,46 +41,49 @@ Fixed::~Fixed()
 
 	// Check Operator //
 
-bool Fixed::operator>(const Fixed& other)
+bool Fixed::operator>(const Fixed& other) const
 {
 	if (this->_raw > other._raw)
 		return (true);
 	return (false);
+	// return (this->_raw > other._raw);
 }
 
-bool Fixed::operator<(const Fixed& other)
+bool Fixed::operator<(const Fixed& other) const
 {
 	if (this->_raw < other._raw)
 		return (true);
 	return (false);
 }
 
-bool Fixed::operator>=(const Fixed& other)
+bool Fixed::operator>=(const Fixed& other) const
 {
 	if (this->_raw >= other._raw)
 		return (true);
 	return (false);
 }
 
-bool Fixed::operator<=(const Fixed& other)
+bool Fixed::operator<=(const Fixed& other) const
 {
 	if (this->_raw <= other._raw)
 		return (true);
 	return (false);
 }
 
-bool Fixed::operator==(const Fixed& other)
+bool Fixed::operator==(const Fixed& other) const
 {
-	if (this->_raw = other._raw)
-		return (true);
-	return (false);
+	// if (this->_raw = other._raw)
+	// 	return (true);
+	// return (false);
+	return (this->_raw == other._raw);
 }
 
-bool Fixed::operator!=(const Fixed& other)
+bool Fixed::operator!=(const Fixed& other) const
 {
-	if (this->_raw = other._raw)
-		return (false);
-	return (true);
+	// if (this->_raw = other._raw)
+	// 	return (false);
+	// return (true);
+	return (this->_raw != other._raw);
 }
 
 
@@ -88,44 +91,44 @@ bool Fixed::operator!=(const Fixed& other)
 
 Fixed& Fixed::operator=(const Fixed& other)
 {
-	this->_raw = other._raw;
+	this->_raw = other.getRawBits();
 	return (*this);
 }
 
-Fixed& Fixed::operator+(const Fixed& other)
+Fixed Fixed::operator+(const Fixed& other) const
 {
-	this->_raw += other._raw;
-	return (*this);
-	// return Fixed(this->toFloat() + other.toFloat());
+	// this->_raw += other._raw >> _bits;
+	// return (*this);
+	return (Fixed(this->toFloat() + other.toFloat()));
 }
 
-Fixed& Fixed::operator-(const Fixed& other)
+Fixed Fixed::operator-(const Fixed& other) const
 {
-	this->_raw -= other._raw;
-	return (*this);
-	// return Fixed(this->toFloat() - other.toFloat());
+	// this->_raw -= other._raw >> _bits;
+	// return (*this);
+	return (Fixed(this->toFloat() - other.toFloat()));
 }
 
-Fixed& Fixed::operator*(const Fixed& other)
+Fixed Fixed::operator*(const Fixed& other) const
 {
-	this->_raw *= other._raw >> _bits;
-	return (*this);
-	// return Fixed(this->toFloat() * other.toFloat());
+	// this->_raw *= other._raw >> _bits;
+	// return (*this);
+	return (Fixed(this->toFloat() * other.toFloat()));
 }
 
-Fixed& Fixed::operator/(const Fixed& other)
+Fixed Fixed::operator/(const Fixed& other) const
 {
-	if (other._raw >> _bits == 0)
-		{std::cout << "Error division by 0\n";
-		exit;}
-	this->_raw /= other._raw >> _bits;
-	return (*this);
-	// if (other.toFloat() == 0)
-    // {
-    //     std::cerr << "Error: Division by zero!" << std::endl;
-    //     return Fixed();
-    // }
-    // return Fixed(this->toFloat() / other.toFloat());
+	// if (other._raw >> _bits == 0)
+	// 	{std::cout << "Error division by 0\n";
+	// 	exit;}
+	// this->_raw /= other._raw >> _bits;
+	// return (*this);
+	if (other.toFloat() == 0)
+    {
+        std::cerr << "Error: Division by zero!" << std::endl;
+        return Fixed();
+    }
+    return Fixed(this->toFloat() / other.toFloat());
 }
 
 
@@ -160,6 +163,29 @@ Fixed	Fixed::operator--(int)
 
 	// check function //
 
+static Fixed& min(Fixed &f1, Fixed &f2)
+{
+	if ( f1 <= f2)
+		return (f1);
+	return (f2);
+}
+static const Fixed& min(const Fixed &f1, const Fixed &f2)
+{
+	if ( (Fixed)f1 <= (Fixed)f2)
+		return (f1);
+	return (f2);
+}
+static Fixed& max(Fixed &f1, Fixed &f2){
+	if ( f1 >= f2)
+		return (f1);
+	return (f2);
+}
+static const Fixed& max(const Fixed &f1, const Fixed &f2)
+{
+	if ( (Fixed)f1 >= (Fixed)f2)
+		return (f1);
+	return (f2);
+}
 
 	// Functions //
 
@@ -180,7 +206,8 @@ float Fixed::toFloat(void) const
 
 int Fixed::toInt(void) const
 {
-	return (_raw >> _bits) ;
+	// return (_raw >> _bits) ;
+	return ((int)(roundf((float)_raw / (1 << _bits))));
 }
 
 std::ostream& operator<<(std::ostream &out, const Fixed& other)

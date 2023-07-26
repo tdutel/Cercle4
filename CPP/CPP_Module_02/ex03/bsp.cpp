@@ -5,21 +5,48 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/07/25 14:54:31 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/25 15:25:59 by tdutel           ###   ########.fr       */
+/*   Created: 2023/07/26 12:30:53 by tdutel            #+#    #+#             */
+/*   Updated: 2023/07/26 13:57:08 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "Point.hpp"
 
-bool bsp( Point const a, Point const b, Point const c, Point const point)
+bool	bsp(const Point a, const Point b, const Point c, const Point point)
 {
-	Fixed alpha = ((b.gety() - c.gety()) * (point.getx() - c.getx()) + (c.getx() - b.getx()) * (point.gety() - c.gety())) /
-	((b.gety() - c.gety()) * (a.getx() - c.getx()) + (c.getx() - b.getx()) * (a.gety() - c.gety()));
+	// float	s1, s2, s3;
 
-	Fixed beta  = ((c.gety() - a.gety()) * (point.getx() - c.getx()) + (a.getx() - c.getx()) * (point.gety() - c.gety())) /
-	((b.gety() - c.gety()) * (a.getx() - c.getx()) + (c.getx() - b.getx()) * (a.gety() - c.gety()));
-
-	Fixed gamma = Fixed(1) - alpha - beta;
-	return (alpha > 0 && alpha < 1 && beta > 0 && beta < 1 && gamma > 0 && gamma < 1);
+	// s1 = Point::signThree(point, a, b);
+	// s2 = Point::signThree(point, b, c);
+	// s3 = Point::signThree(point, c, a);
+	// return ((s1 < 0 && s2 < 0 && s3 < 0) || (s1 > 0 && s2 > 0 && s3 > 0));
+	std::cout << "A : x=" << a.getX() << " y=" << a.getY() << std::endl;
+	std::cout << "B : x=" << b.getX() << " y=" << b.getY() << std::endl;
+	std::cout << "C : x=" << c.getX() << " y=" << c.getY() << std::endl;
+	std::cout << "U : x=" << point.getX() << " y=" << point.getY() << std::endl;
+	return true;	
 }
+
+// bool bsp( Point const a, Point const b, Point const c, Point const point)
+// {
+// 	std::cout << "A : x=" << a.getX() << " y=" << a.getY() << std::endl;
+// 	std::cout << "B : x=" << b.getX() << " y=" << b.getY() << std::endl;
+// 	std::cout << "C : x=" << c.getX() << " y=" << c.getY() << std::endl;
+// 	std::cout << "U : x=" << point.getX() << " y=" << point.getY() << std::endl;
+// 	return true;
+// }
+// 	std::cout << "A : x=" << a.getX() << " y=" << a.getY() << std::endl;
+// 	std::cout << "B : x=" << b.getX() << " y=" << b.getY() << std::endl;
+// 	std::cout << "C : x=" << c.getX() << " y=" << c.getY() << std::endl;
+// 	std::cout << b.getY() << c.getY() << point.getX() << c.getX() << c.getX() << b.getX() << point.getY() << c.getY() <<
+// 	b.getY() << c.getY() << a.getX() << c.getX() << c.getX() << b.getX() << a.getY() << c.getY();
+// 	float alpha = ((b.getY() - c.getY()) * (point.getX() - c.getX()) + (c.getX() - b.getX()) * (point.getY() - c.getY())) /
+// 	((b.getY() - c.getY()) * (a.getX() - c.getX()) + (c.getX() - b.getX()) * (a.getY() - c.getY()));
+// 	std::cout << alpha << std::endl;
+// 	float beta  = ((c.getY() - a.getY()) * (point.getX() - c.getX()) + (a.getX() - c.getX()) * (point.getY() - c.getY())) /
+// 	((b.getY() - c.getY()) * (a.getX() - c.getX()) + (c.getX() - b.getX()) * (a.getY() - c.getY()));
+// 	std::cout << beta << std::endl;
+
+// 	float gamma = Fixed(1) - alpha - beta;
+// 	return (alpha > 0 && alpha < 1 && beta > 0 && beta < 1 && gamma > 0 && gamma < 1);
+// }

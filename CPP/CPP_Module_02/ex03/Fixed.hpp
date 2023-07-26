@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/25 14:46:45 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/25 16:02:51 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/07/26 13:54:50 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,19 +27,19 @@ public:
 	~Fixed();
 
 // check operator //
-	bool operator>(const Fixed& other);
-	bool operator<(const Fixed& other);
-	bool operator>=(const Fixed& other);
-	bool operator<=(const Fixed& other);
-	bool operator==(const Fixed& other);
-	bool operator!=(const Fixed& other);
+	bool operator>(const Fixed& other) const;
+	bool operator<(const Fixed& other) const;
+	bool operator>=(const Fixed& other) const;
+	bool operator<=(const Fixed& other) const;
+	bool operator==(const Fixed& other) const;
+	bool operator!=(const Fixed& other) const;
 
 // assignment operator //
 	Fixed& operator=(const Fixed& other);
-	Fixed& operator+(const Fixed& other);
-	Fixed& operator-(const Fixed& other);
-	Fixed& operator*(const Fixed& other);
-	Fixed& operator/(const Fixed& other);
+	Fixed operator+(const Fixed& other) const;
+	Fixed operator-(const Fixed& other) const;
+	Fixed operator*(const Fixed& other) const;
+	Fixed operator/(const Fixed& other) const;
 
 // incrementation operator //
 	Fixed& operator++();
@@ -48,29 +48,10 @@ public:
 	Fixed operator--(int);
 
 // check function //
-	static Fixed& min(Fixed &f1, Fixed &f2)
-	{
-		if ( f1 <= f2)
-			return (f1);
-		return (f2);
-	}
-	static const Fixed& min(const Fixed &f1, const Fixed &f2)
-	{
-		if ( (Fixed)f1 <= (Fixed)f2)
-			return (f1);
-		return (f2);
-	}
-	static Fixed& max(Fixed &f1, Fixed &f2){
-		if ( f1 >= f2)
-			return (f1);
-		return (f2);
-	}
-	static const Fixed& max(const Fixed &f1, const Fixed &f2)
-	{
-		if ( (Fixed)f1 >= (Fixed)f2)
-			return (f1);
-		return (f2);
-	}
+	static Fixed& min(Fixed &f1, Fixed &f2);
+	static Fixed& max(Fixed &f1, Fixed &f2);
+	static const Fixed& min(const Fixed &f1, const Fixed &f2);
+	static const Fixed& max(const Fixed &f1, const Fixed &f2);
 
 // old function //
 	int getRawBits( void ) const;
@@ -84,7 +65,5 @@ private:
 	int _raw;
 	static const int _bits = 8;
 };
-
 std::ostream& operator<<(std::ostream &out, const Fixed& other);
-
 #endif

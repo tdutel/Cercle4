@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/26 12:30:53 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/27 13:20:20 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/07/27 15:37:30 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@
 // 	return true;	
 // }
 
-bool bsp( Point const a, Point const b, Point const c, Point const point)
+bool bsp( Point const &a, Point const &b, Point const &c, Point const &point)
 {
 	std::cout << "A : x=" << a.getX() << " y=" << a.getY() << std::endl;
 	std::cout << "B : x=" << b.getX() << " y=" << b.getY() << std::endl;

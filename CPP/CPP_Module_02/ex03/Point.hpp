@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/25 14:39:12 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/26 14:27:24 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/07/27 15:38:24 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,6 +36,6 @@ private:
 	const Fixed	_x;
 	const Fixed	_y;
 };
-bool bsp( Point const a, Point const b, Point const c, Point const point);
+bool bsp( Point const &a, Point const &b, Point const &c, Point const &point);
 
 #endif

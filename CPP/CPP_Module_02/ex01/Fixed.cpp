@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/23 11:48:35 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/24 12:40:11 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/09/18 11:13:57 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,7 +34,7 @@ Fixed::Fixed(const int nb)
 
 Fixed::Fixed(const float nb)
 {
-	std::cout << "Float constructor called" << this->_raw << std::endl;
+	std::cout << "Float constructor called" << std::endl;
 	_raw = roundf(nb * (1 << _bits));
 }
 

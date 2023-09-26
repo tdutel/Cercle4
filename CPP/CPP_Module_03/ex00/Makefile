@@ -6,7 +6,7 @@
 #    By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/07/21 13:40:06 by tdutel            #+#    #+#              #
-#    Updated: 2023/07/27 15:19:27 by tdutel           ###   ########.fr        #
+#    Updated: 2023/09/26 13:52:05 by tdutel           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -46,8 +46,5 @@ debug :
 
 rdebug : fclean
 	make debug
-
-norme :
-	norminette $(SRC) $(HEADER)
 
 .PHONY: all clean fclean re debug rdebug

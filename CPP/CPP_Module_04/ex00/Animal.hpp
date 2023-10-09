@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 13:49:12 by tdutel            #+#    #+#             */
-/*   Updated: 2023/09/26 14:00:11 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/10/09 14:28:15 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 # define ANIMAL_HPP
 
 # include <iostream>
+
 class Animal
 {
 
@@ -23,20 +24,16 @@ public:
 	~Animal();
 
 // set //
-	// void setHitPoints(int n);
+	void setType(std::string type);
 
 // get //
-	// int getHitPoints(void);
-
+	std::string getType(void);
 
 // functions //
-	// void attack(const std::string& target);
+	void makeSound(void);
 
-
-	// Animal	&operator=(const Animal &Animal);
-
-private:
-	std::string	_name;
+protected:
+	std::string	type;
 	
 };
 # endif

@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/27 13:36:19 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/27 15:33:42 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/06 14:47:15 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,10 +19,12 @@ int	main(void)
 	ClapTrap cp2("Blastoise");
 	ClapTrap cp3("Venusaur");
 	std::cout << std::endl;
+
 //init stats
 	cp1.setStats(9, 2, 8);
 	cp2.setStats(5, 5, 10);
 	cp3.setStats(4, 10, 5);
+
 	cp3.attack("Blastoise");
 	cp2.takeDamage(cp3.getAttackDamage());
 	cp2.beRepaired(2);

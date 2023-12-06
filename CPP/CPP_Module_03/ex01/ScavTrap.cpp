@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/28 12:15:45 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/28 13:24:46 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/06 14:58:54 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ ScavTrap::ScavTrap(void)
 	this->_hitPoints = 100;
 	this->_energyPoints = 50;
 	this->_attackDamage = 20;
-	std::cout << "A wild legendary appears !" << std::endl;
+	std::cout << "A wild legendary appears ! (ScavTrap constructor called)" << std::endl;
 }
 
 ScavTrap::ScavTrap(std::string name)
@@ -28,18 +28,18 @@ ScavTrap::ScavTrap(std::string name)
 	this->_hitPoints = 100;
 	this->_energyPoints = 50;
 	this->_attackDamage = 20;
-	std::cout << "a wild legendary " << name << " appears !" << std::endl;
+	std::cout << "a wild legendary " << name << " appears ! (ScavTrap contructor called)" << std::endl;
 }
 
 ScavTrap::ScavTrap(const ScavTrap &clapTrap)
 {
 	*this = clapTrap;
-	std::cout << "A wild Legendary copy appears !" << std::endl;
+	std::cout << "A wild Legendary copy appears ! (ScavTrap copy called)" << std::endl;
 }
 
 ScavTrap::~ScavTrap()
 {
-	std::cout << "the wild Legendary disappears !" << std::endl;
+	std::cout << "the wild Legendary disappears ! (ScavTrap destructor called)" << std::endl;
 }
 
 ScavTrap	&ScavTrap::operator=(const ScavTrap &scavTrap)
@@ -58,7 +58,7 @@ ScavTrap	&ScavTrap::operator=(const ScavTrap &scavTrap)
 
 void ScavTrap::guardGate()
 {
-	std::cout << "ScavTrap has entered defensive mode !" << std::endl;
+	std::cout << "ScavTrap " << this->_name <<" has entered defensive mode !" << std::endl;
 }
 
 void ScavTrap::attack(const std::string& target)

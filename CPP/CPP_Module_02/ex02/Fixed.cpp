@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/23 11:48:35 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/25 14:20:06 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/06 16:26:52 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -148,6 +148,33 @@ Fixed	Fixed::operator--(int)
 
 	// check function //
 
+Fixed& Fixed::min(Fixed &f1, Fixed &f2)
+{
+	if ( f1 <= f2)
+		return (f1);
+	return (f2);
+}
+
+const Fixed& Fixed::min(const Fixed &f1, const Fixed &f2)
+{
+	if ( (Fixed)f1 <= (Fixed)f2)
+		return (f1);
+	return (f2);
+}
+
+Fixed& Fixed::max(Fixed &f1, Fixed &f2)
+{
+	if ( f1 >= f2)
+		return (f1);
+	return (f2);
+}
+
+const Fixed& Fixed::max(const Fixed &f1, const Fixed &f2)
+{
+	if ( (Fixed)f1 >= (Fixed)f2)
+		return (f1);
+	return (f2);
+}
 
 	// Functions //
 

@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/23 11:48:25 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/25 14:47:02 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/06 16:21:23 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,29 +49,10 @@ public:
 	Fixed operator--(int);
 
 // check function //
-	static Fixed& min(Fixed &f1, Fixed &f2)
-	{
-		if ( f1 <= f2)
-			return (f1);
-		return (f2);
-	}
-	static const Fixed& min(const Fixed &f1, const Fixed &f2)
-	{
-		if ( (Fixed)f1 <= (Fixed)f2)
-			return (f1);
-		return (f2);
-	}
-	static Fixed& max(Fixed &f1, Fixed &f2){
-		if ( f1 >= f2)
-			return (f1);
-		return (f2);
-	}
-	static const Fixed& max(const Fixed &f1, const Fixed &f2)
-	{
-		if ( (Fixed)f1 >= (Fixed)f2)
-			return (f1);
-		return (f2);
-	}
+	static Fixed& min(Fixed &f1, Fixed &f2);
+	static const Fixed& min(const Fixed &f1, const Fixed &f2);
+	static Fixed& max(Fixed &f1, Fixed &f2);
+	static const Fixed& max(const Fixed &f1, const Fixed &f2);
 
 // old function //
 	int getRawBits( void ) const;

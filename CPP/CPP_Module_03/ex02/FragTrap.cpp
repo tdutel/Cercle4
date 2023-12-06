@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/18 11:45:38 by tdutel            #+#    #+#             */
-/*   Updated: 2023/09/18 12:17:04 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/06 15:18:39 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ FragTrap::FragTrap(void)
 	this->_hitPoints = 100;
 	this->_energyPoints = 100;
 	this->_attackDamage = 30;
-	std::cout << "A MYTHICAL appears !" << std::endl;
+	std::cout << "A MYTHICAL appears ! (FragTrap constructor called)" << std::endl;
 }
 
 FragTrap::FragTrap(std::string name)
@@ -28,18 +28,18 @@ FragTrap::FragTrap(std::string name)
 	this->_hitPoints = 100;
 	this->_energyPoints = 100;
 	this->_attackDamage = 30;
-	std::cout << "A MYTHICAL " << name << " appears !" << std::endl;
+	std::cout << "A MYTHICAL " << name << " appears ! (FragTrap constructor called)" << std::endl;
 }
 
 FragTrap::FragTrap(const FragTrap &clapTrap)
 {
 	*this = clapTrap;
-	std::cout << "A MYTHICAL copy appears !" << std::endl;
+	std::cout << "A MYTHICAL copy appears ! (FragTrap constructor copy called)" << std::endl;
 }
 
 FragTrap::~FragTrap()
 {
-	std::cout << "the MYTHICAL disappears !" << std::endl;
+	std::cout << "the MYTHICAL disappears ! (FragTrap destructor called)" << std::endl;
 }
 
 FragTrap	&FragTrap::operator=(const FragTrap &fragTrap)
@@ -58,7 +58,7 @@ FragTrap	&FragTrap::operator=(const FragTrap &fragTrap)
 
 void FragTrap::guardGate()
 {
-	std::cout << "FragTrap has entered defensive mode !" << std::endl;
+	std::cout << "FragTrap " << this->_name <<" entered defensive mode !" << std::endl;
 }
 
 void FragTrap::attack(const std::string& target)
@@ -76,17 +76,18 @@ void FragTrap::attack(const std::string& target)
 
 void FragTrap::highFivesGuys(void)
 {
-	std::string command;
+	// std::string command;
 
-	std::cout << "FragTrap " << this->_name << " want to be your friend ! would you be their friend ? ('Yes' or 'No')" << std::endl;
-	std::getline(std::cin, command);
-	if (command == "Yes")
-		{
-			std::cout << this->_name << " is happy to hear it :D" << std::endl;
-		}
-	else
-		{
-			std::cout << this->_name << " don't understand and use Draco Meteor. It's very effective, you lost 180 HP." << std::endl;
-			std::cout << std::endl << "You just died :O" << std::endl;
-		}
+	std::cout << "FragTrap " << this->_name << " give you an high fives !" << std::endl << std::endl;
+	// std::cout << "FragTrap " << this->_name << " want to be your friend ! would you be their friend ? ('Yes' or 'No')" << std::endl;
+	// std::getline(std::cin, command);
+	// if (command == "Yes")
+	// 	{
+	// 		std::cout << this->_name << " is happy to hear it :D" << std::endl;
+	// 	}
+	// else
+	// 	{
+	// 		std::cout << this->_name << " don't understand and use Draco Meteor. It's very effective, you lost 180 HP." << std::endl;
+	// 		std::cout << std::endl << "You just died :O" << std::endl;
+	// 	}
 }

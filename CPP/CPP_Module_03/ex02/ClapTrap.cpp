@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/27 13:36:02 by tdutel            #+#    #+#             */
-/*   Updated: 2023/07/28 13:29:27 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/06 15:08:01 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,23 +16,23 @@
 
 ClapTrap::ClapTrap(void)
 {
-	std::cout << "ClapTrap spawns !" << std::endl;
+	std::cout << "ClapTrap spawns ! (ClapTrap constructor called)" << std::endl;
 }
 
 ClapTrap::ClapTrap(const ClapTrap &clapTrap)
 {
 	*this = clapTrap;
-	std::cout << "ClapTrap copy spawns !" << std::endl;
+	std::cout << "ClapTrap copy spawns ! (ClapTrap constructor copy called)" << std::endl;
 }
 
 ClapTrap::ClapTrap(std::string name) : _name(name)
 {
-	std::cout << _name << " spawns !" << std::endl;
+	std::cout << _name << " spawns ! (ClapTrap constructor called)" << std::endl;
 }
 
 ClapTrap::~ClapTrap()
 {
-	std::cout << _name << " despawns !" << std::endl;
+	std::cout << _name << " despawns ! (ClapTrap destructor called)" << std::endl;
 }
 
 	// get set //

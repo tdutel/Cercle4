@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/23 11:48:35 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/06 16:26:52 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/08 12:03:28 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -71,14 +71,14 @@ bool Fixed::operator<=(const Fixed& other)
 
 bool Fixed::operator==(const Fixed& other)
 {
-	if (this->_raw = other._raw)
+	if (this->_raw == other._raw)
 		return (true);
 	return (false);
 }
 
 bool Fixed::operator!=(const Fixed& other)
 {
-	if (this->_raw = other._raw)
+	if (this->_raw == other._raw)
 		return (false);
 	return (true);
 }

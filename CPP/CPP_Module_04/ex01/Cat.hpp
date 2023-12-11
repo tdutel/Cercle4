@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:16:38 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:29:11 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/11 15:24:07 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,9 @@ class Cat : public Animal
 
 // operator //
 	Cat	&operator=(const Cat &other);
-	
+
+	private:
+	Brain *brain;
 };
 
 #endif

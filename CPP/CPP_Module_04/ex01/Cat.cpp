@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:17:38 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:29:15 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/11 15:36:43 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,6 +28,7 @@ Cat::Cat(const Cat &cpy) : Animal(cpy)
 
 Cat::~Cat()
 {
+	// delete[] this->brain;
 	std::cout << "Cat Destructor called" << std::endl;
 }
 

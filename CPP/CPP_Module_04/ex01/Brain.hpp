@@ -1,34 +1,37 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   Dog.hpp                                            :+:      :+:    :+:   */
+/*   Brain.hpp                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/10/09 12:51:11 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 15:24:15 by tdutel           ###   ########.fr       */
+/*   Created: 2023/12/11 15:04:09 by tdutel            #+#    #+#             */
+/*   Updated: 2023/12/11 15:30:10 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef DOG_HPP
-# define DOG_HPP
+#ifndef BRAIN_HPP
+# define BRAIN_HPP
 
 # include <iostream>
-# include "Animal.hpp"
+# include <algorithm>
 
-class Dog : public Animal
+class Brain
 {
-	public:
+
+public:
 	
-	Dog(void);
-	Dog(const Dog &cpy);
-	~Dog();
+	Brain();
+	Brain(const Brain &cpy);
+	~Brain();
 
 // operator //
-	Dog	&operator=(const Dog &other);
-	
-	private:
-	Brain *brain;
-};
+	Brain	&operator=(const Brain &other);
 
-#endif
+
+protected:
+	std::string	ideas[100];
+	
+};
+# endif
+

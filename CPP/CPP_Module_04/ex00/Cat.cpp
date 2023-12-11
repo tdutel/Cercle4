@@ -1,37 +1,37 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   Dog.cpp                                            :+:      :+:    :+:   */
+/*   Cat.cpp                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/10/09 12:56:59 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:28:58 by tdutel           ###   ########.fr       */
+/*   Created: 2023/12/11 13:17:38 by tdutel            #+#    #+#             */
+/*   Updated: 2023/12/11 13:29:15 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "Dog.hpp"
+#include "Cat.hpp"
 
 	// Constructor Destructor //
 
-Dog::Dog(void)
+Cat::Cat(void)
 {
-	this->type = "Dog";
-	std::cout << "Dog Constructor called" << std::endl;
+	this->type = "Cat";
+	std::cout << "Cat Constructor called" << std::endl;
 }
 
-Dog::Dog(const Dog &cpy) : Animal(cpy)
+Cat::Cat(const Cat &cpy) : Animal(cpy)
 {
-	this->type = "Dog";
-	std::cout << "Dog Constructor called" << std::endl;
+	this->type = "Cat";
+	std::cout << "Cat Constructor called" << std::endl;
 }
 
-Dog::~Dog()
+Cat::~Cat()
 {
-	std::cout << "Dog Destructor called" << std::endl;
+	std::cout << "Cat Destructor called" << std::endl;
 }
 
-Dog &Dog::operator=(const Dog& other)
+Cat &Cat::operator=(const Cat& other)
 {
 	this->type = other.type;
 	std::cout << "Copy assignment operator called" << std::endl;

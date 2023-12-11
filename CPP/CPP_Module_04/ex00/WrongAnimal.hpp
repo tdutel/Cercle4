@@ -1,32 +1,44 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   Dog.hpp                                            :+:      :+:    :+:   */
+/*   WrongAnimal.hpp                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/10/09 12:51:11 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:28:53 by tdutel           ###   ########.fr       */
+/*   Created: 2023/12/11 13:38:21 by tdutel            #+#    #+#             */
+/*   Updated: 2023/12/11 13:46:37 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef DOG_HPP
-# define DOG_HPP
+
+#ifndef WRONGANIMAL_HPP
+# define WRONGANIMAL_HPP
 
 # include <iostream>
-# include "Animal.hpp"
 
-class Dog : public Animal
+class WrongAnimal
 {
-	public:
+
+public:
 	
-	Dog(void);
-	Dog(const Dog &cpy);
-	~Dog();
+	WrongAnimal();
+	WrongAnimal(const WrongAnimal &cpy);
+	~WrongAnimal();
 
 // operator //
-	Dog	&operator=(const Dog &other);
+	WrongAnimal	&operator=(const WrongAnimal &other);
+
+// set //
+	void setType(std::string type);
+
+// get //
+	std::string getType(void) const;
+
+// functions //
+	void makeSound(void) const ;
+
+protected:
+	std::string	type;
 	
 };
-
-#endif
+# endif

@@ -1,31 +1,31 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   Dog.hpp                                            :+:      :+:    :+:   */
+/*   Cat.hpp                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/10/09 12:51:11 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:28:53 by tdutel           ###   ########.fr       */
+/*   Created: 2023/12/11 13:16:38 by tdutel            #+#    #+#             */
+/*   Updated: 2023/12/11 13:29:11 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef DOG_HPP
-# define DOG_HPP
+#ifndef CAT_HPP
+# define CAT_HPP
 
 # include <iostream>
 # include "Animal.hpp"
 
-class Dog : public Animal
+class Cat : public Animal
 {
 	public:
 	
-	Dog(void);
-	Dog(const Dog &cpy);
-	~Dog();
+	Cat(void);
+	Cat(const Cat &cpy);
+	~Cat();
 
 // operator //
-	Dog	&operator=(const Dog &other);
+	Cat	&operator=(const Cat &other);
 	
 };
 

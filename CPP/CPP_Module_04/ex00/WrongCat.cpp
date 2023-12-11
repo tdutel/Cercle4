@@ -1,37 +1,37 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   Dog.cpp                                            :+:      :+:    :+:   */
+/*   WrongCat.cpp                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/10/09 12:56:59 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:28:58 by tdutel           ###   ########.fr       */
+/*   Created: 2023/12/11 13:17:38 by tdutel            #+#    #+#             */
+/*   Updated: 2023/12/11 13:29:15 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "Dog.hpp"
+#include "WrongCat.hpp"
 
 	// Constructor Destructor //
 
-Dog::Dog(void)
+WrongCat::WrongCat(void)
 {
-	this->type = "Dog";
-	std::cout << "Dog Constructor called" << std::endl;
+	this->type = "WrongCat";
+	std::cout << "WrongCat Constructor called" << std::endl;
 }
 
-Dog::Dog(const Dog &cpy) : Animal(cpy)
+WrongCat::WrongCat(const WrongCat &cpy) : WrongAnimal(cpy)
 {
-	this->type = "Dog";
-	std::cout << "Dog Constructor called" << std::endl;
+	this->type = "WrongCat";
+	std::cout << "WrongCat Constructor called" << std::endl;
 }
 
-Dog::~Dog()
+WrongCat::~WrongCat()
 {
-	std::cout << "Dog Destructor called" << std::endl;
+	std::cout << "WrongCat Destructor called" << std::endl;
 }
 
-Dog &Dog::operator=(const Dog& other)
+WrongCat &WrongCat::operator=(const WrongCat& other)
 {
 	this->type = other.type;
 	std::cout << "Copy assignment operator called" << std::endl;

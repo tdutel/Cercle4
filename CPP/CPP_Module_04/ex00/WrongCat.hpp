@@ -1,31 +1,31 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   Dog.hpp                                            :+:      :+:    :+:   */
+/*   WrongCat.hpp                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/10/09 12:51:11 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:28:53 by tdutel           ###   ########.fr       */
+/*   Created: 2023/12/11 13:16:38 by tdutel            #+#    #+#             */
+/*   Updated: 2023/12/11 13:29:11 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef DOG_HPP
-# define DOG_HPP
+#ifndef WRONGCAT_HPP
+# define WRONGCAT_HPP
 
 # include <iostream>
-# include "Animal.hpp"
+# include "WrongAnimal.hpp"
 
-class Dog : public Animal
+class WrongCat : public WrongAnimal
 {
 	public:
 	
-	Dog(void);
-	Dog(const Dog &cpy);
-	~Dog();
+	WrongCat(void);
+	WrongCat(const WrongCat &cpy);
+	~WrongCat();
 
 // operator //
-	Dog	&operator=(const Dog &other);
+	WrongCat	&operator=(const WrongCat &other);
 	
 };
 

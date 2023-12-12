@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 12:56:59 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 15:42:41 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/12 12:35:43 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,9 +29,7 @@ Dog::Dog(const Dog &cpy) : Animal(cpy)
 
 Dog::~Dog()
 {
-	// for(int i=0;i<100;i++)
-	// 	delete this->brain[i];
-	delete [] this->brain;
+	delete this->brain;
 	std::cout << "Dog Destructor called" << std::endl;
 }
 

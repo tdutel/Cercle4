@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:17:38 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 15:36:43 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/12 12:39:46 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,7 @@
 Cat::Cat(void)
 {
 	this->type = "Cat";
+	this->brain = new Brain();
 	std::cout << "Cat Constructor called" << std::endl;
 }
 
@@ -28,7 +29,7 @@ Cat::Cat(const Cat &cpy) : Animal(cpy)
 
 Cat::~Cat()
 {
-	// delete[] this->brain;
+	delete this->brain;
 	std::cout << "Cat Destructor called" << std::endl;
 }
 

@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 15:04:09 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 15:30:10 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/12 13:49:16 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,7 @@ public:
 	~Brain();
 
 // operator //
-	Brain	&operator=(const Brain &other);
+	Brain	operator=(const Brain &other);
 
 
 protected:

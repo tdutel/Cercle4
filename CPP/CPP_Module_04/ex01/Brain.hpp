@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 15:04:09 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/12 13:49:16 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/13 13:42:46 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,6 @@
 # define BRAIN_HPP
 
 # include <iostream>
-# include <algorithm>
 
 class Brain
 {

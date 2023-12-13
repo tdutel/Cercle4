@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 15:10:24 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/13 13:42:13 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/13 15:01:56 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,10 +24,10 @@ Brain::Brain(const Brain &cpy)
 	//verifier que this est cpy ne sont pas egaux.
 	// if (*this != cpy)
 		*this = cpy;
-	for (int i = 0; i < 100; i++) {
-		this->ideas[i] = cpy.ideas[i];
+		for (int i = 0; i < 100; i++) {
+			this->ideas[i] = cpy.ideas[i];
 	}
-	std::cout << "Copy constructor called" << std::endl;
+	std::cout << "Brain Copy constructor called" << std::endl;
 }
 
 Brain::~Brain()
@@ -40,6 +40,6 @@ Brain Brain::operator=(const Brain& other)
 	for (int i = 0; i < 100; i++) {
         this->ideas[i] = other.ideas[i];
 	}
-	std::cout << "Copy assignment operator called" << std::endl;
+	std::cout << "Brain Copy assignment operator called" << std::endl;
 	return (*this);
 }

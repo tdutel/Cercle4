@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 12:56:59 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/12 12:35:43 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/13 14:58:48 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,9 @@ Dog::Dog(void)
 Dog::Dog(const Dog &cpy) : Animal(cpy)
 {
 	this->type = "Dog";
-	std::cout << "Dog Constructor called" << std::endl;
+	this->brain = new Brain();
+	*this->brain = *cpy.brain;
+	std::cout << "Dog Copy Constructor called" << std::endl;
 }
 
 Dog::~Dog()
@@ -36,6 +38,7 @@ Dog::~Dog()
 Dog &Dog::operator=(const Dog& other)
 {
 	this->type = other.type;
-	std::cout << "Copy assignment operator called" << std::endl;
+	(this->brain) = (other.brain);
+	std::cout << "Dog Copy assignment operator called" << std::endl;
 	return (*this);
 }

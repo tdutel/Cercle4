@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 13:49:12 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/12 13:38:38 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/13 14:45:26 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,7 +35,7 @@ public:
 	std::string getType(void) const;
 
 // functions //
-	void makeSound(void) const ;
+	virtual void makeSound(void) const ;
 
 protected:
 	std::string	type;

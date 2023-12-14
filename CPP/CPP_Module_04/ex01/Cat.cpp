@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:17:38 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 13:10:23 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:57:29 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,4 +49,9 @@ Cat &Cat::operator=(const Cat& other)
 	this->type = other.type;
 	std::cout << "Copy assignment operator called" << std::endl;
 	return (*this);
+}
+
+void Cat::makeSound(void) const
+{
+	std::cout << "Meow !" << std::endl;
 }

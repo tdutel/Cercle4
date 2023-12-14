@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 12:56:59 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 13:10:40 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:57:37 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -52,4 +52,9 @@ Dog &Dog::operator=(const Dog& other)
 	(this->brain) = (other.brain);
 	std::cout << "Dog Copy assignment operator called" << std::endl;
 	return (*this);
+}
+
+void Dog::makeSound(void) const
+{
+	std::cout << "Bark !" << std::endl;
 }

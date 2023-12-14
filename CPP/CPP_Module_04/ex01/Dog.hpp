@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 12:51:11 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 13:10:55 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:57:58 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,6 +32,9 @@ class Dog : public Animal
 
 // operator //
 	Dog	&operator=(const Dog &other);
+
+// functions //
+	void makeSound(void) const ;
 
 	private:
 	Brain *brain;

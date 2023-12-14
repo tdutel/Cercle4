@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 13:48:52 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 13:23:21 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 15:37:41 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,24 +16,24 @@
 
 Animal::Animal(void)
 {
-	std::cout << "Animal Constructor called" << std::endl;
+	std::cout << "\x1b[32mAnimal Constructor called\033[0m" << std::endl;
 }
 
 Animal::Animal(const Animal &cpy)
 {
 	this->type = cpy.type;
-	std::cout << "Animal Copy constructor called" << std::endl;
+	std::cout << "\x1b[32mAnimal Copy constructor called\033[0m" << std::endl;
 }
 
 Animal::~Animal()
 {
-	std::cout << "Animal Destructor called" << std::endl;
+	std::cout << "\x1b[32mAnimal Destructor called\033[0m" << std::endl;
 }
 
 Animal& Animal::operator=(const Animal& other)
 {
 	this->type = other.type;
-	std::cout << "Animal Copy assignment operator called" << std::endl;
+	std::cout << "\x1b[32mAnimal Copy assignment operator called\033[0m" << std::endl;
 	return (*this);
 }
 
@@ -49,10 +49,5 @@ std::string	Animal::getType(void) const
 
 void Animal::makeSound(void) const
 {
-	if (this->type == "Dog")
-		std::cout << "Bark !" << std::endl;
-	else if (this->type == "Cat")
-		std::cout << "Meow !" << std::endl;
-	else
-		std::cout << "*unknown cry*" << std::endl;
+	std::cout << "\x1b[35m*unknown cry*\033[0m" << std::endl;
 }

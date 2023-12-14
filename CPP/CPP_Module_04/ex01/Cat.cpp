@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:17:38 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 13:57:29 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 15:38:21 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,19 +18,21 @@ Cat::Cat(void)
 {
 	this->type = "Cat";
 	this->brain = new Brain();
-	std::cout << "Cat Constructor called" << std::endl;
+	std::cout << "\x1B[34mCat Constructor called\033[0m" << std::endl;
+	// std::cout << "idea 0 :" << this->getIdeas(50) << std::endl;
+	// std::cout <<  "idea 1 :" << this->getIdeas(71) << std::endl;
 }
 
 Cat::Cat(const Cat &cpy) : Animal(cpy)
 {
 	this->type = "Cat";
-	std::cout << "Cat Constructor called" << std::endl;
+	std::cout << "\x1B[34mCat Constructor called\033[0m" << std::endl;
 }
 
 Cat::~Cat()
 {
 	delete this->brain;
-	std::cout << "Cat Destructor called" << std::endl;
+	std::cout << "\x1B[34mCat Destructor called\033[0m" << std::endl;
 }
 
 void	Cat::setIdeas(std::string ideas, int i)
@@ -53,5 +55,5 @@ Cat &Cat::operator=(const Cat& other)
 
 void Cat::makeSound(void) const
 {
-	std::cout << "Meow !" << std::endl;
+	std::cout << "\x1B[34mMeow !\033[0m" << std::endl;
 }

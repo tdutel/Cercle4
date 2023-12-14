@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 12:56:59 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 13:57:37 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 15:33:41 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ Dog::Dog(void)
 {
 	this->type = "Dog";
 	this->brain = new Brain();
-	std::cout << "Dog Constructor called" << std::endl;
+	std::cout << "\x1b[31mDog Constructor called\033[0m" << std::endl;
 }
 
 Dog::Dog(const Dog &cpy) : Animal(cpy)
@@ -26,13 +26,13 @@ Dog::Dog(const Dog &cpy) : Animal(cpy)
 	this->type = "Dog";
 	this->brain = new Brain();
 	*this->brain = *cpy.brain;
-	std::cout << "Dog Copy Constructor called" << std::endl;
+	std::cout << "\x1b[31mDog Copy Constructor called\033[0m" << std::endl;
 }
 
 Dog::~Dog()
 {
 	delete this->brain;
-	std::cout << "Dog Destructor called" << std::endl;
+	std::cout << "\x1b[31mDog Destructor called\033[0m" << std::endl;
 }
 
 void	Dog::setIdeas(std::string ideas, int i)
@@ -50,11 +50,11 @@ Dog &Dog::operator=(const Dog& other)
 {
 	this->type = other.type;
 	(this->brain) = (other.brain);
-	std::cout << "Dog Copy assignment operator called" << std::endl;
+	std::cout << "\x1b[31mDog Copy assignment operator called\033[0m" << std::endl;
 	return (*this);
 }
 
 void Dog::makeSound(void) const
 {
-	std::cout << "Bark !" << std::endl;
+	std::cout << "\x1b[31mBark !\033[0m" << std::endl;
 }

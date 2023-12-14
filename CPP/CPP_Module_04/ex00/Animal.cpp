@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 13:48:52 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 12:33:08 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:48:43 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,10 +49,5 @@ std::string	Animal::getType(void) const
 
 void Animal::makeSound(void) const
 {
-	if (this->type == "Dog")
-		std::cout << "Bark !" << std::endl;
-	else if (this->type == "Cat")
-		std::cout << "Meow !" << std::endl;
-	else
-		std::cout << "*unknown cry*" << std::endl;
+	std::cout << "*unknown cry*" << std::endl;
 }

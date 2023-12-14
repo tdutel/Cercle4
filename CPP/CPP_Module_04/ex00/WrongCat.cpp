@@ -37,3 +37,13 @@ WrongCat &WrongCat::operator=(const WrongCat& other)
 	std::cout << "Copy assignment operator called" << std::endl;
 	return (*this);
 }
+
+void WrongCat::makeSound(void) const
+{
+	// if (this->type == "WrongDog")
+	// 	std::cout << "I'm a dog !" << std::endl;
+	// else if (this->type == "WrongCat")
+std::cout << "I'm a cat !" << std::endl;
+	// else
+		// std::cout << "*unknown cry*" << std::endl;
+}

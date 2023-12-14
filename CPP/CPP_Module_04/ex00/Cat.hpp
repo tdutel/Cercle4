@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:16:38 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:29:11 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:46:17 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,9 @@ class Cat : public Animal
 
 // operator //
 	Cat	&operator=(const Cat &other);
-	
+
+// functions //
+	void makeSound(void) const ;	
 };
 
 #endif

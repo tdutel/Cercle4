@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 15:10:24 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/13 15:01:56 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:09:20 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,6 @@ Brain::Brain(const Brain &cpy)
 {
 	//verifier que this est cpy ne sont pas egaux.
 	// if (*this != cpy)
-		*this = cpy;
 		for (int i = 0; i < 100; i++) {
 			this->ideas[i] = cpy.ideas[i];
 	}
@@ -34,6 +33,18 @@ Brain::~Brain()
 {
 	std::cout << "Brain Destructor called" << std::endl;
 }
+
+
+void	Brain::setIdeas(std::string ideas, int i)
+{
+		this->ideas[i] = ideas;
+}
+
+std::string	Brain::getIdeas(int i) const
+{
+	return (this->ideas[i]);
+}
+
 
 Brain Brain::operator=(const Brain& other)
 {

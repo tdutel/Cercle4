@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 12:56:59 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/13 14:58:48 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:10:40 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,6 +34,17 @@ Dog::~Dog()
 	delete this->brain;
 	std::cout << "Dog Destructor called" << std::endl;
 }
+
+void	Dog::setIdeas(std::string ideas, int i)
+{
+		this->brain->setIdeas(ideas, i);
+}
+
+std::string	Dog::getIdeas(int i) const
+{
+	return (this->brain->getIdeas(i));
+}
+
 
 Dog &Dog::operator=(const Dog& other)
 {

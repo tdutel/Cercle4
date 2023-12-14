@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 13:48:52 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/13 13:50:55 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 12:33:08 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 	// Constructor Destructor //
 
-Animal::Animal(void)
+Animal::Animal(void) : type("Animal")
 {
 	std::cout << "Animal Constructor called" << std::endl;
 }

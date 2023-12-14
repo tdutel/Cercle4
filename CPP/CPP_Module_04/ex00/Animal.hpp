@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 13:49:12 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/13 13:48:56 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:23:07 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ public:
 	
 	Animal();
 	Animal(const Animal &cpy);
-	~Animal();
+	virtual ~Animal();
 
 // operator //
 	Animal	&operator=(const Animal &other);

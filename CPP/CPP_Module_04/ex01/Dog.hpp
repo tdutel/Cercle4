@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 12:51:11 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/12 13:39:37 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:10:55 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,6 +23,12 @@ class Dog : public Animal
 	Dog(void);
 	Dog(const Dog &cpy);
 	~Dog();
+
+// set //
+	void setIdeas(std::string type, int i);
+
+// get //
+	std::string getIdeas(int i) const;
 
 // operator //
 	Dog	&operator=(const Dog &other);

@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:17:38 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/12 12:39:46 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:10:23 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,6 +32,17 @@ Cat::~Cat()
 	delete this->brain;
 	std::cout << "Cat Destructor called" << std::endl;
 }
+
+void	Cat::setIdeas(std::string ideas, int i)
+{
+		this->brain->setIdeas(ideas, i);
+}
+
+std::string	Cat::getIdeas(int i) const
+{
+	return (this->brain->getIdeas(i));
+}
+
 
 Cat &Cat::operator=(const Cat& other)
 {

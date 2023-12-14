@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 13:49:26 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/13 14:55:54 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:22:37 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,30 +20,34 @@
 int main()
 {
 
-// Animal *array[20];
+Animal *array[20];
 
-// for (size_t i = 0; i < 10; i++)
-// {
-// 	array[i] = new Dog();
-// }
-// for (size_t i = 10; i < 20; i++)
-// {
-// 	array[i] = new Cat();
-// }
-
-// for (size_t i = 0; i < 20; i++)
-// {
-// 	std::cout << "Animal[" << i << "]: " << array[i]->getType() << ": ";
-// 	array[i]->makeSound();
-// }
-
+for (size_t i = 0; i < 10; i++)
+{
+	array[i] = new Dog();
+}
+for (size_t i = 10; i < 20; i++)
+{
+	array[i] = new Cat();
+}
 
 // for (size_t i = 0; i < 20; i++)
 // {
-// 	delete array[i];
+// 	array[i]->
+	
 // }
 
-Dog basic;
-Dog tmp = basic;
+for (size_t i = 0; i < 20; i++)
+{
+	std::cout << "Animal[" << i << "]: " << array[i]->getType() << ": ";
+	array[i]->makeSound();
+}
+
+
+for (size_t i = 0; i < 20; i++)
+{
+	delete array[i];
+}
+	
 return (0);
 }

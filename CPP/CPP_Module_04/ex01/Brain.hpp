@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 15:04:09 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/13 13:42:46 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/14 13:07:23 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,6 +23,12 @@ public:
 	Brain();
 	Brain(const Brain &cpy);
 	~Brain();
+
+// set //
+	void setIdeas(std::string type, int i);
+
+// get //
+	std::string getIdeas(int i) const;
 
 // operator //
 	Brain	operator=(const Brain &other);

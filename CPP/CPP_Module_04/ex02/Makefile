@@ -6,7 +6,7 @@
 #    By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/09/26 13:52:16 by tdutel            #+#    #+#              #
-#    Updated: 2023/12/15 13:19:51 by tdutel           ###   ########.fr        #
+#    Updated: 2023/12/15 16:04:09 by tdutel           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -30,7 +30,6 @@ $(NAME) : $(OBJ)
 
 clean :
 	rm -f $(OBJ)
-	rm -f *.replace
 
 fclean : 
 	$(MAKE) clean

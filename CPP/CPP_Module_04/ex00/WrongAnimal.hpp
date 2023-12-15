@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:38:21 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 13:50:21 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/15 12:51:18 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,7 @@ public:
 	
 	WrongAnimal();
 	WrongAnimal(const WrongAnimal &cpy);
-	~WrongAnimal();
+	virtual ~WrongAnimal();
 
 // operator //
 	WrongAnimal	&operator=(const WrongAnimal &other);

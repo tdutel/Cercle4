@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 12:56:59 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 15:33:41 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/15 11:45:08 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,9 +23,8 @@ Dog::Dog(void)
 
 Dog::Dog(const Dog &cpy) : Animal(cpy)
 {
-	this->type = "Dog";
-	this->brain = new Brain();
-	*this->brain = *cpy.brain;
+	this->type = cpy.type;
+	this->brain = new Brain(*cpy.brain);
 	std::cout << "\x1b[31mDog Copy Constructor called\033[0m" << std::endl;
 }
 

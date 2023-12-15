@@ -24,9 +24,21 @@ class WrongCat : public WrongAnimal
 	WrongCat(const WrongCat &cpy);
 	~WrongCat();
 
+// set //
+	void setIdeas(std::string type, int i);
+
+// get //
+	std::string getIdeas(int i) const;
+
 // operator //
 	WrongCat	&operator=(const WrongCat &other);
-	
+
+// functions //
+
+	void makeSound(void) const ;
+
+	private:
+	Brain *brain;
 };
 
 #endif

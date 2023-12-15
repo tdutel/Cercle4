@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 15:10:24 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/14 15:18:14 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/15 11:55:16 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,13 +17,9 @@
 Brain::Brain(void)
 {
 	std::cout << "Brain Constructor called" << std::endl;
-	for (size_t i = 0; i < 100; i = i + 2)
+	for (size_t i = 0; i < 100; i++)
 	{
-		this->setIdeas("eat", i);
-	}
-	for (size_t i = 1; i < 101; i = i + 2)
-	{
-		this->setIdeas("play", i);
+		this->setIdeas("nothing", i);
 	}
 }
 

@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:38:52 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:49:16 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/15 12:40:01 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,24 +16,24 @@
 
 WrongAnimal::WrongAnimal(void)
 {
-	std::cout << "WrongAnimal Constructor called" << std::endl;
+	std::cout << "\x1b[32mWrongAnimal Constructor called\033[0m" << std::endl;
 }
 
 WrongAnimal::WrongAnimal(const WrongAnimal &cpy)
 {
 	this->type = cpy.type;
-	std::cout << "Copy constructor called" << std::endl;
+	std::cout << "\x1b[32mWrongAnimal Copy constructor called\033[0m" << std::endl;
 }
 
 WrongAnimal::~WrongAnimal()
 {
-	std::cout << "WrongAnimal Destructor called" << std::endl;
+	std::cout << "\x1b[32mAnimal Destructor called\033[0m" << std::endl;
 }
 
 WrongAnimal& WrongAnimal::operator=(const WrongAnimal& other)
 {
 	this->type = other.type;
-	std::cout << "Copy assignment operator called" << std::endl;
+	std::cout << "\x1b[32mWrongAnimal Copy assignment operator called\033[0m" << std::endl;
 	return (*this);
 }
 
@@ -49,10 +49,5 @@ std::string	WrongAnimal::getType(void) const
 
 void WrongAnimal::makeSound(void) const
 {
-	if (this->type == "WrongDog")
-		std::cout << "I'm a dog !" << std::endl;
-	else if (this->type == "WrongCat")
-		std::cout << "I'm a cat !" << std::endl;
-	else
-		std::cout << "*unknown cry*" << std::endl;
+	std::cout << "\x1b[35m*wrong unknown cry*\033[0m" << std::endl;
 }

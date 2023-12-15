@@ -6,7 +6,7 @@
 /*   By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 13:38:21 by tdutel            #+#    #+#             */
-/*   Updated: 2023/12/11 13:46:37 by tdutel           ###   ########.fr       */
+/*   Updated: 2023/12/15 12:37:42 by tdutel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 # define WRONGANIMAL_HPP
 
 # include <iostream>
+# include "Brain.hpp"
 
 class WrongAnimal
 {
@@ -23,7 +24,7 @@ public:
 	
 	WrongAnimal();
 	WrongAnimal(const WrongAnimal &cpy);
-	~WrongAnimal();
+	virtual ~WrongAnimal();
 
 // operator //
 	WrongAnimal	&operator=(const WrongAnimal &other);
@@ -35,7 +36,7 @@ public:
 	std::string getType(void) const;
 
 // functions //
-	void makeSound(void) const ;
+	virtual void makeSound(void) const ;
 
 protected:
 	std::string	type;

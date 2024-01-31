@@ -1,0 +1,29 @@
+/* XPM */
+static char *nether_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #190D10",
+". c #211114",
+"X c #291519",
+"o c #30181C",
+"O c #38181E",
+"+ c #3E1E24",
+"@ c #44242A",
+/* pixels */
+"                ",
+"++@+.+@@@+++.@++",
+"oXoO OoooooO +oo",
+"oOoX.ooXXooX.ooo",
+"   ...     ...  ",
+".+@@@+OO.+++O++O",
+" +Oooooo @Oooooo",
+".OooooXX.OooXOoX",
+"..     ...     .",
+"OO.@@O.@OO.@OO.O",
+"oo Ooo @oo Ooo O",
+"Xo.Ooo.OoX.ooo.O",
+" ... ... ... ...",
+"O@OO.O@@@@OO.@@O",
+"oooo OoooOOo ooo",
+"ooXX ooooooo ooo"
+};

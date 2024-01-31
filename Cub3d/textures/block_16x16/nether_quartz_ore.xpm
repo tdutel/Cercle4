@@ -1,0 +1,34 @@
+/* XPM */
+static char *nether_quartz_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 12 1 ",
+"  c #411616",
+". c #511515",
+"X c #501B1B",
+"o c #572121",
+"O c #652828",
+"+ c #723232",
+"@ c #6F5843",
+"# c #854242",
+"$ c #AC716A",
+"% c #B6A48E",
+"& c #D4CABA",
+"* c #EAE5DE",
+/* pixels */
+".o.XOX++OO OO+Oo",
+"oOOoX XO++. OOX.",
+"+O+Oo +$&%X.OXO+",
+"#+O++*&&$++o.OXO",
+"+#++*&$+#O++X+Oo",
+".++$%@+#$&$@OO+O",
+".O++@+@*&%@.O+$+",
+"+o. X$%$@++OX*%#",
+"OXO+%*$.OO++&*$+",
+"XO+#*&+XO+O+*%@X",
+"o+O&%@ X+$++@+ X",
+"OX+$@X. $*+.+XoX",
+".O+OX+O%&%.+O%O.",
+"o+O++#+$%Xo$%#+.",
+"XO++#OXo$ O+O+OO",
+"XXO++XO+o XO++OO"
+};

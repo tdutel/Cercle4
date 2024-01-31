@@ -1,0 +1,29 @@
+/* XPM */
+static char *big_dripleaf_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #42552D",
+". c #50692C",
+"X c #70922D",
+"o c #6C8031",
+"O c #84A83C",
+"+ c #98C440",
+"@ c None",
+/* pixels */
+".XOOOOOoXOOOOOX.",
+".XOO+++XO++OOOX.",
+" XXOO++oX+OOOXX ",
+" oXOOOOoOOOOOXo ",
+"@ XOOOOoXOOOOX @",
+"@ oXOOO.XOOOXo @",
+"@ XoXOO.oOOXoX @",
+"@.XOOOOoXOOOOX.@",
+" oXOO+OoOOOOOXo ",
+"..oOOOOoOOOOOo..",
+".ooXOOO.XOOOXoo.",
+" oXoXXO.oOXXoXo ",
+"@.XXXOOoXOOXXX.@",
+"@ oXXXX.oXXXXo @",
+"@@ .oo.  .oo. @@",
+"@@@    @@    @@@"
+};

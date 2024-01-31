@@ -1,0 +1,30 @@
+/* XPM */
+static char *stripped_crimson_stem_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #7E3A56",
+". c #863E5A",
+"X c #803853",
+"o c #5C3042",
+"O c #6A344B",
+"+ c #943F61",
+"@ c #89395B",
+"# c #4B2737",
+/* pixels */
+"X@@X+XXX+++@@@X+",
+"X.... . +  ....X",
+"X.##ooOoOOOOoo+@",
+"X.#++.... ...o.X",
+"X o.        .O X",
+"+.O. ooOOoo .o @",
+"X o  #    o  o.@",
+"X O. o OO O .O @",
+"X O. o Oo o .o X",
+"X O. o    O  o +",
+"@ o. oo#oOO .O +",
+"X O.        .o +",
+"X.O.. .....+.o X",
+"X.OoOooooooooo.X",
+"X...  .  +  ...@",
+"XX@XXXXXXXXXXXXX"
+};

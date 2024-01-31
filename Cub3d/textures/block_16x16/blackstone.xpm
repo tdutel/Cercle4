@@ -1,0 +1,28 @@
+/* XPM */
+static char *blackstone[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #160F10",
+". c #20131C",
+"X c #27221C",
+"o c #312C36",
+"O c #3C3947",
+"+ c #4E4B54",
+/* pixels */
+"oXX.. o. XoOoX.o",
+"XooXoo..oooOOo .",
+" .XXX..XooOOOX. ",
+".XoooX.oOOO+X.X ",
+"XooOOOX.o++X..X ",
+"OOOO+oXX..O. X  ",
+"oO++o X.X.X  o.X",
+"ooX.  XooXXoO..X",
+"ooX..XoOo. ..X.X",
+"XX..X..X. .XooX.",
+".ooo.  .XOOOOOo ",
+"XoOOoX. Xo++OoXX",
+"ooOOOoX.X.ooX..X",
+"OOO+o  XX..o...o",
+"O++o.  . X.X..XO",
+"XXo.   X. XXXXXo"
+};

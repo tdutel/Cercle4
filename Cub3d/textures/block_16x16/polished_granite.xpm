@@ -1,0 +1,31 @@
+/* XPM */
+static char *polished_granite[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #4D352C",
+". c #5F4034",
+"X c #7F5646",
+"o c #926251",
+"O c #9F6B58",
+"+ c #A97764",
+"@ c #B48877",
+"# c #B49B91",
+"$ c #C99781",
+/* pixels */
+"$$$$#$@$@@$@@+@+",
+"$OooOOoO+OOOooOo",
+"#O#OO++OOOXOO@O.",
+"$OOOXOoooO++ooOX",
+"$OOOOOO+ooOOOOoX",
+"@XoOooOOOOo#oOOX",
+"$oO++Oo@OOOOOOo.",
+"$OOOOOOXoOO++OOX",
+"@oOXXoOO++OOoo@o",
+"@OOOOooOOooOOOOX",
+"#oOOOOOOOO@OooOX",
+"$OO#ooOOXOOOOXo.",
+"$O++OOOOO++OooO.",
+"@ooOOoX@OOoOO++X",
+"@OOOoOOOooOOO#O.",
+"X...  ... ....  "
+};

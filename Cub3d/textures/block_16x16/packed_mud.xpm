@@ -1,0 +1,28 @@
+/* XPM */
+static char *packed_mud[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #7D5B45",
+". c #755448",
+"X c #89654D",
+"o c #957150",
+"O c #9B775B",
+"+ c #A7815A",
+/* pixels */
+"XX XX.OoXXooXX .",
+"OOXX  XX+OX OoX ",
+"+oX OooXOOoXoXXO",
+"ooX+OOoXXXoX . X",
+"X XOoXXOooXXXX  ",
+"oXXXX XooXXXX+OO",
+"o. X+OoXXOOXXoOo",
+"XOOXXooX Oo XooX",
+" OoOX XoXXXXXX.X",
+"oXX XXOOoXOOXXXO",
+"XOOoXOOoXOOo O+o",
+"XooX XX .+oo Ooo",
+"  X  XOOOXoXXooo",
+"X.+OOXoOoXXX ooX",
+"O OOooXXX +OoXXO",
+"oXXooXOOoXOoo XO"
+};

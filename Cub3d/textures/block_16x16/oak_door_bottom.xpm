@@ -1,0 +1,31 @@
+/* XPM */
+static char *oak_door_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #513D24",
+". c #67502C",
+"X c #7E6237",
+"o c #6B6F7A",
+"O c #967441",
+"+ c #A6824D",
+"@ c #B58D50",
+"# c #B8945F",
+"$ c #808B95",
+/* pixels */
+"oO.OOXX@.OO  @OX",
+"+OX+@@@+X+@@@+O.",
+"+O++OOXXOOOXXOO.",
+"#O ....O ....+O ",
+"#O.OOOO+.OOOO+OX",
+"#O.OOOX@.OOOX@O.",
+"#O.OOXX@.OOXX@O.",
+"#OX+@@@+X+@@@+X ",
+"+O+++OXXO++OXXXX",
+"#O ....OX....+O.",
+"$O.OOOO+.OOOO+O.",
+"oO.OOOX@.OOOX@O ",
+"+O.OOXX@.OOXX@OX",
+"+OX+@@@+X+@@@+X.",
+"#XXO++OXXO++OXX.",
+".               "
+};

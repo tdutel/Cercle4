@@ -1,0 +1,31 @@
+/* XPM */
+static char *cactus_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #39581A",
+". c #41641E",
+"X c #426520",
+"o c #527D26",
+"O c #5B8C2B",
+"+ c #649832",
+"@ c #9FA76D",
+"# c #BABF95",
+"$ c None",
+/* pixels */
+"$$$$$$$$$$$$$$$$",
+"$ XXX XX@X XX  $",
+"$XoooXoooooooo $",
+"$XoO@XOO+OXOOoX$",
+"$XoO+oO#+Oo+OoX$",
+"$ XoO++O+O#ooo $",
+"$X@O+OO+++OOOoX$",
+"$Xo++oo++++++oX$",
+"$Xo++#o++O++OoX$",
+"$XoO+++++#Oo@oX$",
+"$ ooO++O++Oooo $",
+"$XoO+oOO++oOOoX$",
+"$XoOOo@OOOXO@oX$",
+"$ oooX ooo.ooo $",
+"$  XX XXXX XX  $",
+"$$$$$$$$$$$$$$$$"
+};

@@ -1,0 +1,30 @@
+/* XPM */
+static char *beehive_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #67502C",
+". c #7E6237",
+"X c #8A6938",
+"o c #987E47",
+"O c #AF8F55",
+"+ c #B8945F",
+"@ c #C29D62",
+"# c #8B8B8A",
+/* pixels */
+"+@@@@@@@@@@@@@@+",
+"X+OOO++++++OOO+X",
+"X++OOO++++OO+++X",
+"  .   ..  ..    ",
+" XXXXXXXXXXXXXX ",
+" XXXXXXXXXXXXXX ",
+".OOOOOOXOOOOOOO.",
+".oooooooooooooo.",
+".++XOOOOOOO+o++.",
+" #+oOO++++@@o+# ",
+".++o++++@@@@o++ ",
+".XooooooooooooX.",
+".+@@@@@o@@@@@@+.",
+" #+++OOo+++++O# ",
+".OO+++OX+OOOOOO.",
+"  . ..    .. .  "
+};

@@ -1,0 +1,31 @@
+/* XPM */
+static char *spruce_trapdoor[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #353535",
+". c #3F3F3F",
+"X c #553A1F",
+"o c #5A4424",
+"O c #664D28",
+"+ c #6B5332",
+"@ c #785836",
+"# c #686868",
+"$ c #805E36",
+/* pixels */
+"O$@o$$X$+o@$o@+O",
+"O$@o$+XO+o+@o+@O",
+"O+$X@@oO+X@+X$+O",
+" .#o.#o.#o.#o.# ",
+"OO+oO+XO+oO+XO+O",
+"O+$X+@o+$X+$X$OO",
+"O+$X@@oO+X@+X$+O",
+"O@@X@+oO+o@OX@+O",
+"O@+X@@o+OX$OX@@O",
+"O$Oo$@X+OX$+o+@O",
+"O$+o$+o$Oo$@oO$O",
+"O$$o+OX$$o$$XO+O",
+" .#X.#X.#o.#X.# ",
+"O$+o$+o$Oo$@oO$O",
+"O$@o$$X$+o@$o@+O",
+"O$@o$+XO+o+@o+@O"
+};

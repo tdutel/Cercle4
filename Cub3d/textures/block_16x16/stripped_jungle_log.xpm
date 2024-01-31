@@ -1,0 +1,29 @@
+/* XPM */
+static char *stripped_jungle_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #977C45",
+". c #9B8049",
+"X c #9F844D",
+"o c #AE8054",
+"O c #B4865A",
+"+ c #BB8D61",
+"@ c #BF9165",
+/* pixels */
+"  OOOOooXX  XOO ",
+"oooO++    OX.ooo",
+"  ooOo+++XXOO.. ",
+" ..XXooXX+XXoOOo",
+"+++O.XX+OOO+++. ",
+".OOO+.OXooXXOOO.",
+" X@@++O@+XX+X.  ",
+"  XXX++O@@++O.X ",
+"@@++OOOOXOXX  +@",
+"+@ooo+@++ +OOX  ",
+"O++OoX  ++ooO+X+",
+"OX++++O+XXO++ooo",
+"X++OOooo+OOO  O ",
+"    +++oo+ ++XOX",
+" O@@+@OOXXX XXoO",
+"oOOOo o   XX  oo"
+};

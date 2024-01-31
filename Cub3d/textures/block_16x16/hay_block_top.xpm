@@ -1,0 +1,27 @@
+/* XPM */
+static char *hay_block_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #8B7110",
+". c #947D10",
+"X c #AC8D08",
+"o c #BDA510",
+"O c #CDB208",
+/* pixels */
+"o.XX. X...XXX..X",
+" oXo.XXX X.X..oX",
+"XXXOXoXXXOoXo X ",
+" X.o O.o.X XOX .",
+". ..o.X X .X.oX.",
+" o X.X OoX X.O X",
+"XXXoO.o.X.OoX.X.",
+"Xo. XX..XO.XX .X",
+".OXooOo.X.X.OooX",
+"X.X..  oXOoX.oXX",
+".X X X.X.O.XXXX ",
+" o XXO.X oXoXO.X",
+"XOo X.X X ..o o.",
+" X XXXO..X.oXo..",
+"..X.X.oXXoOXXXo.",
+"oX.. X.X X.X.. o"
+};

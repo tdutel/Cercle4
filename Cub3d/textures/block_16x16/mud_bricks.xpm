@@ -1,0 +1,29 @@
+/* XPM */
+static char *mud_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #5E4841",
+". c #695146",
+"X c #7E5D48",
+"o c #8C674F",
+"O c #957150",
+"+ c #9D785C",
+"@ c #AB8661",
+/* pixels */
+" O+@@@+O O+@@@+O",
+".+O++OOO.+O+OOOo",
+"XO@+Oo+OXOO++OoO",
+"XO+O+OOoXOoOO+OO",
+"XOOoOOooXOOO+oOo",
+"XooOoXoX.oo+OOoX",
+".XXXXXX. XXXXXXX",
+"   . ..   ..  . ",
+"@@+o O+@@@+O.O+@",
+"+OoO.+O++++OX++O",
+"O++OXOOO+OoOXO@+",
+"++OoX+oO+@+OXO+o",
+"OoOoXOO+OOOOXOOO",
+"OOoX.XoOoOOo.oo+",
+"XXXX .XXXXXX XXX",
+"  .. ..   ..  . "
+};

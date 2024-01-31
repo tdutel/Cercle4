@@ -1,0 +1,26 @@
+/* XPM */
+static char *brown_mushroom_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #8D6850",
+". c #946D52",
+"X c #977251",
+"o c #9C795A",
+/* pixels */
+".X .XX.X.X.X.XXX",
+". ..X..XXX XXXoX",
+".XXXX .XX.. X.XX",
+"..XXX.XXXX..XXXX",
+".XXXoXXXXXX..XX ",
+". .XXXXXXX.o.XX.",
+"..XXXXXX.XXXX XX",
+"X.XXXoX. X.XX. X",
+"X.XXXXX .X.XXX.X",
+"XXXXX.X XX..X.XX",
+".XXX. X.X.X. XXX",
+".X.oX..... .X.XX",
+" XXX..XX.X  XX.X",
+" .X...XXXXX XX.X",
+"X.. .XXXoX. X..X",
+"XX. XXo.XXXXXX.."
+};

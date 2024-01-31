@@ -1,0 +1,28 @@
+/* XPM */
+static char *acacia_leaves[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #6D6A6A",
+". c gray53",
+"X c #888787",
+"o c gray62",
+"O c gray71",
+"+ c None",
+/* pixels */
+"X+OO++++ ++O+ oo",
+" +XoO+X ++oOo+oX",
+"+ +++ooX+++.X+ +",
+"X+ o+oX+OO++  +O",
+"o+XOO++OoX+ +XoO",
+"+++Xo+Xo++ ++.Oo",
+"+oo+++oOo +XO+++",
+"+oX+O++OOX+oO+OX",
+"oX+oOo+oX++O++Oo",
+"o +X.++++XXOO++X",
+"++  ++OO XOoX+ +",
+"+oX+ +XoO  ++ ++",
+"oO.++ +++ +o +XO",
+"+ooOX+ o++OOX+oO",
+"++XOo+XOO+oX +O+",
+"o+++O++Xo++++X o"
+};

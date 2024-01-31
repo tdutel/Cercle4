@@ -1,0 +1,31 @@
+/* XPM */
+static char *stripped_dark_oak_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #3B3020",
+". c #453623",
+"X c #483824",
+"o c #483924",
+"O c #493924",
+"+ c #4A3A24",
+"@ c #4E3C25",
+"# c #503D26",
+"$ c #523F27",
+/* pixels */
+" O.$$.$$o$@O$OO ",
+"  ..$o.oo$OO@O+ ",
+" .O.$o.oo$OO$++ ",
+" O$.@$@O@XO@$.O ",
+" OOO@o@$OO+$$.O ",
+" .$O@o$$OO.$@.. ",
+" .$..@$$O@.O@$. ",
+" .@..O$$O@.+@@O.",
+" .@+.@$Oo@.+o@O.",
+" ..@$@$oOO$Oo$..",
+" .o.$.@o$O$O.$. ",
+" O.$@.oo$@$O... ",
+" O.$..o$$O+O@.O ",
+" O.$.$o$o$o@$oO ",
+" ..@o@$$.$..$.. ",
+" .O@o@@o.OO.$O. "
+};

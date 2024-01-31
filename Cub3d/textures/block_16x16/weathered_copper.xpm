@@ -1,0 +1,30 @@
+/* XPM */
+static char *weathered_copper[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #6A7147",
+". c #497164",
+"X c #748D57",
+"o c #6C975C",
+"O c #64A077",
+"+ c #66A977",
+"@ c #8D8770",
+"# c #7AB799",
+/* pixels */
+"###+#++#####+Oo@",
+"#OOoo+++O@++ooX ",
+"#O#X+++O@@+o#XX ",
+"#oX O+#O@+oXX X.",
+"#XX++#+OOooXXXo.",
+"#OO+++OOooOOX@X.",
+"#O+++OOOoOOo@@X.",
+"#+++OOooOOoo@Xo.",
+"##+OOo@@OoOOOoo.",
+"#+OOo@@oO++#+Oo ",
+"#OoOooooo+#OO+o ",
+"#OoXOOOoO+OOOo+ ",
+"#o#XXO@+O@@O#XO.",
+"#XX O++O@@O+X o.",
+"#XXXO+OO@@o+Ooo ",
+"+ X  . ....  .  "
+};

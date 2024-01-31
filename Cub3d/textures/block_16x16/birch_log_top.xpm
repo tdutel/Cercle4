@@ -1,0 +1,32 @@
+/* XPM */
+static char *birch_log_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #514F47",
+". c #A59467",
+"X c #AE9F76",
+"o c #B8A875",
+"O c #C8B77A",
+"+ c #999682",
+"@ c #D7C185",
+"# c #D7CB8D",
+"$ c #EBEBE7",
+"% c white",
+/* pixels */
+"%$+$$++  +$ %$$%",
+"%@@@@O@O#OO@@@@$",
+"+@..XXoXooooXX#+",
+"$@.##@@@@O@@@X@ ",
+"+OX@OOOOOOOO@oO+",
+" @o@OXXooXXO@XO$",
+" OXOO.OOOOXOOX@$",
+"+Oo@OXOooOoO@oO%",
+"%Oo@OXOoXOXO@XO%",
+"%Oo@OXOOOOoOOXO$",
+"$OX@OXX.XooO@oO+",
+"+Oo@OOOOOOOO@XO+",
+" @o@@O@@@@@#@XO ",
+" @oXoXXXXXXXXX@ ",
+"+@@@OO@OO#OO@@@$",
+"$% ++$$%%%$++  %"
+};

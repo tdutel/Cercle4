@@ -1,0 +1,29 @@
+/* XPM */
+static char *purpur_pillar_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #BA95BA",
+". c #AC7BAC",
+"X c #9D6F9C",
+"o c #A472A3",
+"O c #906590",
+"+ c #C7A8C7",
+"@ c #B286B2",
+/* pixels */
+"+   +  .+  @+   ",
+" XX  ..o ooX+OX ",
+" X. @ooo@..X X. ",
+" @@@XXXXXXXO    ",
+"+@.X    @ @X+..X",
+" ..X ......O+..X",
+" ..X@.....oO .oX",
+".oXO ...o.oO.XXX",
+"+..X ....ooO+..X",
+" ooO .o..ooO+..X",
+" ..O@o.ooooO .oX",
+" .XOOOOOOOOO.XXX",
+"+++@++ @++  +   ",
+" XX @ooO ..o+OX ",
+" X.  .oX@ooo Xo ",
+"    oXXXoXXX    "
+};

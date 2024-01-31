@@ -1,0 +1,31 @@
+/* XPM */
+static char *stripped_spruce_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #61512D",
+". c #675631",
+"X c #6C5833",
+"o c #705934",
+"O c #795B37",
+"+ c #7D5D37",
+"@ c #7E5E38",
+"# c #826038",
+"$ c #866238",
+/* pixels */
+" .o+#O+#ooOO$...",
+" Oo#$O+OoO.+$O. ",
+" #O$Oo+#o..+O#. ",
+".#OO#o+$O.O+.#. ",
+".O.+Ooo$@O+#.OX.",
+"...$O.O#@OO#..X ",
+" .O$+..##.O#OXo.",
+" oO#+o.O$.@$+Oo.",
+" oo##ooO$.@O+OX.",
+" ooO#oO#$. O+.X ",
+" oo.OOO#@# .O.  ",
+".oO.O$O#O# .$.o.",
+".oo..#O#OOO.+Oo ",
+".o.O.##O#.O.+#o ",
+" .o+O$#.O.O.#$o ",
+".oO+$O$.O..O$O.."
+};

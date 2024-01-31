@@ -1,0 +1,23 @@
+/* XPM */
+static char *water_overlay[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 1 1 ",
+"  c #A5A5A5",
+/* pixels */
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                ",
+"                "
+};

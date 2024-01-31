@@ -1,0 +1,26 @@
+/* XPM */
+static char *cobweb[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #C4CED2",
+". c #E4E9E9",
+"X c white",
+"o c None",
+/* pixels */
+" oooooooXoooooo ",
+"oXoooo .X. oooXo",
+"oo. X ooXooXoXoo",
+"ooo.oooX ooo.ooo",
+"ooo XoX o.o.oXoo",
+"oo oo.oXoo.ooo.o",
+"oo.o oX.oXo.oo o",
+" ..X.XXX.oooXoo ",
+"o ooXoo.XX.. .X ",
+"oo oo .Xo ooXoo.",
+"ooXoo.oXooXoXo.o",
+"ooo.oXo.o XXoo o",
+"ooo .o . ooo. oo",
+"ooXooX.ooo .X.oo",
+"oXoooo .. ooooXo",
+" oooooXoooooooo "
+};

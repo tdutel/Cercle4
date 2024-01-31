@@ -1,0 +1,36 @@
+/* XPM */
+static char *fletching_table_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 14 1 ",
+"  c #493615",
+". c #684E1E",
+"X c #9E8B61",
+"o c #A59467",
+"O c #AE9F76",
+"+ c #B8A875",
+"@ c #C8B77A",
+"# c gray59",
+"$ c gray",
+"% c #D7C185",
+"& c #E4CD8E",
+"* c LightGray",
+"= c #D8D8D8",
+"- c white",
+/* pixels */
+"@@%%%&&&%&&%%%%O",
+"%+O++OO+++O+OO++",
+"%+&-&&%&%@%@%@OO",
+"OO+-*++O++OOO@+X",
+"%O-$-&&&%&&%O%+@",
+"%+-#*O%%%%%%+@O%",
+"%+*$-O%%%%%%+%+%",
+"X+-#*O%%%%%%+%+o",
+"@+-#-O%%%%%&+--O",
+"%O*#$O%%%%%&-=OO",
+"&OO#O+%&%&&-=+++",
+"X+@O#+++O+ =+%+X",
+"%+@&&&%&+ .+%&+%",
+"@++++O+++.OOO++@",
+"%%%%%%%+&++%%%%%",
+"XXXXooOOOoooXoXX"
+};

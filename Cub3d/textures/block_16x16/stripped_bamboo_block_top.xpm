@@ -1,0 +1,29 @@
+/* XPM */
+static char *stripped_bamboo_block_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #756425",
+". c #877632",
+"X c #A3913E",
+"o c #B7AB49",
+"O c #BBA84C",
+"+ c #D9C25E",
+"@ c #E3CC6A",
+/* pixels */
+"@+OO@@++@@++@@++",
+"+  X@  o@  O@  O",
+"O .X+ .X+ .X+ .X",
+"OXXO+OXX+OXX+oXX",
+"@@++@@++@+OO@@++",
+"@  O@  o+  X@  O",
+"+ .X+ .XO .X+ .X",
+"+oXX+OXXOXXO+OXX",
+"@@++@+OO@@++@@++",
+"@  o+  X@  O@  o",
+"+ .XO .X+ .X+ .X",
+"+OXXOXXo+OXX+OXX",
+"@@++@@++@@++@+OO",
+"@  O@  O@  O+  X",
+"+ .X+ .X+ .XO .X",
+"+OXX+OXX+OXXOXXo"
+};

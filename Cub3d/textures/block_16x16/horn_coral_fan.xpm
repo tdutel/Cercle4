@@ -1,0 +1,28 @@
+/* XPM */
+static char *horn_coral_fan[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #B68930",
+". c #BEA035",
+"X c #D5CB3E",
+"o c #D1B341",
+"O c #EDEC4C",
+"+ c None",
+/* pixels */
+"++++++++++++++++",
+"++++++++++++++++",
+"++++++++++++++++",
+"++++++++++++++++",
+"++++++++++++++++",
+"++++++++++++++++",
+"++++++++.+++++++",
+"+++ .++oX.+.++++",
+"++++.o+XO++o.+++",
+"+..+oX+oOo+oo+.+",
+"Xo+.XOo+XX+Xo+o.",
+"oO++oO+oX+oOo+Xo",
+"+XO+.XOXo+OX+oXX",
+".+Xo+XXo+oXo+XOo",
+"o+o.+.o. . .+.X+",
+"+X. .+..  .o.+.+"
+};

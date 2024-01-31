@@ -1,0 +1,29 @@
+/* XPM */
+static char *crimson_nylium[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #7B0000",
+". c #652828",
+"X c #723232",
+"o c #941818",
+"O c #AC2020",
+"+ c #BD3031",
+"@ c #854242",
+/* pixels */
+"@@ .XXoO. .OO oX",
+"o  X@@oo oXoooOO",
+".X @+XX oOX oOo ",
+"X.. X   oX@Xo oo",
+"@X .Oo. X@+@X X+",
+"X  o.Xo .O o@X@@",
+" o Xo@ OOoX@ X. ",
+"X XX@oOo+OX+X. o",
+"o@X o o O XX@X. ",
+"   o XX@o. X oOX",
+"o X+@X@X . .oX  ",
+"X.o@XX  .o oO Xo",
+" oOOoo oX@X oOX.",
+"  o X@oX@@@Xooo ",
+" X..oX o+@Xo X. ",
+"X@X X.  X@oOo. o"
+};

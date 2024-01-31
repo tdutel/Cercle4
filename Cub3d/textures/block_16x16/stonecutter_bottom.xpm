@@ -1,0 +1,27 @@
+/* XPM */
+static char *stonecutter_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c gray32",
+". c #6E6D6D",
+"X c #767676",
+"o c #808080",
+"O c #888788",
+/* pixels */
+"                ",
+" XoooOOooooXXX. ",
+" ooXXXoOooOOOoo ",
+" OOOooOOOOOOOOO ",
+" ..XooooOOOooXX ",
+" oooooOOOOOOooO ",
+" OOoOOOooooX.Xo ",
+" OOOooXXXoooOOO ",
+" XXoOOOOOOooooO ",
+" ooOOOOOOOOOOOO ",
+" oOOOooXX.Xoooo ",
+" .XXooOOOOOOOOo ",
+" OooooOOooOOoXX ",
+" OOOOOOOOooOooo ",
+" OoXXooooXXX.X. ",
+"                "
+};

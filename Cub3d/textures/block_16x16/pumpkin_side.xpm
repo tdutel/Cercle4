@@ -1,0 +1,28 @@
+/* XPM */
+static char *pumpkin_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #7E3D0E",
+". c #A0560B",
+"X c #AB6112",
+"o c #C46F14",
+"O c #E38A1D",
+"+ c #E3A64B",
+/* pixels */
+"ooo.ooo.XoooX.o.",
+"OOO.oOOo.OOo.OO.",
+"O++.X++O.+++.o+.",
+".O+X.+++.O++o.+o",
+".OOo.OOO.OOOO.Oo",
+".OOo.OOO.OOOO.OO",
+".OOO.OOO.OOOO.OO",
+".OOO.OOO.OOOo.OO",
+".OOO.OOO.OOOo.OO",
+".OOO.OOO OOO.oOO",
+".OOo.OOo OOO.OOO",
+".OOo OOo OOO.OOO",
+".oOo Ooo OOo Ooo",
+".oO oooo ooo oo.",
+" .o .o.. oo. .o ",
+" .. .... ..  .. "
+};

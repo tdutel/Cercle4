@@ -1,0 +1,35 @@
+/* XPM */
+static char *cherry_trapdoor[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 13 1 ",
+"  c #CD8580",
+". c #D3918D",
+"X c #D89791",
+"o c #DD9D97",
+"O c #E1A8A1",
+"+ c #E6B3AD",
+"@ c #E7BAB4",
+"# c #E7C2BB",
+"$ c #DDD9CB",
+"% c #E7CAC5",
+"& c #E2DED0",
+"* c #EEE6DE",
+"= c None",
+/* pixels */
+"%##%%%&  &%%%##+",
+"#+*##@@++@##+$+.",
+"#++@@@###++@@++.",
+"@oOOoOOoooooOOOo",
+"#+@o==.==.==%#+ ",
+"#@@X==o==o==%#+.",
+"%@@X.oOOOOo.%#@o",
+"%#@X==O==O==%@@o",
+"%##o==O==O==%+@.",
+"%##o.oOOOOo.%+@.",
+"%+#o==o==o==%++.",
+"#++X==.==.==%@+o",
+"%#%%###%%%%####+",
+"#+*@@+++#++@@$+o",
+"#+##@@@##@++@@+o",
+"+OXOOOXXXXOOXXO."
+};

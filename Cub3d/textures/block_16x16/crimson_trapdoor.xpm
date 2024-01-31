@@ -1,0 +1,29 @@
+/* XPM */
+static char *crimson_trapdoor[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #4B2737",
+". c #5C3042",
+"X c #6A344B",
+"o c #7E3A56",
+"O c #863E5A",
+"+ c #924160",
+"@ c None",
+/* pixels */
+".    .   .  .   ",
+" Oo+oO+O++++OoO.",
+" o..X....XX..Xo ",
+".O.@@@@@@@@@@.o ",
+" O ..X.    .. o.",
+" oOO++++OO++OoO.",
+" + ..    .X.. O ",
+".+.@@@@@@@@@@.o ",
+" O.@@@@@@@@@@.o ",
+" O   . .XX..  +.",
+".ooO++++o+oOOo+ ",
+" o ...X.  .   + ",
+" O.@@@@@@@@@@.O.",
+" O..X..XXX.X..+.",
+".O++Oo++++++++o.",
+".    .. .   ... "
+};

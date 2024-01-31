@@ -1,0 +1,27 @@
+/* XPM */
+static char *chiseled_quartz_block_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #DDD9CB",
+". c #E2DED0",
+"X c #EEE6DE",
+"o c #EEEAE6",
+"O c #F2EFED",
+/* pixels */
+" ooOo.OXoX.ooOX ",
+" X..   XX   ..X ",
+" X OOX oX OOX.X ",
+" X O.X OX O.X X.",
+" X ..o oX X   o.",
+" XXooo OX.XXooX ",
+"       OX...    ",
+"oXoOooOOXXXooOOO",
+"XXXXXXXXXXXXXXXX",
+"      .oX.     .",
+" OOoOo.OX.OoXXX.",
+" O ..X OX.O.. X ",
+".o X.o OX o.o X ",
+".X XoO oX XoO o ",
+" X...  oX ..  O ",
+" XXXo.OXXX.ooOX "
+};

@@ -1,0 +1,27 @@
+/* XPM */
+static char *sponge[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #9D8F39",
+". c #B7AC4F",
+"X c #C1BC4E",
+"o c #CDCE4A",
+"O c #E1E351",
+/* pixels */
+"ooo  Xo.oXoX. oO",
+"XOoXXooX .ooX oo",
+".oX XOXX  OOXXXX",
+" oXooXXoXXOO.oo.",
+" XXoOooXOoooXoo ",
+"OoXoXooOoo XoXOX",
+"oo Xoooo.XoX..oo",
+"XOXX..XooooO .oO",
+".oo.. XXXoOOoooX",
+"XoO. XXX oooooXX",
+"oXXX.XoOoo .OX X",
+"X XooXOOoO.XXoXo",
+"X .XOooooXoX.OoX",
+"XXooX X  ooXoo. ",
+"oOOoXXX. XOooX  ",
+"oOO. XOoXX XXXX."
+};

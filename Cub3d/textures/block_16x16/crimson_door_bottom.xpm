@@ -1,0 +1,32 @@
+/* XPM */
+static char *crimson_door_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #442131",
+". c #4B2737",
+"X c #5C3042",
+"o c #513F47",
+"O c #6A344B",
+"+ c #7E3A56",
+"@ c #6B5961",
+"# c #863E5A",
+"$ c #924160",
+"% c #AE4B71",
+/* pixels */
+"o###X+#++#O   XX",
+"$#$#X#$+##+.+++X",
+"$#$$X$$#$#+.++$X",
+"$$$$X$$$$$#.$$$.",
+" XXXXXXXXXXXXXX.",
+"%$$$#$$$$$$$$$$+",
+"%###++####+####O",
+"$###++####O####O",
+"##++XO+##+O++OOO",
+"XOOOXXOOXXXXXXXX",
+"@...............",
+"oOOO.OXOOOX.XOOX",
+"%+OOX+OO++OXOO+X",
+"%#++X#+$##+X+##X",
+"##$#X#$$#$#X$#$X",
+"+XOX.XOOOXX.X.X."
+};

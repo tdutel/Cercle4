@@ -1,0 +1,32 @@
+/* XPM */
+static char *yellow_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #EFAE15",
+". c #F0AE15",
+"X c #F0AF15",
+"o c #F1AF15",
+"O c #F1B015",
+"+ c #F2B015",
+"@ c #F2B016",
+"# c #F2B116",
+"$ c #F2B117",
+"% c #F2B118",
+/* pixels */
+"+XXXXXXX%o%ooooo",
+"+%XX+XXXXoX%oo@o",
+"%++XXXoXoooXoXo%",
+"X+XXX@+XXXXXo@o@",
+"X@@@@@%X@oXX@ooX",
+"@@XX%+XX@X@XooX@",
+"%++X+%@++XXX@@@o",
+"@@+%XX@+XXoo@o@o",
+"oXo%XoXX@XXXoXoX",
+"oo%oXXo@XooXoooX",
+"@oooXo@@Xoo%X%XX",
+"X@oXX%@%XXooXX%o",
+"oo%XoXoo@@@oo.%o",
+"ooX@XXooXoo%XXoo",
+"X@XooXooooo%o%o%",
+"X@%@XooXo@o@oooo"
+};

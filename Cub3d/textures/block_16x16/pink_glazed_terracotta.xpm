@@ -1,0 +1,29 @@
+/* XPM */
+static char *pink_glazed_terracotta[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #D6658F",
+". c #D97198",
+"X c #B4B3A9",
+"o c #B8B7AD",
+"O c #F38BAA",
+"+ c #F497B3",
+"@ c #F4B5CB",
+/* pixels */
+"oXo@@O@.   O@. @",
+"Xo@@. @O@@@@@@. ",
+"X@@. .@@@+O@+O@.",
+"@@. .@@+@OO@@+@@",
+"@. .@@+O@O+@@@@O",
+"O .@@@OO@+@+OO@ ",
+"@@O@+@OO@@+OO+@ ",
+".@@@O@O+@@@@@@@ ",
+" .@+O@+@+OOO+@O ",
+" .@OO@@+OOO+@@@@",
+"@@@O+@@@@@@@@. O",
+"OO@@@+OOO+@@. .@",
+"OOO@@OO+@@@. .@@",
+"@@OO@@@@@O. .@@o",
+".@@OO@..@@ .@@oo",
+" .@OO@  .@O@@Xoo"
+};

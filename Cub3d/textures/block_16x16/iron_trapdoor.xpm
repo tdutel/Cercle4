@@ -1,0 +1,30 @@
+/* XPM */
+static char *iron_trapdoor[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #B1B0B0",
+". c #B9B9B9",
+"X c #C1C1C1",
+"o c #D1CFCF",
+"O c gray84",
+"+ c gainsboro",
+"@ c #E6E6E6",
+"# c None",
+/* pixels */
+" ...XXXXXXX.... ",
+".ooooooOOoooooo.",
+".o.XXXOoo.XXXOo.",
+".oX###OooX###Oo.",
+"XoX###OooX###OoX",
+"XoX###+ooX###+oX",
+"XooOO+@OOoO+@@oX",
+"XOooooOOOOooooOX",
+"XOooooOOOOooooOX",
+"Xo.XXXOOO.XXXOoX",
+"XoX###OooX###OoX",
+".oX###OooX###OoX",
+".oX###+ooX###+o.",
+".ooO+@@oooOO+@o.",
+".ooooooOOoooooo.",
+" ....XXXXXX.... "
+};

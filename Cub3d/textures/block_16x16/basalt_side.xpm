@@ -1,0 +1,27 @@
+/* XPM */
+static char *basalt_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #1B2632",
+". c #32333D",
+"X c #3A3B48",
+"o c #4F4B4F",
+"O c gray36",
+/* pixels */
+"o XooOoOOOoOoo.o",
+". ..oOoOOOoOooXX",
+" ..ooOOOOOoOoXoo",
+"  ooOOOOoOoO.Xoo",
+"X oOoOoXooXXoo X",
+"X..OOoXXoOoXo. X",
+"...OXOXoOOoXo.Xo",
+"..o.XXooOoO.o.oX",
+".ooOoXOoOOO. Xoo",
+".oooOoOOOOOO.XOO",
+"..ooOoOOoOOo oOO",
+"..oOOoOOXoOO oO.",
+"oooOOooX.oOoXoX.",
+".oo.XoXo.ooXoOXX",
+".oXoOXOOo.oXXOoo",
+"o ooOoOOOoOoXoOo"
+};

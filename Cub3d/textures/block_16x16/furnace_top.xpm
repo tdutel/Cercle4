@@ -1,0 +1,29 @@
+/* XPM */
+static char *furnace_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #3C3B3B",
+". c #504E4E",
+"X c #5D5B5B",
+"o c #686868",
+"O c #777777",
+"+ c gray52",
+"@ c gray57",
+/* pixels */
+".... ...   .  ..",
+".XXXo++OXooO+oX.",
+".XO@@OOX+@+o++O.",
+".o@+@@XO@@@+oOO.",
+".O+@+OXoO@@@XOo ",
+" oXooX+OooO+XX. ",
+".X+@o+@@@+XX++o.",
+" O@@+o@@@o+@@@O ",
+" @@@@OO+o+@@@O+.",
+".@@@@+oo+oO+++..",
+".O@@@O+@@@+oXXo ",
+" XO+Oo@@@@@+o@O.",
+" +XXoXO+@@@O+++.",
+".O@XXOXoOOOo++O.",
+".XOoO+O.XooXoOo.",
+".... ...    ...."
+};

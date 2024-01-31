@@ -1,0 +1,27 @@
+/* XPM */
+static char *dead_fire_coral[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #746A66",
+". c #867B77",
+"X c #99938D",
+"o c #A4A09C",
+"O c None",
+/* pixels */
+"OOOOOOOOOOoOOOOO",
+"OOOOOOOOoOoOoOOO",
+"OOoOOOOOo.XOXOOO",
+"OOoOoOoOOoXX.OOO",
+"OO.XXOXO OO.OOOO",
+"OO .XXX.OO. O OO",
+"OOO  .OO   O  OO",
+"oOOOO ..  OOOOOO",
+"XOoOoOO.XOOOO OO",
+".Oo.XOO . O.OXOX",
+" .XX OOOX.O .X..",
+"O . OOO .XOOO.. ",
+"OO  . ..X..O   O",
+"OOOO ..Xo .  OOO",
+"OOOOOOOXoO  OOOO",
+"OOOOOOOoXOOOOOOO"
+};

@@ -1,0 +1,27 @@
+/* XPM */
+static char *twisting_vines_plant[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #16615B",
+". c #167E86",
+"X c #119B85",
+"o c #14B485",
+"O c None",
+/* pixels */
+"OOOO XX. OOOOOOO",
+"OOOOO XX OXoOOOO",
+"OOOOO .XoX.X.OOO",
+"OOOOOO Xoo.OOOOO",
+"OOOOOO XXoXOOOOO",
+"OOOOOO .XXX.OOOO",
+"OOOOOOO .XX.OOOO",
+"OOOOOOO XX. OOOO",
+"OOOOOOOoX.  OOOO",
+"OOOOOO.oo. OOOOO",
+"OOOoXOoo.. OOOOO",
+"OO.X.ooo. OOOOOO",
+"OOOOOXo.  OOOOOO",
+"OOOO.XX. OOOOOOO",
+"OOOOXX.  OOOOOOO",
+"OOOO ..  OOOOOOO"
+};

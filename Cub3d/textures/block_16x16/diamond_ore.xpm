@@ -1,0 +1,32 @@
+/* XPM */
+static char *diamond_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #676767",
+". c #747474",
+"X c gray50",
+"o c #239698",
+"O c #1ED0D6",
+"+ c #77E7D1",
+"@ c gray56",
+"# c #8DADB1",
+"$ c #A2A2A2",
+"% c #D5FFF6",
+/* pixels */
+"@XX@X..X. ..X@@@",
+"XX.X @@@@XX.  .X",
+"X.  O@X  .. +oXX",
+"@@@X#@ +o#@X#@..",
+".XXX.  @#X.X@.XX",
+"X@X. %+ X.%+. .@",
+"..@%+OOo#XOoXXXX",
+"@  @#$##  @#X@$$",
+" +O#@X. %+.XXX@.",
+"X##X X.+Ooo#@$$X",
+" X.XO. @##@  ...",
+"XXXXX@@@@. +o@@X",
+"X.@  X@.+%+OOo@.",
+"@@#+o .X$oO##@XX",
+"X..#@@@XX@#X...X",
+"XXXXXX.@XXXXXX@@"
+};

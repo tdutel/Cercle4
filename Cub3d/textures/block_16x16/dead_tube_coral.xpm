@@ -1,0 +1,29 @@
+/* XPM */
+static char *dead_tube_coral[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #5D5A59",
+". c #686463",
+"X c #746A66",
+"o c #7B726E",
+"O c #8A807B",
+"+ c #A4A09C",
+"@ c None",
+/* pixels */
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@XX@@@@@@",
+"@@@@XX@+  X@@@@@",
+"@@@X O@O++O@@@@@",
+"@@@OOX@XOXO@@@@@",
+"@@@.X.@.XOX@XX@@",
+"@@@  oo OX..O X@",
+"@@@ +  +..  .OO@",
+"@@. o++O.X.  ..@",
+"@X XOoOo   X OO@",
+"@X+XoOoXOO  O  O",
+"@.oXXoO+  + o+Oo",
+"@ X.XOXo++oXoooX",
+"@@ X X.oOOoXXoX ",
+"@@@ .  XooX.X  @"
+};

@@ -1,0 +1,28 @@
+/* XPM */
+static char *dead_horn_coral[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #7B726E",
+". c #867B77",
+"X c #8A807B",
+"o c #99938D",
+"O c #A4A09C",
+"+ c None",
+/* pixels */
+"++++++++++++++++",
+"++++++++++++++++",
+"+++++oo+++oo++++",
+"+++++oOo++oX++++",
+"++++++oOooo ++++",
+"+++++++ o.X++oo+",
+"+++oo+++ o+XoOX+",
+"+++XOX+++XooOo++",
+"+oo+oX+X+ .o++++",
+"+ OoooXX++ X++++",
+"++ XoOo ++ XoOo+",
+"++++ Xo+++ ooo +",
+"++X + XX + X +++",
+"+++X    X XXoO++",
+"+++++++ oXX+++++",
+"++++++++oo +++++"
+};

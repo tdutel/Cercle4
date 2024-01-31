@@ -1,0 +1,30 @@
+/* XPM */
+static char *redstone_lamp[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #311A11",
+". c #462C1B",
+"X c #5F3315",
+"o c #864E29",
+"O c #90552D",
+"+ c #935831",
+"@ c #A06036",
+"# c #AF693B",
+/* pixels */
+"                ",
+" . XooX  X@#X . ",
+"  Xo++o. oooOX  ",
+" .o@O@X  XOooo. ",
+" X@##X XO X@ooX ",
+" +O#X O+@O Xo## ",
+" XoX O@o+oo X@X ",
+"  . X@ooooOX .  ",
+"    o+oo+##O    ",
+" @X. O@o@#O .oX ",
+" +o@. X+oX .ooo ",
+" oo+o. XX .oo+o ",
+" XO@oo.  .oo#OX ",
+"  X##oX. +oO#X  ",
+" . .X+o  XoX. . ",
+"                "
+};

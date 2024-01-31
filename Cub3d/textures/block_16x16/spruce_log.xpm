@@ -1,0 +1,28 @@
+/* XPM */
+static char *spruce_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #2E1608",
+". c #2E1C0A",
+"X c #311E0B",
+"o c #3B2713",
+"O c #4D3317",
+"+ c #553A1F",
+/* pixels */
+"oXOoo Ooo oOXOo.",
+"oX+.o +.o oOXoo.",
+"o ..o +.oXoXXoo.",
+"O o.oXo.o.o XoO.",
+"OXo.o o.+.o.oXOo",
+"OoXoOXoX+.OXoXOo",
+".oXoO..oOoOooXOo",
+".o oOo.OooO.o.Oo",
+"oX +oo.Oo.O.O.Oo",
+"ooX+oo.oo.OXOo o",
+"oooOo.o o.oXOo o",
+"oXoOo.o +oo +oXo",
+"+XooO.O +.o oo.o",
+"+oXoOooXO.oXoooo",
+"OoXOooO oXoXXOoo",
+"OoXOXoOXoXooXOo."
+};

@@ -1,0 +1,33 @@
+/* XPM */
+static char *muddy_mangrove_roots_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 11 1 ",
+"  c #3C2F23",
+". c #322D36",
+"X c #3E3836",
+"o c #33323A",
+"O c #3A383D",
+"+ c #443522",
+"@ c #4E3F27",
+"# c #5A482C",
+"$ c #46403E",
+"% c #434445",
+"& c #494A4C",
+/* pixels */
+"X  OO@o+@XO@&#@ ",
+"$@#o +$+#o+#o##o",
+"%### Xo##O@#O@#$",
+"X$#@+Oo#@%##o+@%",
+"XX@+Ooo# %#@$ +X",
+"X$++oo @$O@@X+ X",
+"OO+@oO@@O$++.  $",
+"XX@@o$#+oo+ & +O",
+"o$#@O@#+oX  %++@",
+"OO#+%## $O+@oo@#",
+"$ #+&##O&%@#@X##",
+"%@# X@#%%O@##O##",
+"o##XO++O..o@@%+@",
+".@@oX +oo$%+@OO+",
+"o @O%  o$%X +oO+",
+"o  $X+  XOo +% @"
+};

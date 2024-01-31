@@ -1,0 +1,31 @@
+/* XPM */
+static char *reinforced_deepslate_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #2D2D2D",
+". c #383737",
+"X c #414141",
+"o c #4B4C4F",
+"O c #585858",
+"+ c #40576C",
+"@ c #6E757B",
+"# c #819988",
+"$ c #A2AF86",
+/* pixels */
+"$$$+   ..   +$$$",
+"$$#@.XooXX..@#$$",
+"$#+XXOOX..XoX+#$",
+"+@XXooOOOooooX@+",
+" .o..  .oX. .o. ",
+" XooXXXoOOoooXX ",
+"  XooOOOooooOOo ",
+".OOOoooXXXoOOoo.",
+".oOOOXX.  ..XoX.",
+" XoooooXoOOooX. ",
+" .XoX. .XoOOooX ",
+" ..XOOOooooooX. ",
+"+@XOOOoOOOOOoX@+",
+"$#+XXXooX.  .+#$",
+"$$#@.oXXooo.@#$$",
+"$$$+   ..   +$$$"
+};

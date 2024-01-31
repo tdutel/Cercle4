@@ -1,0 +1,33 @@
+/* XPM */
+static char *warped_door_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 11 1 ",
+"  c #113835",
+". c #483F51",
+"X c #1F5752",
+"o c #2E5F51",
+"O c #287067",
+"+ c #5E596B",
+"@ c #398382",
+"# c #3A8E8C",
+"$ c #279994",
+"% c #22B59E",
+"& c #24A7AD",
+/* pixels */
+".@%&XO$oOOX   oX",
+"#%OO$$oo@@OXXO@X",
+"%OOOXo@o##OXO##X",
+"%O@@X@@o##OXO##o",
+"%@##XOOo##OXO@@o",
+"&@##X@@o@@OX%%@O",
+"&@@OX##o@@o%OO&@",
+"#O&&X##oOO%XoXXo",
+"&%@O%O@oOo&XOO@O",
+"@Ooo%OOOoo$XO@@O",
+"+oOOX%%Oo$XXo%&o",
+".OOOXXX&$XoX%Oo&",
+"#@@@XooXoOOX&oOO",
+"&#@@X@@O@O$&oO@X",
+"&###X@@O@$OXO@@X",
+"OXXOXOXXXOoXoXXX"
+};

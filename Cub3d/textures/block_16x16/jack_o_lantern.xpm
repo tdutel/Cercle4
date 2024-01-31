@@ -1,0 +1,32 @@
+/* XPM */
+static char *jack_o_lantern[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #7E3D0E",
+". c #A05A0B",
+"X c #A46312",
+"o c #C47614",
+"O c #E3901D",
+"+ c #D4AA37",
+"@ c #E3A64B",
+"# c #FFE156",
+"$ c #FFC264",
+"% c #FEFFA1",
+/* pixels */
+"oooXooo.XoooX.o.",
+"OOOooOOoXOOoXOO.",
+"o@@o$$o@oO$OoO@.",
+".O@o$#$@o$$$Oo@o",
+".OO$###Oo$##$oOo",
+".OO$#%%Oo$%%#oOO",
+".OO$#%%oX$%%#+OO",
+".OO@%%OoX@#%%#@O",
+".OOO@Oo@oO@@O@OO",
+".OO$O$oO$oo$O$OO",
+".O$$$$%$$%$$#$OO",
+".O$##%%%%%%%###O",
+".oO$#O#%o%##o#+o",
+".oO@OO+O.OO+ OO.",
+" .o oo...o.. .o ",
+" .. .o.. ..  .. "
+};

@@ -1,0 +1,30 @@
+/* XPM */
+static char *stripped_acacia_log_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #8F4C2A",
+". c #99502B",
+"X c #935736",
+"o c #995C3B",
+"O c #A05630",
+"+ c #AD5D32",
+"@ c #BA6337",
+"# c #C26D3F",
+/* pixels */
+"ooXoooXXXooXoooo",
+"o@@@@+@+#++@@@@o",
+"X@  ..O.OOOO..#o",
+"o@ ##@@@@+@@@.@X",
+"o+.@++++++++@O+o",
+"X@O@+..OO..+@.+o",
+"X+.++ ++++.++.@X",
+"X+O@+.+OO+O+@O+o",
+"o+O@+.+O.+.+@.+o",
+"o+O@+.++++O++.+o",
+"o+.@+.. .OO+@O+o",
+"X+O@++++++++@.+o",
+"X@O@@+@@@@@#@.+X",
+"X@O.O.........@X",
+"o@@@++@++#++@@@o",
+"ooXoooXoooooXXXo"
+};

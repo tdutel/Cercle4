@@ -1,0 +1,31 @@
+/* XPM */
+static char *polished_andesite[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #5A5D5A",
+". c #6A6D73",
+"X c #737773",
+"o c #7C7F80",
+"O c #868887",
+"+ c #8B8D9C",
+"@ c #8A9090",
+"# c #A4A59C",
+"$ c #B4B2AC",
+/* pixels */
+"#$#$$$$$$$#$$#$+",
+"$OoooOOOXOOo.oO ",
+"$OOOOOOoo#@@OOo ",
+"#O.@#@ooOoOO@OO ",
+"$OOOOXO+@OooooO ",
+"$ooOOoooOXOOooo.",
+"$OOO@oO@@@++OoX ",
+"$ooOooooX.XoOOO.",
+"$O+@XOOOO@@##@@ ",
+"$OoOOooOOooOO+O ",
+"$OO@@#@ooo@@OOO ",
+"$.OOOOOO@@OO@@X ",
+"$O@@@+Oooo.oO#@ ",
+"$OOOooooOO@+ooO ",
+"$oooo@@OOOOooOO ",
+"@.        ..    "
+};

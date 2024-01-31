@@ -1,0 +1,28 @@
+/* XPM */
+static char *dead_bubble_coral_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #5D5A59",
+". c #686463",
+"X c #746A66",
+"o c #867B77",
+"O c #99938D",
+"+ c #A4A09C",
+/* pixels */
+"XXXo+OoXXOOoX..X",
+"ooXoOO+oXO+Oo.XX",
+"Oo.Xo+Oo.oOOoXoo",
+"oX .XO+o XoooOOo",
+"XoooXooX.XX.XOOX",
+"XoOOo.X.XoXoXooX",
+"ooO+OXXoOXoOOXX.",
+"oXoO+o.OoOXO+OoO",
+"X.X+Oo oOoXoOOOo",
+"X .ooX.O+O.XoooX",
+"XooXX.o+OOXooX .",
+"oOOXooOO+ooOOo. ",
+"O+OXXo+OoXoO+OX.",
+"oOOoXXooo .XOOOX",
+"XooXoOOoo.oXoOoO",
+"XXXXo+OoXXooXXOo"
+};

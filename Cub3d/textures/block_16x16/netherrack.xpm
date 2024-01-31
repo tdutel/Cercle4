@@ -1,0 +1,29 @@
+/* XPM */
+static char *netherrack[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #411616",
+". c #511515",
+"X c #501B1B",
+"o c #572121",
+"O c #652828",
+"+ c #723232",
+"@ c #854242",
+/* pixels */
+".o.XOX++OO OO+Oo",
+"oOOoX XO+X. OOX.",
+"+O+Oo .XOoX.OXO+",
+"@+O+OXo+O++o.OXO",
+"+@+OXO+@@O++X+Oo",
+".+Oo.+@@++OXOO+O",
+".O+X +O++OX.O+@+",
+"+o. XO+O..+OXO@@",
+"OXO+OXX.OO++O.O+",
+"XO+@+O XO+O++..X",
+"o+O++O X+@++X  X",
+"OXX+OX. X+O. XoX",
+".O+OX+O.XX.+O+O.",
+"o+O++@+.XXoO+@+.",
+"XO++@OXoX O+O+OO",
+"XXO++XO+o XO++OO"
+};

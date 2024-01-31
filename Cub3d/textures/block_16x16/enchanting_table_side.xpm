@@ -1,0 +1,36 @@
+/* XPM */
+static char *enchanting_table_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 14 1 ",
+"  c #000001",
+". c #06030B",
+"X c #100C1C",
+"o c #271E3D",
+"O c #6B002F",
+"+ c #7F0728",
+"@ c #3B2754",
+"# c #A22929",
+"$ c #2CCDB1",
+"% c #4AEDD1",
+"& c #A2F6E7",
+"* c #C3FBF1",
+"= c white",
+"- c None",
+/* pixels */
+"----------------",
+"----------------",
+"----------------",
+"----------------",
+"=**$OOOOOOOO$**=",
+"*&&%O+####+O%&&*",
+"*&&% O####O %&&*",
+"$%%X  O##O  X%%$",
+"  XoXX OO.XXoXXX",
+"oX  X.ooX. X.X..",
+"X.. ...X..  X. o",
+" X..X .X.@@oXXXX",
+".@@X XXXo@X.X@X.",
+"ooX... XXX... o.",
+" o..X.o..XX .  .",
+"X. X .XoX ......"
+};

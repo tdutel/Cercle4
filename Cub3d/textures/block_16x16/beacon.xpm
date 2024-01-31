@@ -1,0 +1,32 @@
+/* XPM */
+static char *beacon[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #2BB9B0",
+". c #2BCBC0",
+"X c #49D5CC",
+"o c #6FE3DC",
+"O c #9CF2ED",
+"+ c #CCECF0",
+"@ c #C4FFFE",
+"# c #D6FFFE",
+"$ c #EEFFFF",
+"% c white",
+/* pixels */
+"%%%%%%%%%%%%%%%%",
+"%     ......   +",
+"%  ....XX....  +",
+"% ..XXXoXXXX.. +",
+"%..XXXooooXXX..+",
+"%..XXoO@@OoXX..+",
+"% .XoO@##@OoX..+",
+"% XXo@#$$#@ooX.+",
+"%.Xoo@#$$#@oXX +",
+"%..XoO@##@OoX..+",
+"%..XXoO@@OoXX..+",
+"%..XXXooooXXX. +",
+"% ..XXXXoXXX.. +",
+"% .....XX..... +",
+"%     ....     +",
+"++++++++++++++++"
+};

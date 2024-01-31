@@ -1,0 +1,29 @@
+/* XPM */
+static char *cactus_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #094210",
+". c #0D6118",
+"X c #8DB04B",
+"o c #A0BF64",
+"O c #CACC70",
+"+ c #D1D37A",
+"@ c None",
+/* pixels */
+"@@@@@@@@@@@@@@@@",
+"@ ....   ....  @",
+"@.OOOO++OOOO++ @",
+"@.+OXXooooXXOO.@",
+"@.+oOO++++OOXO.@",
+"@ OXOO++++OOX+.@",
+"@.OXOOOoXOOOo+ @",
+"@.OoO+o++X+Oo+ @",
+"@ +o++o++o++oO @",
+"@ +o++OXoO++oO.@",
+"@.+oO++++OOOoO.@",
+"@.OXOO+OOOOOoO.@",
+"@.OOoXooooXX+O.@",
+"@ OOOO++++++++ @",
+"@  ... ......  @",
+"@@@@@@@@@@@@@@@@"
+};

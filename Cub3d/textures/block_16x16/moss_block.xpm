@@ -1,0 +1,28 @@
+/* XPM */
+static char *moss_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #495E27",
+". c #42552D",
+"X c #50692C",
+"o c #647233",
+"O c #70922D",
+"+ c #6C8031",
+/* pixels */
+" +.  +X  oX  XXO",
+"+.o+XoO .Xo + oo",
+". +o.  oX X+X .O",
+".XX.O+ooXX X++o ",
+" .XO oO o  +OooX",
+"XoX.ooo  +o. o o",
+"+X  Xo .oo Oo.X ",
+".+ X. +o oO+oO O",
+" X X Xo+ooo ooOo",
+"  +OXo o O+X X o",
+"X+Oo  +oo oo. Oo",
+"XX .ooo O o  oX ",
+"oXX+o O+ o X+o o",
+"X+XO o+o  +o O+o",
+" oX.+oXXoXO+o+oo",
+"o   OooXXOooX o+"
+};

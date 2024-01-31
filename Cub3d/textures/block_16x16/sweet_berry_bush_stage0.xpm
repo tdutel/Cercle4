@@ -1,0 +1,27 @@
+/* XPM */
+static char *sweet_berry_bush_stage0[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #1D3822",
+". c #295230",
+"X c #286240",
+"o c #487F4F",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOO.O XOOOOOO",
+"OOOOXOX OXX OOOO",
+"OOOOXXoX. .OOOOO",
+"OOOXOX .XOXo OOO",
+"OOOO.o. oXooOOOO",
+"OOOXX .oX. XXOOO",
+"OOOO.Ooo.XOXOOOO",
+"OOOOO X O  OOOOO"
+};

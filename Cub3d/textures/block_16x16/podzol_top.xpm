@@ -1,0 +1,28 @@
+/* XPM */
+static char *podzol_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #4A3018",
+". c #523C18",
+"X c #524C10",
+"o c #6A4418",
+"O c #8B5920",
+"+ c #AC6520",
+/* pixels */
+"o..X...  oo. o .",
+"...O.X  .o. o .o",
+".o.ooX. o..XX.+.",
+"..ooXo.ooO  o.O ",
+" oO.. .o+o.o.  o",
+" O.  .o.Oooo  .o",
+"o .oooXXoo .o...",
+"..oo.X..o.  ....",
+".o .o..o  .. ooo",
+"o o o o..o OXX.o",
+"OOooX .oo.o..X..",
+".oO.   .oo.X .Xo",
+"..    o+Oo.X.. .",
+".   ..OX. O.Oo..",
+".+O  Xo. .oo+.  ",
+"O.  ..X..o.  ..o"
+};

@@ -1,0 +1,30 @@
+/* XPM */
+static char *daylight_detector_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #2E2717",
+". c #332B1B",
+"X c #3C3322",
+"o c #3F3523",
+"O c #423724",
+"+ c #493C27",
+"@ c #4F4029",
+"# c #56452B",
+/* pixels */
+"XXXXXXXXXXXXXXXX",
+"X###@.###@.###@X",
+"X#++O.#++O.#++OX",
+"X#++O.#++O.#++OX",
+"X@OOo.@OOo.@OOoX",
+"X.... .... ....X",
+"X###@.###@.###@X",
+"X#++O.#++O.#++OX",
+"X#++O.#++O.#++OX",
+"X@OOo.@OOo.@OOoX",
+"X.... .... ....X",
+"X###@.###@.###@X",
+"X#++O.#++O.#++OX",
+"X#++O.#++O.#++OX",
+"X@OOo.@OOo.@OOoX",
+"XXXXXXXXXXXXXXXX"
+};

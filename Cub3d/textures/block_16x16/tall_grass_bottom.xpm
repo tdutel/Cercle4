@@ -1,0 +1,28 @@
+/* XPM */
+static char *tall_grass_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #676967",
+". c #737573",
+"X c #838183",
+"o c #949194",
+"O c #ACAAAC",
+"+ c None",
+/* pixels */
+"++X+o+o+O+.OoX++",
+"++o+X+o+O++O+o++",
+"++o+o+O+o++o+O++",
+"+o++O+O+X+o.+Oo+",
+"+X+XO+o+X+o++O.+",
+"oX+Xo+o o+o++o.+",
+"oo+X.+X O+X++o.+",
+".O+.++X O XX+o.+",
+"+O .+ X O .X+O +",
+"+o o+.. o .o+O  ",
+" X O+X. o. O O. ",
+"X. O o. XX O o. ",
+"o  o X o.X o Xo ",
+"o .X . o X XX o ",
+"X X. . X . .X X ",
+". .  . . . . .. "
+};

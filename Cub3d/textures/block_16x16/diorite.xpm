@@ -1,0 +1,28 @@
+/* XPM */
+static char *diorite[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #7B7B7B",
+". c #8B8B8B",
+"X c #A4A2A2",
+"o c #BEBFC1",
+"O c #CECECF",
+"+ c #E9E9E9",
+/* pixels */
+".XXXo+XXoo+XOo++",
+"X .oXX.o+oO++Oo.",
+"+.o++. .oX++OoXo",
+"+X++o.X++oX.oXX+",
+"o+.XOo.+o+oXX++X",
+"O+o+++O.ooXoo+Xo",
+"+ooXO++X.O++O. X",
+"XOo.XoXoO++++X.X",
+"oXX oX++OOoXOOX+",
+" .++X.o++.XoO+O.",
+"XOOo. .oOoo++.o ",
+"+++. .OOXX.+.Xo+",
+"X+OX+Oo++OXXoXXo",
+"X.XoOo.X+O+Oo+oX",
+"OX..++X.O++oX.XO",
+"+Xo+++O.XOOX.X++"
+};

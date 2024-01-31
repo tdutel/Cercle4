@@ -1,0 +1,30 @@
+/* XPM */
+static char *conduit[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #403621",
+". c #615331",
+"X c #807252",
+"o c #B4886B",
+"O c #B0A280",
+"+ c #BAAD96",
+"@ c #C4BDB5",
+"# c None",
+/* pixels */
+"################",
+"################",
+"##OoOO+oO+oo++##",
+"##OXXXX+oXXXX+##",
+"##o@  X+oX .++##",
+"##OX..+o+@  +o##",
+"##oXX+@..+@XXO##",
+"##+oO+.o..ooOo##",
+"##++oOoO+oooo+##",
+"##oXX@++OXX@++##",
+"##+X .@+oX .@o##",
+"##+@ X@oo+  @o##",
+"##oO++@+o++@Xo##",
+"##.OOoOoO+oOOo##",
+"################",
+"################"
+};

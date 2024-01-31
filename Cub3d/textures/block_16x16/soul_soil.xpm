@@ -1,0 +1,27 @@
+/* XPM */
+static char *soul_soil[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #352922",
+". c #3D2E25",
+"X c #49372C",
+"o c #5B4538",
+"O c #6A5244",
+/* pixels */
+"oXX..XX. ..XooOO",
+"XX. Xo. . .oXooO",
+"X.  oo.  .XXXOXo",
+"....oX  .XXXoooX",
+".  Xo XXXXooXoX.",
+" ..ooXXoooXooXX.",
+"..ooXoooOOoXXX. ",
+"XoXXooXoOoXX...X",
+"X..ooOOoXXX..XXX",
+"..ooOOoXX...ooX.",
+"oOoOOoXX..XoX...",
+"OOOoX.X..ooX  .o",
+"oOoXX...ooX. .XO",
+"OoXX.  Xoo.  XoO",
+"Oo.X  .XoX. .XOo",
+"OXX. .XXX. .XooO"
+};

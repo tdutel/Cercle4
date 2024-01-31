@@ -1,0 +1,25 @@
+/* XPM */
+static char *snow[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 3 1 ",
+"  c #F0FDFD",
+". c #F7FEFE",
+"X c white",
+/* pixels */
+".XXXX..X.XXXX...",
+"XXXXXX.  XXX.X.X",
+"XXXX.    XX XXXX",
+"XX.    XXX  .XXX",
+"XX   ..XX  .XXXX",
+"..  .X.XX. .XX.X",
+".XX.. XX.X.XXX .",
+"XX.X  .XX.XXX   ",
+"XXX. XX. .XX.  X",
+"X.  .X.   .X  .X",
+".X  XXX  .X X...",
+"X.XXXX.  .  .XX.",
+"XXXX..  ....XXXX",
+"XXX..  ...X.XX  ",
+".XX   ...XXXX  .",
+"...X....XXXX  .."
+};

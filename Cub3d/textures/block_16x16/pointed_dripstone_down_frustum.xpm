@@ -1,0 +1,28 @@
+/* XPM */
+static char *pointed_dripstone_down_frustum[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #634A47",
+". c #735450",
+"X c #836356",
+"o c #927965",
+"O c #A08D71",
+"+ c None",
+/* pixels */
+"++OOOooo. .XXX++",
+"++ooooo      .++",
+"++OOOOoXX.  .X++",
+"++ooXX.      X++",
+"++oOOoXXX.   .++",
+"+++OOOoXXX. ..++",
+"+++Ooo...    .++",
+"+++OOooX. .XXX++",
+"+++oOOOo.   X+++",
+"+++ooooXX   .+++",
+"+++XooooX.  .+++",
+"++++XOOOoXX .+++",
+"++++OOooX   .+++",
+"++++OOOXX  ..+++",
+"++++oOOOoX .++++",
+"++++oOoX.. .++++"
+};

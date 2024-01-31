@@ -1,0 +1,28 @@
+/* XPM */
+static char *brewing_stand_base[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #695D5D",
+". c #706464",
+"X c #746C6C",
+"o c #837D7D",
+"O c #8F8282",
+"+ c #9C8E8E",
+/* pixels */
+"           ...  ",
+" .XoX.   ....   ",
+".oOX.oXXXX.XXX  ",
+".O    OXXX.XXX. ",
+".+.  XOXX.XXXX .",
+".o+ X+o..XoOOo..",
+".Xo++oX..o+. OX.",
+" ..XX..XX+   Xo ",
+" XX..X.XX+X  .X ",
+" Xo++o.XXo+X.o. ",
+" o+X.Oo..Xo+OX .",
+" +X   OXX..XX...",
+" O   .OXXXX..X..",
+" Xo XOoXXXX.XX .",
+"  .XoX.  ....   ",
+" ...            "
+};

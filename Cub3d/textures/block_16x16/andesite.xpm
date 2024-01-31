@@ -1,0 +1,28 @@
+/* XPM */
+static char *andesite[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #686868",
+". c #747474",
+"X c gray50",
+"o c #8A8A8E",
+"O c gray61",
+"+ c #A8AA9A",
+/* pixels */
+"X..OooX. OOXoXX.",
+"XO+oXoOO+oo .XXO",
+"..ooOO. .XXOOoXX",
+"OO. .ooOO+OooXo.",
+"Xo+OOXXXooooX..O",
+"oooXoXOoX.  .oOo",
+"XoXO+OX. O+Ooooo",
+"OXoo. .+OooXoooO",
+"oo..O.OooOoXXO+o",
+"o.OooOXXX..+Oooo",
+"ooXoX.. .+OOooXX",
+" .oo.X+OOXXooXoo",
+"oOOoOOoXooX.Xoo.",
+"+OooooooO+oo..XX",
+"ooo .XOOoXoXXo+O",
+".oX.oXXoXoXoOOoX"
+};

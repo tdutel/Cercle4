@@ -1,0 +1,26 @@
+/* XPM */
+static char *hopper_inside[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #27272B",
+". c #2D2D32",
+"X c #343438",
+"o c #3F3E42",
+/* pixels */
+"ooooooooXXXooooo",
+"ooXXXXXX..XXXXoo",
+"oXXX.....X..X.Xo",
+"oXX.X... .....Xo",
+"XX... .    ..XXo",
+"XXX.        .XXo",
+"XX..        ..Xo",
+"X...         .Xo",
+"oX.          .XX",
+"oX..        ...X",
+"oXX..       ..XX",
+"oXX. .   . ..XXo",
+"oXXX.. ...X.X.Xo",
+"oXX.X...XX.XXXXo",
+"ooXXXX.XXXXXXXoo",
+"oooooooXXXXXoooo"
+};

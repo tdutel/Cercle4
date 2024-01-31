@@ -1,0 +1,29 @@
+/* XPM */
+static char *crimson_planks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #3F1E2D",
+". c #442131",
+"X c #4B2737",
+"o c #5C3042",
+"O c #6A344B",
+"+ c #7E3A56",
+"@ c #863E5A",
+/* pixels */
+"+O+@@@@@+@@@@@+X",
+"++OOXoO+++OO++oo",
+"O+++O+OooooOO++X",
+"X..XX.  .. .  . ",
+"+@o@@@@o@@@+OOo+",
+"O++OoOoXoOO++++O",
+"ooO+OOOX+++OOooo",
+"  ..X.    ...X. ",
+"+@@+OO@@@@@@@@+o",
+"+O++++OoooOoOooX",
+"@+OOooooOOOOoo+o",
+"  .XX.   .X..   ",
+"@o+@@++o@@@o@+@@",
+"OO++ooOoo++O+OOO",
+"OooO+OoX++Oooooo",
+" ..  .XXX. .    "
+};

@@ -1,0 +1,27 @@
+/* XPM */
+static char *dead_bush[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #513D24",
+". c #67502C",
+"X c #946428",
+"o c #B17A36",
+"O c None",
+/* pixels */
+"OOOOOOOOOOO OOOO",
+"OOOOXOOOOO. OOOO",
+"OOOOXOOO.O.OOOOO",
+"OOOO.XOOX  OOOOO",
+"OOOOO.XO. O OOOO",
+"OOOOO.oX OOOOOOO",
+"OO   O.X.XOOO  O",
+"OOO ..OXo.O.X OO",
+"OOOOO .Xo X.OOOO",
+"OOOOOO .XX OOOOO",
+"OOOOOOO XXOOOOOO",
+"OOOO .OOX. OOOOO",
+"OOOOO ....OOOOOO",
+"OOOOOO. ..O..OOO",
+"OOOOOOO . . OOOO",
+"OOOOOOO   OOOOOO"
+};

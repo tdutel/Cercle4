@@ -1,0 +1,26 @@
+/* XPM */
+static char *torchflower_crop_stage0[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #134532",
+". c #1C5B3A",
+"X c #27845D",
+"o c None",
+/* pixels */
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"ooooooooXooooooo",
+"ooooooooXooXoooo",
+"ooooXXo.XoXooooo",
+"ooooo.X X. ooooo",
+"oooo. . .  .oooo",
+"oooooo   .oooooo"
+};

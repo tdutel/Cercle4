@@ -1,0 +1,36 @@
+/* XPM */
+static char *dropper_front[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 14 1 ",
+"  c #101010",
+". c gray13",
+"X c #3C3B3B",
+"o c #504E4E",
+"O c #5D5B5B",
+"+ c #686868",
+"@ c #777777",
+"# c gray50",
+"$ c gray52",
+"% c gray57",
+"& c #9D9D9D",
+"* c gray66",
+"= c gray69",
+"- c #C5C5C5",
+/* pixels */
+"ooooXoooXXXoXXoo",
+"oO++@+$@++@@++Oo",
+"oO@%OO+O$%++@@@o",
+"o+$$--O@@$--O@+o",
+"o@$-==-@@-==-@OX",
+"X@+-=o=++=o=-+OX",
+"o+%=%+%--%+%=%Oo",
+"X@-*&-=%%=-&*-@X",
+"X+-&*=%***=*&-+o",
+"o*=*=.   ..-*=*o",
+"o&&*=&. ..-=*&&X",
+"X&*%&=#..-=&%*%o",
+"X%&*&&*--&&%&&%o",
+"o#%&%%&*%%%%&%#o",
+"o++@@+@###@@+++o",
+"ooooXoooXXXXoooo"
+};

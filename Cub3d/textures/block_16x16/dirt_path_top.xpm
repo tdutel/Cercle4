@@ -1,0 +1,26 @@
+/* XPM */
+static char *dirt_path_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #856B3A",
+". c #907540",
+"X c #998043",
+"o c #AA8D4A",
+/* pixels */
+"XX..XX.... .oX .",
+"X...o..XXX ..oo ",
+"..ooX... X.o... ",
+".  ...oX. .o..X.",
+".X..XX o. X.X ..",
+".XXooX.o... XX .",
+".....X.. oX .. o",
+"X..X.  ..o.. .oX",
+"X. X.X.XoXX..Xo.",
+".X oXX..  XX....",
+"XXXoX......X.oo.",
+".X.X.XX.oX...X..",
+".oX...XX.ooX...X",
+".o...o  ..X  XX.",
+".X..oXX..X ..X.X",
+"...Xo..X....X..."
+};

@@ -1,0 +1,27 @@
+/* XPM */
+static char *spore_blossom_base[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #50692C",
+". c #70922D",
+"X c #6C8031",
+"o c #84A83C",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOX.OO.XOOOOX..O",
+"OOXooOXooX.Ooo.O",
+"OOOoX. o..Xo.oXO",
+"Ooo..ooX.X Xo.OO",
+"Oo.X.oX.X .. XXO",
+"OXooX .X   .XooO",
+"OOo..X   XoX..oO",
+"OOX.XoXX ..o..OO",
+"OOXo ooX.XooXXOO",
+"OOOoo.X.. XX.X.O",
+"OOo.X .X  o.o..O",
+"OXoX.O..o OooOOO",
+"Oo.oXOXooOOOX.OO",
+"OooXOOXXOOOO..OO",
+"OOOOOOOOOOOOOOOO"
+};

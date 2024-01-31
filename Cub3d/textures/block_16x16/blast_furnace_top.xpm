@@ -1,0 +1,28 @@
+/* XPM */
+static char *blast_furnace_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #3F3E42",
+". c #494848",
+"X c gray31",
+"o c #595858",
+"O c #686868",
+"+ c #747474",
+/* pixels */
+"O++OOooooooOO+++",
+"+O.X..   ..XX.OO",
+"O..XooX.   .X..+",
+"+ X..   ..XXXXX+",
+"O.Xoo. .XoooX. O",
+"oX.       ..   O",
+"oXoX. .XoooooX o",
+"o.. ..XooXX....o",
+"o   .. .    . .o",
+"o.XX XX.XXoooXXo",
+"o..XooXXX..XXX.o",
+"OXXX..   . ..  o",
+"+  ..... .ooX. +",
+"+..XoX.XooX. ..+",
+"+O.XX. ..X.  .O+",
+"O+O+OOoooooo+o+o"
+};

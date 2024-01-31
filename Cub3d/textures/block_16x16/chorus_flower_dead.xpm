@@ -1,0 +1,34 @@
+/* XPM */
+static char *chorus_flower_dead[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 12 1 ",
+"  c #3A143A",
+". c #401A40",
+"X c #472147",
+"o c #562E56",
+"O c #5B345B",
+"+ c #634561",
+"@ c #7C5B7C",
+"# c #998E5F",
+"$ c #A49D7E",
+"% c #8F718F",
+"& c #C9C5B0",
+"* c #E2DDBC",
+/* pixels */
+"@OoXooO@+@OO%%%@",
+"O@O..Xoo+O@%OooO",
+"O%O  ooO@OXoX..o",
+"O%X .X@%%XX.. .O",
+"@oXX..O@Oo  ..X@",
+"ooX.O.O@ooo.XOO@",
+"OooooOO$#@%@@%@O",
+"++OO%%$*&$O%%@++",
+"O@%%@O#&$#oOOoOO",
+"@OooXXX$#OXoOXoO",
+"OOX...XO@oX.X.O+",
+"Oo.  XO%Oo. .Xo@",
+"oXX.X.%@oX  Xo%o",
+"OoXXoo@+Oo.XO@%O",
+"OOO%%OoO+OXooOO%",
+"%%@oo@%o@OOoOOO%"
+};

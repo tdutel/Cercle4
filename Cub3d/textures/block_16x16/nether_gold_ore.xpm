@@ -1,0 +1,34 @@
+/* XPM */
+static char *nether_gold_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 12 1 ",
+"  c #411616",
+". c #511515",
+"X c #501B1B",
+"o c #572121",
+"O c #652828",
+"+ c #723232",
+"@ c #B34316",
+"# c #C7641D",
+"$ c #854242",
+"% c #F8AF2B",
+"& c #FCEE4B",
+"* c #FFFFB5",
+/* pixels */
+".o.XOX++OO OO+Oo",
+"oOOoX XO+X. OOX.",
+"+O+O@@.XOo%.OXO+",
+"$+O&*%o+O+&#.OXO",
+"+$+%&O+$$O++X+Oo",
+".+Oo#+$$++O#OO+O",
+".O+X +O++OX*&+$+",
+"+o. XO+O%#+#%O$$",
+"OXO+OXX@OO++O.O+",
+"XO+&*O XO+O++..X",
+"o+O+%O X+$++X@ X",
+"O@X+OX.#X+O.@%oX",
+".O+OX+O*&X.+O+O.",
+"o+O++$+&%#oO+$+.",
+"XO++$OXoX@O+O+OO",
+"XXO++XO+o XO++OO"
+};

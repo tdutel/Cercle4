@@ -1,0 +1,30 @@
+/* XPM */
+static char *end_stone_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #A9A274",
+". c #C2BB88",
+"X c #CECE96",
+"o c #D6D695",
+"O c #DDE4A5",
+"+ c #ECFBAF",
+"@ c #E8F4B2",
+"# c #EEF6C9",
+/* pixels */
+".@@#####++##+@. ",
+"O@+@@@++O@@@@@OX",
+"+@O@@++@@@@+@O@X",
+"@OoOOO@OO++++@OX",
+"OO@++@OO@O@+@OO.",
+"OoO@@OOooOOOOOO.",
+".oooooooOOoooo. ",
+" .X...    ..X.  ",
+"#++###@. .@+####",
+"@@@+@@@O.O@@@@@@",
+"@@@@O++@.+@@@++@",
+"@O@++@OOX@OO++@O",
+"O+@OooOoXOO@o@OO",
+"oOOoO@@o.OOoOOoo",
+"OOooooo. .oooooo",
+" ..XX..    ..   "
+};

@@ -1,0 +1,33 @@
+/* XPM */
+static char *dried_kelp_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 11 1 ",
+"  c #151A13",
+". c #181D14",
+"X c #132113",
+"o c #1B2215",
+"O c #202A16",
+"+ c #232F17",
+"@ c #282A1D",
+"# c #29351D",
+"$ c #2C3820",
+"% c #818673",
+"& c #909680",
+/* pixels */
+"++++##$&XOOO++++",
+"..+##@.&X.X++++X",
+"+###+##&++++XXX+",
+"XXOOOOX%OXX..X..",
+"$$++$$$%XOOO++++",
+"$$$+++O%+++OOO+$",
+"#OO+OOO%OO+.OO$$",
+".OOOXX.%.OO+XXX.",
+"+####XX%X##+++#+",
+".$$#OO &........",
+"OO$$##+&O++++###",
+".OOOO##&OOO###XX",
+"##+$$$$&X+###+++",
+"XXX.XX.%XOOO##+X",
+"##++...%oOO+O+$$",
+" OOXXX.%XX...XX."
+};

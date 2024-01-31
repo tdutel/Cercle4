@@ -1,0 +1,27 @@
+/* XPM */
+static char *composter_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #78491F",
+". c #87582E",
+"X c #B4753E",
+"o c #A37043",
+"O c None",
+/* pixels */
+"XXoXXXooXXXXXoXX",
+"o.  ..  .   .. X",
+"X OOOOOOOOOOOO X",
+"X.OOOOOOOOOOOO.o",
+"X.OOOOOOOOOOOO.o",
+"X.OOOOOOOOOOOO.X",
+"o OOOOOOOOOOOO X",
+"o.OOOOOOOOOOOO X",
+"X OOOOOOOOOOOO o",
+"X OOOOOOOOOOOO o",
+"X.OOOOOOOOOOOO.X",
+"X.OOOOOOOOOOOO.X",
+"o.OOOOOOOOOOOO X",
+"X OOOOOOOOOOOO o",
+"X  .  ....  .  X",
+"XXoXXXooXXXoXoXX"
+};

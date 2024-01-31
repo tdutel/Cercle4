@@ -1,0 +1,34 @@
+/* XPM */
+static char *smoker_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 12 1 ",
+"  c #3A2F1E",
+". c #3C3B3B",
+"X c #513D24",
+"o c #67502C",
+"O c #7E6237",
+"+ c #504E4E",
+"@ c #5D5B5B",
+"# c #686868",
+"$ c #777777",
+"% c #967441",
+"& c gray52",
+"* c gray57",
+/* pixels */
+"%o............%%",
+"OX ooOOoXOOXo Xo",
+"%o XooX XXooX oX",
+"%%@###@######@Oo",
+"oO#&&@$&&&&#$#%%",
+"Xo$&$@#$&&&@$$oO",
+"Oo##@&$##$&@@$Xo",
+"O%$#&&&&&@@&&@oX",
+"XX$$#$$$#$$$$$XX",
+"oX  XX X  XX  %O",
+"O% Oo Oo Oo o Oo",
+"oO oX oX oX XXXo",
+"%o+**@*@***#*+OO",
+"%O+&&*@#$*&&#+oO",
+"oO+&&$@$#&*&@+oX",
+"X ++++++++++++X "
+};

@@ -1,0 +1,26 @@
+/* XPM */
+static char *nether_sprouts[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #167E86",
+". c #119B85",
+"X c #14B485",
+"o c None",
+/* pixels */
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooXoooooooo",
+"oo.oXooXo.ooXooo",
+"oo.oX.oXo.o.Xooo",
+"o .o. o.o o Xo.o",
+"o  o. o o o .o o"
+};

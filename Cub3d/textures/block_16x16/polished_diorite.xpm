@@ -1,0 +1,30 @@
+/* XPM */
+static char *polished_diorite[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #626562",
+". c #7B7D83",
+"X c #8B8D8B",
+"o c #A9ACA9",
+"O c #BABBC0",
+"+ c #C8C9C8",
+"@ c #D9D8D9",
+"# c #E6E2E6",
+/* pixels */
+"###@@#####@@@##O",
+"#@O++@@+#@Oo+@O.",
+"@@#@OO@@+##OoO+ ",
+"@+@+ooo+@+O+OOO.",
+"@#+ooO+#@Oo+O+#.",
+"#@+OO+@##ooO+@@ ",
+"#+@@#@#@++oO@O+ ",
+"#OO#@+#+@+@O+oO ",
+"@o++@@++O@#+oO+.",
+"@+@@+OO+@++OO#@.",
+"@@OooO@++O@+@@@ ",
+"#+@#o+++##+@OO+.",
+"#++#@+Oo#+O@@oO ",
+"#O+@+O+#@Oo+#OO ",
+"#XOO++@@+O+@+O+.",
+"X. ...   ..  .. "
+};

@@ -1,0 +1,30 @@
+/* XPM */
+static char *oxidized_cut_copper[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #366451",
+". c #3D7864",
+"X c #53A178",
+"o c #4C9484",
+"O c #5EAB81",
+"+ c #51A48B",
+"@ c #59B292",
+"# c #6EC59F",
+/* pixels */
+"#@##@#@.##@@#@#.",
+"#+++ooo #+ooo+o ",
+"#++XOoo #++oXOO.",
+"#+XOOo+ #+X++O+ ",
+"#XXOX++.@XX++XX ",
+"@XoX+++.#o++Xoo.",
+"@+oo++o @oo+ooo.",
+".   .   . .   . ",
+"##@#@@#.####@#@.",
+"#XooX+o.#oooXo+.",
+"#+oOX+o.#XoXXO+.",
+"#++O+++ @++XOO+ ",
+"@X+XX++ @+++X+X.",
+"#X+XoX+ #o+XXoo ",
+"@o+oooX.@ooXooo ",
+" ...  . ....  .."
+};

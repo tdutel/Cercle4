@@ -1,0 +1,35 @@
+/* XPM */
+static char *white_glazed_terracotta[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 13 1 ",
+"  c #FED83D",
+". c #FEDC56",
+"X c #FEDE5F",
+"o c #4577D3",
+"O c #2389C7",
+"+ c #3AB3DA",
+"@ c #4AB9DD",
+"# c #50BBDE",
+"$ c #D0D6D7",
+"% c #F2F0E4",
+"& c #F8F3E5",
+"* c #F4F4F2",
+"= c #F9FFFE",
+/* pixels */
+"   ==    =O+O*= ",
+" .X=======oO*=X=",
+" X==X .*==O$=XX=",
+"=====X..=$O*X* =",
+"==X*====*o$= =X=",
+"X=.X===$OO*= ==*",
+" =X ==OO@O==X=*O",
+" =*.=$O#+o===$O+",
+" ===*O++Oo==OO+@",
+"===$OoOoo*=OOoo+",
+"OOOO$=====Oo*=o+",
+"+O$======Oo*==$O",
+"o==X  X=OO*==*$O",
+"==X*===$Oo==*O+#",
+"=   X=*O+oo$$#@&",
+" ====*O++@#OO@% "
+};

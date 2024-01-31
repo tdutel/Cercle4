@@ -1,0 +1,28 @@
+/* XPM */
+static char *chiseled_deepslate[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c gray14",
+". c #2D2D2D",
+"X c #383737",
+"o c #414141",
+"O c #4B4C4F",
+"+ c #585858",
+/* pixels */
+"                ",
+"XoOOOOOoOOOOOoo ",
+"XXoOOoooOOOoooX ",
+".....XooooX.....",
+".    XooooX    .",
+".    .XXXX.    .",
+"O+++OX    XO+++O",
+".XXXX.    .XXXX.",
+" XoOOX    .OOoX ",
+".oOOo.....XOOXo.",
+" .OOOX....XoO.o ",
+"  OOooO++OOOoo. ",
+" XXoOOooOOOoXOO ",
+"XXooOOOoXooX.Oo ",
+" ..X...XX.XX.X. ",
+"                "
+};

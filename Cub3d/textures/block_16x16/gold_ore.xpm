@@ -1,0 +1,32 @@
+/* XPM */
+static char *gold_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c gray36",
+". c #686868",
+"X c #747474",
+"o c gray50",
+"O c #9C7020",
+"+ c #EB9D0E",
+"@ c #FCEE4B",
+"# c gray56",
+"$ c #A2A2A2",
+"% c #FFFFB5",
+/* pixels */
+"####XXXoX.XXoooo",
+"ooXoOoo.ooo.. oX",
+"oX..#. O.XX  OOo",
+"o##o. O+OXo O+OX",
+"Xoo. O+@O.##++$o",
+"o#o.+@@%+XX.$$X#",
+"Xoo#$+@+O$XXoooo",
+"XX..X$+$$oXXX+Oo",
+"#.O+#$O$##oo.ooX",
+"oX+@$o$##o   .#o",
+".#$$#X..X OO+..X",
+"oo...##o.O++%@O.",
+"oXOO+XoOX$+@@$$X",
+"#O+@%@#$XoO+$XX#",
+"oX$+@#oooo$$##+#",
+"ooo#$oXXo##ooXoo"
+};

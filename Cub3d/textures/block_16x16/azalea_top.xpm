@@ -1,0 +1,27 @@
+/* XPM */
+static char *azalea_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #495E27",
+". c #50692C",
+"X c #647233",
+"o c #70922D",
+"O c #6C8031",
+/* pixels */
+".oo.XOoXoXoXoX..",
+".oXOOXOoOoO.oOOO",
+"XOXX..oOoOo.OXXO",
+"ooX.ooOXoXOXOOO.",
+"X..oOXO.O.OooXOX",
+"oOX.ooX..XXXOoXO",
+"X.OoOXX.X.ooXOoo",
+"oooOoOoX..XOoXOX",
+"XOoOoX..XOooXooo",
+"ooOoXO.X.XXXoO.X",
+"OXoOXoXOXOXoOXOo",
+"XoXX.oOoXoOoO.XO",
+".OoXO.oXOXo.oOoo",
+"OXXO.X.oOX.XOX.O",
+"OOOo.O.oOoXOOXX ",
+"..XoXoXoXoOX.. X"
+};

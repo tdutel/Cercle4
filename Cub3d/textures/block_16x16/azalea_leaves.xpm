@@ -1,0 +1,27 @@
+/* XPM */
+static char *azalea_leaves[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #3A4C26",
+". c #50692C",
+"X c #70922D",
+"o c #6C8031",
+"O c None",
+/* pixels */
+".O ..oX..O  OO.o",
+"oOO  XX..OooXOOo",
+" O....  XooXX O ",
+"Xo.Xo. OXX... O ",
+"XXOXXOOOO..OoXOO",
+"OOO..OOO  OOXXoo",
+"X. O  oXXX. O.oo",
+"X..OO .XXXo  ..X",
+" OOXo.o..XX.  ..",
+".. XX.Xo.XooXOoo",
+"o..X.OXXoOOXXOoo",
+"oOO  .o.OOOo..Oo",
+"O .. ..O.oXXo. O",
+"OooXoo O.XXXo.  ",
+".oXoXo  OO.. ooO",
+"...XXOO OOO  oo."
+};

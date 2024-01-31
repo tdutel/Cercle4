@@ -1,0 +1,28 @@
+/* XPM */
+static char *mangrove_roots_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #3C2F23",
+". c #443522",
+"X c #4E3F27",
+"o c #5A482C",
+"O c #665234",
+"+ c None",
+/* pixels */
+"+X ++.+XX++  X +",
+"ooX++  oo ++XoX ",
+"oX  X.+oXX. ooOX",
+"  +XX++++.. X  +",
+"++ oo + ++ X++  ",
+"XXooX.+  XoX+++ ",
+" . +++++X.oo + +",
+" ++ +X +oX+ X..+",
+"oXX XXoOo ++ .X ",
+"oo + +Xoo++++Xo+",
+"+X++.++ XX+X+ XX",
+"oooX..++X +oX+X.",
+".oX+XooX ++oo+ .",
+"++..ooOoX +oXX  ",
+"+ .XXXooX XX+oX+",
+"+ X +X+ X++X+XX+"
+};

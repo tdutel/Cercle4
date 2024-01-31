@@ -1,0 +1,26 @@
+/* XPM */
+static char *tnt_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #912D11",
+". c #B11527",
+"X c #DB2F1A",
+"o c #8E8E8E",
+/* pixels */
+".XX..XX..XX..XX.",
+"Xoo Xoo Xoo Xoo ",
+"Xoo Xoo Xoo Xoo ",
+"                ",
+".XX..XX..XX..XX.",
+"Xoo Xoo Xoo Xoo ",
+"Xoo Xoo Xoo Xoo ",
+"                ",
+".XX..XX..XX..XX.",
+"Xoo Xoo Xoo Xoo ",
+"Xoo Xoo Xoo Xoo ",
+"                ",
+".XX..XX..XX..XX.",
+"Xoo Xoo Xoo Xoo ",
+"Xoo Xoo Xoo Xoo ",
+"                "
+};

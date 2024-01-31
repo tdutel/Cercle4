@@ -1,0 +1,32 @@
+/* XPM */
+static char *granite[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #4D352C",
+". c #5F4034",
+"X c #7F5646",
+"o c #926251",
+"O c #9F6B58",
+"+ c #A97764",
+"@ c #B48877",
+"# c #B49B91",
+"$ c #C99781",
+"% c #E3C0AF",
+/* pixels */
+"#OoOXOOoOO O@OO+",
+"Oo.+O$XOOXXOOXXo",
+"O.OOOoo+XO%XO.O@",
+"O.OoOO@.O++oXoOO",
+"XoOXoX..o#+OooOX",
+"OOX++oOX.OooO#XO",
+"XOO++XOOOX+++oXX",
+"OXOO#Oo X.++XOoo",
+"O@oOOX+++XXoOOXO",
+"++o+XOX++XO@OXO+",
+"++#o.OXOo$OOX.X+",
+"++O.+OOX XOOX+ o",
+" oXoXOOOXOoXOOo%",
+"Oo++XOo.Xo++oOOO",
+"O$++oX.+Oo++O#XO",
+"++OO#oooXOXOOOX+"
+};

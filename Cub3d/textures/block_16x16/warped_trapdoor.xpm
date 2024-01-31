@@ -1,0 +1,29 @@
+/* XPM */
+static char *warped_trapdoor[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #1F5752",
+". c #2E5F51",
+"X c #287067",
+"o c #398382",
+"O c #3A8E8C",
+"+ c #369D91",
+"@ c None",
+/* pixels */
+".    .   .  .   ",
+" Oo+oO+O++++OoO.",
+" o..o....+o..Xo ",
+".O.@o+@@.OX@@.o ",
+" OO@X+O@@O@@@+o.",
+" oX@@X+@@+o@X+O.",
+" +XX@@O@@X+@oOO ",
+".++X@@O@@@+@.Oo ",
+" O+@@+o@@@+@..o ",
+" OX@+OX@@@+@Xo+.",
+".oX@OX@@@oo@@++ ",
+" o.@oo@@@oX@@X+ ",
+" O.@XoX@@o@o@.O.",
+" O..Xo+XX++X..+.",
+".O++Oo++++++++o.",
+".    .. .   ... "
+};

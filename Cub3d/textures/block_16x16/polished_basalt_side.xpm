@@ -1,0 +1,28 @@
+/* XPM */
+static char *polished_basalt_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #1B2632",
+". c #32333D",
+"X c #3A3B48",
+"o c #4F4B4F",
+"O c gray36",
+"+ c #747474",
+/* pixels */
+".Xo+OOo+OOooOOX.",
+" Xo+O+o+O+OooOXX",
+" Xo+O+O+O+O+oOXX",
+".oo+++++O+++OOXX",
+".XoO++O+O+++OooX",
+"XXoOO+O+O+++OooX",
+".XoOo+++Oo+OOoX.",
+"..ooo++++o+OOoX.",
+" .o+o+O++O+o+oX.",
+" .o+o+O++++O+oX ",
+" .O+O+O++++OOo. ",
+".XOOO+O+++++Oo. ",
+".oO+O+o+++O+ooX.",
+"XoO+O+o+++O+Ooo.",
+"XoO+O+o+O+O+Ooo.",
+"XoO+OOo+O+OOOOoX"
+};

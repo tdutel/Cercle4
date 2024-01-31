@@ -1,0 +1,38 @@
+/* XPM */
+static char *orange_glazed_terracotta[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 16 1 ",
+"  c #D95C00",
+". c #E16100",
+"X c #F06600",
+"o c #F9801D",
+"O c #F9A537",
+"+ c #FAA93D",
+"@ c #FAAD45",
+"# c #157788",
+"$ c #169C9C",
+"% c #16A3A3",
+"& c #17A8A8",
+"* c #17ACAC",
+"= c #1BBABA",
+"- c #1CC6C6",
+"; c #FFE4BD",
+": c #F9FFFE",
+/* pixels */
+"oo$oO@OO$::---=o",
+"oo%oo++O& XXX.==",
+"$%%OO@O%%.X.. .=",
+"ooO$$%%&.XoooX.-",
+"OoO$..oX.oo$o.--",
+"OO@% Xo.Xoooo.-$",
+"+OO%oo:...oo.=$$",
+"++%&.X;:o...o-$$",
+"$$%. ..;:oOOo=-$",
+":X.Xoo..::+o##=-",
+":..oooo.+;Oo###-",
+"-..o$oo.Ooo-$##-",
+"-X ooo.oo$$--$#=",
+"-X.X..$=-*$$--OO",
+"--X.*$##=-*$$OO$",
+"o--$$####=---O$$"
+};

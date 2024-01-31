@@ -1,0 +1,29 @@
+/* XPM */
+static char *polished_deepslate[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c gray14",
+". c #2D2D2D",
+"X c #383737",
+"o c #414141",
+"O c #4B4C4F",
+"+ c #585858",
+"@ c gray43",
+/* pixels */
+"@@@@@+@@@+@@+@+.",
+"@+++OoXO++++OOO.",
+"@++Ooo.OO+++++O.",
+"@oOOOoooXX.X..X ",
+"@O++OO+++++O++o.",
+"@X..oooO++o..o. ",
+"+ooXoOOooOOOOOo.",
+"++OoO+++++o+++o.",
+"@OooOOO++OX++OO.",
+"@X..XoooX..Xoo. ",
+"@oO+++++oXO++OO ",
+"@oo++++OooO++OO.",
+"@.XoX.X.XXooo...",
+"+++++OooO+++++O.",
+"@O+++O..OO+++++ ",
+"+.. ..   .  .   "
+};

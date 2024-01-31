@@ -1,0 +1,27 @@
+/* XPM */
+static char *beehive_end[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #967441",
+". c #9F844D",
+"X c #AF8F55",
+"o c #B8945F",
+"O c #C29D62",
+/* pixels */
+"oOOOOOOOOOOOOOOo",
+"OXXXoX..XooooXXO",
+"OXXoX..XoooooooO",
+"OoooXXooooXooXXO",
+"OXXXoooooooXXooO",
+"O  ..  ....   .O",
+"OoOOooOOOOOOOOoO",
+"OXoX.XooooooooXO",
+"OXoooooooooooXXO",
+"O.XXXoooXXXXX.XO",
+"O  ...    .  ..O",
+"OoOOOOOoooOOOOoO",
+"OXooooX..XXoooXO",
+"O..XooooXXoooo.O",
+"OXX.XoooooooXX.O",
+"oOOOOOOOOOOOOOOo"
+};

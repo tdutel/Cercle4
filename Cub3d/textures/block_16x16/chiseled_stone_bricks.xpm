@@ -1,0 +1,29 @@
+/* XPM */
+static char *chiseled_stone_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #5A595A",
+". c gray39",
+"X c #6A6D6A",
+"o c #787678",
+"O c gray50",
+"+ c #8B898B",
+"@ c #9C999C",
+/* pixels */
+"@@@@@++@@@+@@+@X",
+"@OOOXOOOOXXOOOO ",
+"+O..    ....XoX ",
+"+X @@@++@@+@.+o ",
+"@O @+OOoOOOX.+O ",
+"@O @OoXXooOo.+O ",
+"+X +Oo   +OX.@o ",
+"+O @oX   @Oo @X ",
+"+X +Oo   +oX @o ",
+"@X.+Oo+@++OX @o ",
+"@O.@OO+O+OoX +o ",
+"@O.@oXoXoXXX.+O ",
+"@OX...     ..+o ",
+"++@@++@@@@+++Oo ",
+"+ooOoXoOOooXoXX ",
+"X               "
+};

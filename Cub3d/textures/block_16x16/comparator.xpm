@@ -1,0 +1,35 @@
+/* XPM */
+static char *comparator[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 13 1 ",
+"  c #2C0300",
+". c #470102",
+"X c #580101",
+"o c #7B7D7B",
+"O c #8B8D8B",
+"+ c #ACAAAC",
+"@ c #BBBBBB",
+"# c #C5B8A9",
+"$ c #D3C7B9",
+"% c #DDCBBE",
+"& c #C5CAC5",
+"* c #D5D8D5",
+"= c #EBDED4",
+/* pixels */
+"oOOOoOOOoOOOOOOO",
+"o@++++@@@&&&&@+O",
+"O+@&&&&@@@+++++O",
+"O&&@@@@@@@@@&&@O",
+"O+++@@@&&&@@@@+o",
+"O@@@@@+oo@*++@@O",
+"oo+&&Oo$$%*@@+oo",
+"OOo@@o#=%$@*+oOO",
+"Oo&@Oo#%=$%*+&oO",
+"&&+@o#%=%=$@*+&&",
+"O+@Oo#=%=%$%*@+O",
+"o+@oXXXXX...@&+o",
+"O@@oX.      @&@O",
+"O+@&&@@@@&&&&@+O",
+"O&&@@@&&@@@@+++O",
+"OOOOoOOOOOOOOOoO"
+};

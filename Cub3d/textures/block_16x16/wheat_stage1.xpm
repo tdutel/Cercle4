@@ -1,0 +1,26 @@
+/* XPM */
+static char *wheat_stage1[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #056A05",
+". c #088806",
+"X c #00AE19",
+"o c None",
+/* pixels */
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"ooooooo.oooooooo",
+"oooooooX.ooooooo",
+"o.oooo..oooooooo",
+"ooX.oo. ooo oooo",
+"oo o oo ooo oo o"
+};

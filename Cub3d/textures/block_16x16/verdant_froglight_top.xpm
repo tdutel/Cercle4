@@ -1,0 +1,28 @@
+/* XPM */
+static char *verdant_froglight_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #93C584",
+". c #A0D39B",
+"X c #BDE1B7",
+"o c #D7EED5",
+"O c #EBF9EC",
+"+ c #F8FDF8",
+/* pixels */
+" .XoXoOXooX.oX. ",
+".XoOoOOoOOOoOoX.",
+"XoO+O++O+++O+Oo.",
+"XO++++++++++++oX",
+".XO++++++++++++O",
+"XO++++++++++++Oo",
+"oO++++++++++++OO",
+"OO+++++++++++OoX",
+"XoO+++++++++++Oo",
+"oO+++++++++++++o",
+"OO++++++++++++OX",
+"XoO++++++++++OoX",
+"oO++++++++++++Oo",
+"XoO+O+++O+O++OoX",
+".XoOoOOOoOo+OoX.",
+" ..X.XoOXOoOo.. "
+};

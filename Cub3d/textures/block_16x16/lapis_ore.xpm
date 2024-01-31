@@ -1,0 +1,36 @@
+/* XPM */
+static char *lapis_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 14 1 ",
+"  c gray36",
+". c #686868",
+"X c #747474",
+"o c gray50",
+"O c #10349C",
+"+ c #1034BD",
+"@ c #16448D",
+"# c #20598B",
+"$ c #1044AC",
+"% c #1855BD",
+"& c #446FDC",
+"* c #6995F4",
+"= c gray56",
+"- c #A2A2A2",
+/* pixels */
+"=oo=oXXoX.XXo===",
+"oo.  .X==oo.  oX",
+"oX%#%@.  XX=+@oo",
+"=o=-=$X@&=oo-=XX",
+"XooXX  X=o  =Xoo",
+"o=o. %$oo.#+X.X=",
+"Xo +&*&@=o&*==oo",
+"X$&---= ..o-X==o",
+"=&*-=o.$ %@@o  X",
+"o--o.o.$%&&@.$..",
+".o..$XX.+&*=X&#o",
+"oo@OOoo=--=o=*&o",
+"oX--=O..@&&.-+&=",
+"==oX&*%o&*+-X--o",
+"oXXo%&@-o--oXXXo",
+"oooo=--ooooooo=="
+};

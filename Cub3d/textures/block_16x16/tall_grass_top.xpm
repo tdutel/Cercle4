@@ -1,0 +1,28 @@
+/* XPM */
+static char *tall_grass_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #676967",
+". c #737573",
+"X c #838183",
+"o c #949194",
+"O c #ACAAAC",
+"+ c None",
+/* pixels */
+"+X++++++++++++++",
+"++X+X+++++O+++++",
+"++X+o+++++O++X++",
+"++o+Xo++++o+X+++",
+"+++O+o+++oX+o+++",
+"+++O+o+++o++o+++",
+"+++o+O+++O++O+++",
+"+++o+O+.+O++O+++",
+"+++O+O+.+O+oO+.+",
+"+++O+O++.O+O  ++",
+"+++O+Oo+oO+Oo+++",
+"+o+OoOo+Oo+O.+++",
+"++.OoXO+Oo+O.+++",
+"+++Oo+O+Oo+o++++",
+"+++.O+O+o+.o++X+",
+"+X++O+O+o+.O+X++"
+};

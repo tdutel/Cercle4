@@ -1,0 +1,29 @@
+/* XPM */
+static char *cherry_planks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #CD8580",
+". c #DD9D97",
+"X c #E1A8A1",
+"o c #E6B3AD",
+"O c #E7BAB4",
+"+ c #E7C2BB",
+"@ c #E7CAC5",
+/* pixels */
+"+O+@@@@@+@@@@@+X",
+"++OOXoO+++OO++oo",
+"O+++O+OooooOO++X",
+"X..XX.  .. .  . ",
+"+@o@@@@o@@@+OOo+",
+"O++OoOoXoOO++++O",
+"ooO+OOOX+++OOooo",
+"  ..X.    ...X. ",
+"+@@+OO@@@@@@@@+o",
+"+O++++OoooOoOooX",
+"@+OOooooOOOOoo+o",
+"  .XX.   .X..   ",
+"@o+@@++o@@@o@+@@",
+"OO++ooOoo++O+OOO",
+"OooO+OoX++Oooooo",
+" ..  .XXX. .    "
+};

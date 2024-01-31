@@ -1,0 +1,29 @@
+/* XPM */
+static char *chiseled_red_sandstone[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #9F4E0B",
+". c #AC5712",
+"X c #B2601F",
+"o c #C06822",
+"O c #CB6E24",
+"+ c #D2752B",
+"@ c #D97B30",
+/* pixels */
+"@@@@@+@++++++++O",
+"OooXXXXXooXoooXX",
+"XX.......       ",
+"@@@@@+X+++++++O ",
+"@OOoO.   .OXoXo.",
+"@...o ooo o...O ",
+"+ o O  o  o o O ",
+"O  .  Ooo.   .X ",
+"+Xooo   ..ooooo ",
+"X.  ... XX. ..  ",
+"++++++  .+++O+O ",
+"+oXXXOo XoOXXoO ",
+"OooOXo  .ooX.oX ",
+"Oooo.oo.oooXooo ",
+"OXX.oXoXXXXXXoX ",
+" .    ....   .  "
+};

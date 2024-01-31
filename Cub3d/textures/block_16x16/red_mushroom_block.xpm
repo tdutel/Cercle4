@@ -1,0 +1,28 @@
+/* XPM */
+static char *red_mushroom_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #BE2321",
+". c #C32826",
+"X c #C92B29",
+"o c #CE2D2B",
+"O c #FF9898",
+"+ c #FFBFBF",
+/* pixels */
+".   .XX..  .XXX.",
+"  .. .XXX.. XX..",
+" ..ooXXXXXXXX.. ",
+"..o+Oo.XXXXXXX. ",
+"..oO+o..  XX..XX",
+"XX.oo.. .X.   .X",
+"XX ..XXXX. .oo..",
+". XXXXXX. .o+Oo ",
+".XXXXX.. ..oO+o.",
+" XX..XXXXXX.oo..",
+"XX ...XXXXXXX.XX",
+"..XXX..oo...XXXX",
+"XXX...o+Oo.  .XX",
+"X..  .oO+o.XX.  ",
+"..  . .oo.XXXX..",
+"  ....  .....XX."
+};

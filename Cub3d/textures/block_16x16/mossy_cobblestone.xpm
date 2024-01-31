@@ -1,0 +1,33 @@
+/* XPM */
+static char *mossy_cobblestone[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 11 1 ",
+"  c #525D39",
+". c gray32",
+"X c #5A6D41",
+"o c #627941",
+"O c gray38",
+"+ c #6E6D6D",
+"@ c #738552",
+"# c #7A8F55",
+"$ c #888788",
+"% c gray65",
+"& c gray71",
+/* pixels */
+"o %%X  X#@oO$&%@",
+" %&$$ X#@o$ O$+$",
+"O%$%+ @ooX+   $+",
+"OO$+X $X$+ o@o  ",
+".+O  $OXOO$@@@oX",
+"& #@$%+O.$%o$oX$",
+"%$ o%$$+X  $$+ %",
+"$$   $+ @@o +$O$",
+"+  #@o o$o@oXO.+",
+" X@Xoo++$$Xo Xo ",
+"$+ooX    ++X o@%",
+"$  X Xo#@ O $%%$",
+" X#@+ #@o@+O$$+$",
+"o#o$$ @o+$$+  $+",
+"$@$+$+ +$$+O $o ",
+" $OO+X   OO$&%$o"
+};

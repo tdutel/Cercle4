@@ -1,0 +1,27 @@
+/* XPM */
+static char *small_dripleaf_stem_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #42552D",
+". c #50692C",
+"X c #70922D",
+"o c #6C8031",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOoOOOOoOOOOO",
+"OOOOOoOOOOoOOOOO",
+"OOOOOOoOOOOoOOOO",
+"OOOOOOoOOOOoOOOO",
+"OOOOOO.OXOOoOOOO",
+"OOOOOOO.XOO.OOOO",
+"OOOOOOOOXO.OOOOO",
+"OOOOOOOO.X.OOOOO",
+"OOOOOOOoOXOOOOOO",
+"OOOOOOOoOXOOOOOO",
+"OOOOOOOo..OOOOOO",
+"OOOOOOoO OoOOOOO",
+"OOOOOO.O.OoOOOOO",
+"OOOOOO O OXOOOOO"
+};

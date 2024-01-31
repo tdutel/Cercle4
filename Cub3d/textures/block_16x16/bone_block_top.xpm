@@ -1,0 +1,28 @@
+/* XPM */
+static char *bone_block_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #C3BFA1",
+". c #C9C5A7",
+"X c #CECAAD",
+"o c #DCD9C0",
+"O c #E3E0CA",
+"+ c #E8E5D2",
+/* pixels */
+".XoOO++++++OOo. ",
+"XoOOOoXXXooOOOo.",
+"oOOoX ..  XXoOOo",
+"OOoX.  ... XXoOO",
+"OOX      ... XOO",
+"+o .   .  ...Xo+",
+"+o...       . o+",
+"+X..  .      .X+",
+"+X...      . .X+",
+"+o .   .      X+",
+"+oX...        o+",
+"OOXX....  . .XOO",
+"OOoXX .    .XoOO",
+"oOOoXXX .. XoOOo",
+".oOOOoXXXooOOOoX",
+" .oOO++++++OOoX."
+};

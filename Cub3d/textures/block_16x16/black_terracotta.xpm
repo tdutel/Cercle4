@@ -1,0 +1,31 @@
+/* XPM */
+static char *black_terracotta[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #23150F",
+". c #25160F",
+"X c #231610",
+"o c #251610",
+"O c #261710",
+"+ c #251713",
+"@ c #261912",
+"# c #271913",
+"$ c #281811",
+/* pixels */
+"ooXooo##o@o.  .o",
+"oo@@oooo@o@@.ooX",
+"oooo ..oo@oo@@oo",
+"@@o.. oo@.o@.o..",
+"o@#@oo..o.@$..oo",
+"@oo@ooo@o@o@@oo@",
+"o@oooooo.Xooo@oo",
+"@ooo@oo@@o..@o@@",
+"@@@.o.oo.o$o$o@@",
+"o..  Xo..@oo@@@o",
+".@o o@@.o@@$@ooo",
+" .@ooo@o@$o@o@o@",
+"oooooooo@@ooo@.o",
+"o@@oo@. .. o..@@",
+"@oo.ooooooo@o..@",
+"oX@oo@@oo@o....o"
+};

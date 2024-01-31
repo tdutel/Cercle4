@@ -1,0 +1,25 @@
+/* XPM */
+static char *quartz_block_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 3 1 ",
+"  c #EAE2DA",
+". c #EEE6DE",
+"X c #EEEAE6",
+/* pixels */
+"XXXXXX....   XXX",
+".X....     XXXX.",
+"...      .XXXX..",
+"      ..XXXX... ",
+"  ....   ..     ",
+"...     ..     .",
+"....XXXX    ....",
+"XXXXXXX........X",
+"XXX..   ..XXXXXX",
+" ..  .XXXXXXXX..",
+"XXXXXXXXXX.     ",
+"XXXXXX..      XX",
+"XXXX.. .. ..XXXX",
+"....  ..XXXXXX..",
+"  . ..XXXXX.... ",
+".XXXXXXXXXX.    "
+};

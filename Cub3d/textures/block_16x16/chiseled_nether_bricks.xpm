@@ -1,0 +1,29 @@
+/* XPM */
+static char *chiseled_nether_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #190D10",
+". c #211114",
+"X c #291519",
+"o c #30181C",
+"O c #38181E",
+"+ c #3E1E24",
+"@ c #44242A",
+/* pixels */
+"@@@@o@@+@++@o@@O",
+"@+@+X@Ooooo+X++ ",
+"@XoOX+ooooo+X@o ",
+"+Oo          @o ",
+"o . ++O++oO+..  ",
+"+oo @@+O+++@.+O ",
+"+oo o+o+oo+o.@o ",
+"@Oo +o+++@@@.Oo ",
+"o.. +..++..+    ",
+"@Oo @@+o++o@.@o ",
+"+oo oO....Oo @o ",
+"+oo @+oo+@@@ Oo ",
+"o... ...     .. ",
+"+@OO.O@@@@@@.@O ",
+"+ooo OoooOOo oO ",
+"O... ....... .. "
+};

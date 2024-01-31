@@ -1,0 +1,28 @@
+/* XPM */
+static char *honeycomb_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #C86A08",
+". c #D87803",
+"X c #E88C08",
+"o c #FAAB1C",
+"O c #FFCE5D",
+"+ c #FFE47F",
+/* pixels */
+".XOooX  .XoooX .",
+"XOX XoXXXoX XoXX",
+"oX   XOOoX   XOO",
+"o    .+Oo   .X+O",
+"oX  .X+ooX..Xo+o",
+"XoXXX+X.XoXXo+X ",
+" XO++X.  XO++X  ",
+" .OOo.   .oOo   ",
+".XooOX. .XOoXX  ",
+"Xo. XOXXXoX XoXX",
+"OX  .XOOOX.  XOO",
+"o. ...+Oo.   .+O",
+"oX...X+ooX  .X+o",
+"XoXXX+X..oXXo+X ",
+".XO++.   .+++X  ",
+"..OOo    .Ooo   "
+};

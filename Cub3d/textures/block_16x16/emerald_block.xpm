@@ -1,0 +1,28 @@
+/* XPM */
+static char *emerald_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #1C9829",
+". c #1AAE35",
+"X c #17C544",
+"o c #17DD62",
+"O c #41F384",
+"+ c #82F6AD",
+/* pixels */
+"XXXXXXXXXXXXXXX.",
+"X+++++O+O++ooOO ",
+"X+XXXXXX.XXXX.O ",
+"XOXO+++OooooO.O ",
+"X+X+XXXXXXX.O.+ ",
+"X+X+X+++OO+.o.o ",
+"XOX+X+OOooO.o.X ",
+"XOXOX+O+ooO.o.X ",
+"X+XOXOooX.X.X.o ",
+"XOXOXOoo..o.X.o ",
+"XO.oX+OoXoo.O.X ",
+"Xo.o........O.X ",
+"XOX++oXXXXOOo.o ",
+"Xo............O ",
+"XoXooXXoooXXoO+ ",
+".              ."
+};

@@ -1,0 +1,30 @@
+/* XPM */
+static char *verdant_froglight_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #78A65C",
+". c #88B77F",
+"X c #93C584",
+"o c #A0D39B",
+"O c #BDE1B7",
+"+ c #D7EED5",
+"@ c #EBF9EC",
+"# c #F8FDF8",
+/* pixels */
+" XXoXoO+o+O+oX. ",
+"XoO+o+@+O@O++Oo.",
+"oO+@+@@@+@++@+OX",
+"oO@#@@#@+#@+@+@o",
+"O+@#@@#@@#@@#@#o",
+"O@@##@#@###@#@#O",
+"+@@##########@#+",
+"+#@######@###@#O",
+"+#@###@##@##@#@O",
+"+@####@##@##@#@o",
+"O@@##@@#@@#@+@+o",
+"O+@#@+@@@+@@+@OX",
+"o++#+O@+@+@+O+OX",
+"XO+@+O+O+O++O+o.",
+".oOoOo+oOo+OoOX.",
+" ..X.XOXooX.oX. "
+};

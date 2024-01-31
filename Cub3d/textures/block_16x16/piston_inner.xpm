@@ -1,0 +1,33 @@
+/* XPM */
+static char *piston_inner[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 11 1 ",
+"  c #2D2D2D",
+". c #2F2F2F",
+"X c #353535",
+"o c #444444",
+"O c #535151",
+"+ c #686868",
+"@ c #777777",
+"# c gray52",
+"$ c gray57",
+"% c #A7A7A7",
+"& c gray69",
+/* pixels */
+"oooXXXXXoooooooX",
+"oO##@@+O@+OO+@#o",
+"X@##@+O+@#+OO+#o",
+"X+@+OO###@O@+O+o",
+"XOOO@O$#+O@##@OX",
+".O++#$%&&&$$@+OX",
+".++#$%....%#+O+.",
+"o+@@O&..XX&+OO+.",
+"oO+@+&XXX.&O@+OX",
+"o#OO@% ...%@#@Oo",
+"o##O+$&&&%$###Oo",
+"o@#+OO+@#@O@@+OX",
+"o++O#$O+OOO++O@.",
+"oOO###@O+@#OO+#X",
+"XO+@#@+OO+@O+@#o",
+"XX.XXoooooooXXoo"
+};

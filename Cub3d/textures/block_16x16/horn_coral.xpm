@@ -1,0 +1,29 @@
+/* XPM */
+static char *horn_coral[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #B68930",
+". c #BEA035",
+"X c #D5CB3E",
+"o c #D1B341",
+"O c #E4DA4A",
+"+ c #EDEC4C",
+"@ c None",
+/* pixels */
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@OO@@@OX@@@@",
+"@@@@@X+O@@Oo@@@@",
+"@@@@@@X+OXO @@@@",
+"@@@@@@@ O.o@@OX@",
+"@@@OO@@@ X@oO+o@",
+"@@@o+o@@@oXO+X@@",
+"@OO@Xo@o@ .X@@@@",
+"@ +OXXoo@@ o@@@@",
+"@@ oX+X @@ oX+O@",
+"@@@@ oX@@@ XOO @",
+"@@o @ oo @ o @@@",
+"@@@o    o ooX+@@",
+"@@@@@@@ Xoo@@@@@",
+"@@@@@@@@XX @@@@@"
+};

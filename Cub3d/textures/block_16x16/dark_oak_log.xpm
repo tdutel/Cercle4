@@ -1,0 +1,28 @@
+/* XPM */
+static char *dark_oak_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #292011",
+". c #302513",
+"X c #332715",
+"o c #3F311D",
+"O c #4A381E",
+"+ c #584428",
+/* pixels */
+"o.Ooo Ooo oO.OoX",
+"o.+Xo +Xo oO.ooX",
+"o XXo +Xo.o..ooX",
+"O oXo.oXoXo .oOX",
+"O.oXo oX+XoXo.Oo",
+"Oo.oO.o.+XO.o.Oo",
+"Xo.oOXXoOoOoo.Oo",
+"Xo oOoXOooOXoXOo",
+"o. +ooXOoXOXOXOo",
+"oo.+ooXooXO.Oo o",
+"oooOoXo oXo.Oo o",
+"o.oOoXo +oo +o.o",
+"+.ooOXO +Xo ooXo",
+"+o.oOoo.OXo.oooo",
+"Oo.OooO o.o..Ooo",
+"Oo.O.oO.o.oo.OoX"
+};

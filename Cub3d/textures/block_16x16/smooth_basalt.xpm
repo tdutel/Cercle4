@@ -1,0 +1,28 @@
+/* XPM */
+static char *smooth_basalt[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #1B2632",
+". c #32333D",
+"X c #3A3B48",
+"o c #4F4B4F",
+"O c gray36",
+"+ c DimGray",
+/* pixels */
+"oXOOXXooooooXXOO",
+"XoOooXXoOOX..Xoo",
+"oX.oX.oOOoOX.ooO",
+"OoX.XoOOOO+ XoOO",
+"ooXoXXOO++. XOOo",
+"X.oX.XoOO. .Xooo",
+"..o.XoooX. XOoXX",
+" XXoOOXoX..oOOO.",
+"XooOOooXoXoOOOo ",
+"ooOOOOO...XOOoXX",
+"XOooOOoX.X.XoOoX",
+"oXoOO+Oo..XoOOOo",
+"X.O++X..XoXOOOOo",
+"XooX.  .XOooOOoo",
+"OoX.  .XOOoOOOoO",
+"OOXoX..oOooOoXOO"
+};

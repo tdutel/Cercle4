@@ -1,0 +1,27 @@
+/* XPM */
+static char *small_amethyst_bud[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #64479E",
+". c #7A5BB5",
+"X c #8D6ACC",
+"o c #B38EF3",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOXOOOOOOO",
+"OOOOOOOXo.OOOOOO",
+"OOOOoo. X.ooOOOO",
+"OOOXo.  . .o.OOO",
+"OOO X  .X  X OOO"
+};

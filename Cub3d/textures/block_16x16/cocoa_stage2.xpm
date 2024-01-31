@@ -1,0 +1,30 @@
+/* XPM */
+static char *cocoa_stage2[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #531A09",
+". c #652F0B",
+"X c #823C0E",
+"o c #96571A",
+"O c #B97335",
+"+ c #CB8E53",
+"@ c #E2B17C",
+"# c None",
+/* pixels */
+" .XXX.. ######@+",
+".ooOOoo.#####@+.",
+"XoO++OoX####@+o#",
+"XO+@++OX####+o.#",
+"XO+O@+OX ...... ",
+"XoOoOOoX.OoOo++.",
+".ooXXoo..OO+oO+.",
+" ...XX. .O+@oOO.",
+"########.O+@+O+X",
+"########XO+@OO+X",
+"########XOO+OO+X",
+"########XOoOo++X",
+"######## XXXXXX ",
+"################",
+"################",
+"################"
+};

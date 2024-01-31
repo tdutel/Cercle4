@@ -1,0 +1,27 @@
+/* XPM */
+static char *quartz_pillar_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #DDD9CB",
+". c #E2DED0",
+"X c #EAE2DA",
+"o c #EEEAE6",
+"O c #F2EFED",
+/* pixels */
+". X.XXoXOXO.o X ",
+"XXX.XXX..XX..XX ",
+" XXXoOoOOoOoXXXX",
+"o.XoOOooOOOOoX..",
+"..oO.XXXXXX.Oo.X",
+"OXOOXoOOOOoXOOXX",
+"XXOoXOXXXXOXOOXo",
+"OXooXOXOO.OXOO.X",
+"XXOOXOXOoXOXoO.O",
+"oXOOXOXX..OXooXX",
+"XXOOXoooOOoXOOXO",
+"X.oO.XXXXXX.Oo..",
+"..XoOOOOOOOOoX.o",
+"XXXXoOOOOOOoXXX ",
+" XX..XXX.XX..XXX",
+".X o.OXOXoXX X  "
+};

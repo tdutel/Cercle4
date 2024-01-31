@@ -1,0 +1,27 @@
+/* XPM */
+static char *orange_stained_glass_pane_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #C9762F",
+". c #CF7A30",
+"X c #D27C31",
+"o c #D77F32",
+"O c None",
+/* pixels */
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOO..OOOOOOO",
+"OOOOOOO.oOOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOO. OOOOOOO",
+"OOOOOOO. OOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOO. OOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOOoXOOOOOOO"
+};

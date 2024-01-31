@@ -1,0 +1,30 @@
+/* XPM */
+static char *pumpkin_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #603607",
+". c #A0560B",
+"X c #AB6112",
+"o c #C46F14",
+"O c #B78600",
+"+ c #E38A1D",
+"@ c #E3AA00",
+"# c #E3A64B",
+/* pixels */
+"oooXo+ooXoooXooX",
+"oo++X+++X+++X+Xo",
+"o++++o+#o##+oo+o",
+"ooo#+X++X+oX#+XX",
+"o++X+.oo.oXo+o+o",
+"o+#+.@O ..o+X+#o",
+"++#+oO@O o.Xo+#o",
+"o+X.. O@@.oo++oX",
+"Xo++o. OO ...X+o",
+"o#+X.oo  .oo++++",
+"+#X++o.o.o.+XX+o",
+"o+o++XooXo+.+oXo",
+"oX#+X+++X++oX+Xo",
+"Xo++o##o++++X++X",
+"o++X##+Xo+##Xo+X",
+"XooXoo+Xoo+ooooX"
+};

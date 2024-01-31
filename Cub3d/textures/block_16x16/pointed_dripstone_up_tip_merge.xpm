@@ -1,0 +1,27 @@
+/* XPM */
+static char *pointed_dripstone_up_tip_merge[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #735450",
+". c #836356",
+"X c #927965",
+"o c #A08D71",
+"O c None",
+/* pixels */
+"OOOOOOoo OOOOOOO",
+"OOOOOOXo.OOOOOOO",
+"OOOOOOXX.OOOOOOO",
+"OOOOO oo OOOOOOO",
+"OOOOO.oX. OOOOOO",
+"OOOOO.XX  OOOOOO",
+"OOOOOXoo. OOOOOO",
+"OOOOOXXX. OOOOOO",
+"OOOOOoooX OOOOOO",
+"OOOOOXooo OOOOOO",
+"OOOO.XXXX OOOOOO",
+"OOOO.XXX.  OOOOO",
+"OOOOXoooX. OOOOO",
+"OOOOXoXXX  OOOOO",
+"OOOOXXX..  .OOOO",
+"OOOOXX....  OOOO"
+};

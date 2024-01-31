@@ -1,0 +1,28 @@
+/* XPM */
+static char *deepslate_tiles[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c gray14",
+". c #2D2D2D",
+"X c #383737",
+"o c #414141",
+"O c #4B4C4F",
+"+ c #585858",
+/* pixels */
+"..  ..  ..   .. ",
+"ooX ++O++++OoOo.",
+"XX. +OOOoooooXX.",
+"X.. +OOoOoooooX.",
+"... OoooXXXXXXX ",
+"    ...  .. .   ",
+"++O+OOOo XX.XXX.",
+"OOoOooXX.X....X.",
+"OoOoooXX.XXX... ",
+" .. .... ...    ",
+".XX. O++O+++OooX",
+" X.. OoooooooXX.",
+" ... ooooXXXXX..",
+"    ... ..  ..  ",
+"Xoooooo.XXX. ooX",
+"oooXXXX.XX.. oXX"
+};

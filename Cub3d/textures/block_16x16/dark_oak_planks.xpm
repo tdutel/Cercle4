@@ -1,0 +1,29 @@
+/* XPM */
+static char *dark_oak_planks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #291A0C",
+". c #301E0E",
+"X c #3A2411",
+"o c #3E2912",
+"O c #492F17",
+"+ c #4F3218",
+"@ c #53381A",
+/* pixels */
+"+O+@@@@@+@@@@@+X",
+"++OOXoO+++OO++oo",
+"O+++O+OooooOO++X",
+"X..XX.  .. .  . ",
+"+@o@@@@o@@@+OOo+",
+"O++OoOoXoOO++++O",
+"ooO+OOOX+++OOooo",
+"  ..X.    ...X. ",
+"+@@+OO@@@@@@@@+o",
+"+O++++OoooOoOooX",
+"@+OOooooOOOOoo+o",
+"  .XX.   .X..   ",
+"@o+@@++o@@@o@+@@",
+"OO++ooOoo++O+OOO",
+"OooO+OoX++Oooooo",
+" ..  .XXX. .    "
+};

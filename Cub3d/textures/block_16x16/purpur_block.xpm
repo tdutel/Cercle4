@@ -1,0 +1,29 @@
+/* XPM */
+static char *purpur_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #906590",
+". c #9D6F9C",
+"X c #A472A3",
+"o c #AC7BAC",
+"O c #B286B2",
+"+ c #BA95BA",
+"@ c #C7A8C7",
+/* pixels */
+"@+@@+@+ @+++@@@ ",
+"+OOOOOO.+OOOOOO ",
+"+oOOOoO.+OoOOOo ",
+"@oOoOoo.@ooOoOo ",
+"@oOoooX @ooOooX ",
+"+ooXXXX +oXooXX ",
+"+XXXXXX.+XXXXXX ",
+" ... .   . ...  ",
+"@@+@++@ @++@@++ ",
+"+OOOOOo +OOOOOO ",
+"@OoOOOO +OOOOoO ",
+"@oXoOoo.+oOoOXo ",
+"+XXooXo.+oOooXX ",
+"+XXXoXX.@ooXoXX ",
+"+XXXXXX +ooXXXX ",
+"                "
+};

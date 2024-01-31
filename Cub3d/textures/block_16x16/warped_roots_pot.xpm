@@ -1,0 +1,27 @@
+/* XPM */
+static char *warped_roots_pot[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #16615B",
+". c #167E86",
+"X c #119B85",
+"o c #14B485",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOooXOOOOOO",
+"OOOOOOOooXOOOOOO",
+"OOOOOOOX. OooXOO",
+"OOooXOOO OOoo.OO",
+"OOoo.OoO.OO.. OO",
+"OO.. OXoXOOO OOO",
+"OOO OO.XOOX.XOOO",
+"OOOX .O..O.OOOOO",
+"OOOOO OO.O.OOOOO",
+"OOOOO.OOXO.OOOOO",
+"OOOOO.XOXo OOOOO",
+"OOOOOO.OOXOOOOOO",
+"OOOOO. O..OOOOOO",
+"OOOOO OO.  OOOOO",
+"OOOOO O  O OOOOO"
+};

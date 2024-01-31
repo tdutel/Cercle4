@@ -1,0 +1,28 @@
+/* XPM */
+static char *quartz_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #DDD9CB",
+". c #E2DED0",
+"X c #EAE2DA",
+"o c #EEE6DE",
+"O c #EEEAE6",
+"+ c #F2EFED",
+/* pixels */
+"+++++++++++++++X",
+"+OooooXXXXXOOOO.",
+"+ooXXXXXXoOOOOo ",
+"OXXXXXooOOOoooo ",
+"OXooooXXXooXXXX.",
+"+ooXXXXXooXXXXX.",
+"+oooOOOOXXXXooo ",
+" ...   ..     ..",
+"+++.++++O+O +O++",
+"XoO.+OOOOOo +ooX",
+"OOO +OoXXXX.+OOO",
+"OOo +XXXXXO +OOO",
+"ooX OXooOOO +OOO",
+"XXo +OOOOOo +ooo",
+"ooO OOOoooo.OXoX",
+" .. ....    ..  "
+};

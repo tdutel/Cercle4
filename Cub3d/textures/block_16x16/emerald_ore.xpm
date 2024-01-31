@@ -1,0 +1,34 @@
+/* XPM */
+static char *emerald_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 12 1 ",
+"  c #007B18",
+". c #375B3E",
+"X c #526B50",
+"o c #686868",
+"O c #747474",
+"+ c gray50",
+"@ c #1C9829",
+"# c #17C544",
+"$ c #17DD62",
+"% c #41F384",
+"& c gray56",
+"* c #D9FFEB",
+/* pixels */
+"&&&&+OO+OoOO++++",
+"++XX+&&&&+XXoO+O",
+"+X*$OO++OX*$++++",
+"++$ ++X+&&$ &OOO",
+"O+++&X.++&&&&O++",
+"+&+&&%%@XOOoOoO&",
+"O+o.%* @.+O++XX+",
+"OXX.% @#.XOOX*$+",
+"X*$+#@&&OO+++$ O",
+"+$ &&&++&+XXo&&+",
+"o&O++&+o+%%.oOOO",
+"++++++&+ %* @++&",
+"+OOOXX+O # @#OoO",
+"&&+X*$+OO.@&&OO&",
+"+OO+$ &+o&&++&&&",
+"++++&&OO+&&&+O++"
+};

@@ -1,0 +1,28 @@
+/* XPM */
+static char *anvil[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c gray22",
+". c gray24",
+"X c gray26",
+"o c gray29",
+"O c gray32",
+"+ c #5A5A5A",
+/* pixels */
+"..XXoo++++OOoX..",
+".XoOO+++OOOOOoX.",
+"..oooOOOOO++oOo.",
+".XXoOOOO+++OOoXX",
+".ooXooOOOOOOoOO.",
+" .XooXoOOoooX.. ",
+".XooX..XoooXXX  ",
+".XXoooXXooooOo. ",
+"..XXooXXXoOOOOo.",
+" .XooooX.XOOoX..",
+" ..XXX..XoooX...",
+" .XX..XXooX.... ",
+"   .. .XX....   ",
+" .XXX.  ...XXX..",
+"  .XXX....XX.   ",
+"   ..XXX...     "
+};

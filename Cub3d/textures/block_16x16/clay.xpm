@@ -1,0 +1,28 @@
+/* XPM */
+static char *clay[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #9499A4",
+". c #9CA1AC",
+"X c #9AA3B3",
+"o c #A1A7B1",
+"O c #ACAEBD",
+"+ c #AFB9D6",
+/* pixels */
+" XO+OooOoXoooOo ",
+"oOo ooX.Xo.Ooo.o",
+"oo.oX.XXOoo.+.oO",
+"..XOXO+OooO .Xoo",
+"oXooOXoo.. oooX.",
+"oooO .XXOoooX XX",
+"X .XOoOo.o+X ooo",
+"OoXooXooo ..ooOX",
+"oX+o..oXX.oOO+.o",
+"o...Oo XOoXoo.Xo",
+".OXOOXX oOo.XoO.",
+".OoXX+Oo..XooOoo",
+" .X.OooOXoo.OO+O",
+"oX.oOOOXOoOOoXOX",
+"o.oOXX..o+o.. Xo",
+"+OoXOoooooXooo.o"
+};

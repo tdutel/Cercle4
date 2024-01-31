@@ -1,0 +1,28 @@
+/* XPM */
+static char *red_sand[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #AC5712",
+". c #B2601F",
+"X c #BF6721",
+"o c #CB6E24",
+"O c #D2752B",
+"+ c #D97B30",
+/* pixels */
+"OXXoX.oXoX.oXo.o",
+".XX.X..o .OX+ XO",
+"oX ..OXXXXX.X..X",
+"Xoo.X.o.oo.oX.XX",
+".X+X.oXoXoXX.XXo",
+"X.XXoooX.Xo.XX.X",
+".OX..+.X.. XX.X.",
+"X.XX.XX.X...XOX.",
+".XoXXo. .o.XoX.X",
+"OX.XXX..X X.XXo.",
+"X XoX.XoXXoX .Xo",
+"..XXoX.Xoo...X.X",
+".X.o.oX.O+oX..Xo",
+"oXoXo XoXoXoXX.X",
+"XoXo+ooXoXoX oXX",
+"oXoXooXoX.XXoXoX"
+};

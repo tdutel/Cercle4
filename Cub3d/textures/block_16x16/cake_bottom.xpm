@@ -1,0 +1,27 @@
+/* XPM */
+static char *cake_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #7F3A1D",
+". c #6B3420",
+"X c #8D4324",
+"o c #A74B24",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"O  XXoXX XXXX  O",
+"O XXXXXXXXXXoX O",
+"OXXX  . XXX X XO",
+"OXo X    .   XXO",
+"OXX  .      .XXO",
+"OX     X  X  XoO",
+"OXX .      . XXO",
+"OXo    .    XXXO",
+"OXXX      X XX O",
+"O XXX.     . XXO",
+"OXX    X .   XoO",
+"OXXX     XX XXXO",
+"O X XXoXXXXXXX O",
+"O  XXXXX XoXX  O",
+"OOOOOOOOOOOOOOOO"
+};

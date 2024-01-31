@@ -1,0 +1,30 @@
+/* XPM */
+static char *ochre_froglight_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #C99E51",
+". c #D7A658",
+"X c #D9B86E",
+"o c #E9CE86",
+"O c #F7DF92",
+"+ c #FAEFB2",
+"@ c #FCFACD",
+"# c #FEFFEC",
+/* pixels */
+" XXoXoO+o+O+oX. ",
+"XoO+o+@+O@O++Oo.",
+"oO+@+@@@+@++@+OX",
+"oO@#@@#@+#@+@+@o",
+"O+@#@@#@@#@@#@#o",
+"O@@##@#@###@#@#O",
+"+@@##########@#+",
+"+#@######@###@#O",
+"+#@###@##@##@#@O",
+"+@####@##@##@#@o",
+"O@@##@@#@@#@+@+o",
+"O+@#@+@@@+@@+@OX",
+"o++#+O@+@+@+O+OX",
+"XO+@+O+O+O++O+o.",
+".oOoOo+oOo+OoOX.",
+" ..X.XOXooX.oX. "
+};

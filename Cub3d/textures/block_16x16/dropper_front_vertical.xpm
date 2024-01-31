@@ -1,0 +1,31 @@
+/* XPM */
+static char *dropper_front_vertical[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #101010",
+". c gray13",
+"X c #3C3B3B",
+"o c #504E4E",
+"O c #5D5B5B",
+"+ c #686868",
+"@ c #777777",
+"# c gray52",
+"$ c gray57",
+/* pixels */
+"ooooXoooXXXoXXoo",
+"oO++@+#@++@@++Oo",
+"oO@$OO+O#$++@@@o",
+"o+##$$O@@##$O@+o",
+"o@###@O+@###+@OX",
+"X@+++OOOOOO#++OX",
+"o+$$OX.....#$$Oo",
+"X@##O.    .$##@X",
+"X@#@O.    X$#@@o",
+"o@##O....XX$@@Oo",
+"o@@#+#$$$$#OOO+X",
+"X+@#@+$####$O#@o",
+"X+O@+O@#@#@+#++o",
+"o+OOO#O@+@++@++o",
+"oOO+#@#OO++O++Oo",
+"ooooXoooXXXXoooo"
+};

@@ -1,0 +1,28 @@
+/* XPM */
+static char *packed_ice[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #7CA5F4",
+". c #85ADF8",
+"X c #92B9FE",
+"o c #A1C3FF",
+"O c #BCD4FF",
+"+ c #C8DCFF",
+/* pixels */
+"  .XXooXX. Xooo ",
+" .XXOo..XX.oo.  ",
+".XXOo .Xo...    ",
+"XXo.  oo. ..  ..",
+"XXX.  X.  XX.XXX",
+"X.XXX..  XXXXooX",
+"..XX...XXXXXoo..",
+"  ...ooX.XXooX. ",
+" ..XoXX ..oOo.  ",
+".XXXXX.  X+o.   ",
+"oXXoX.  XOX  . .",
+"XooX.  XoX.  ..X",
+"ooX.  ..X.  .XXX",
+"oo.. ....XX..XXX",
+"o......XXoX.XXoO",
+"....XXXXoo.XXo+o"
+};

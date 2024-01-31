@@ -1,0 +1,28 @@
+/* XPM */
+static char *dead_brain_coral_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #5D5A59",
+". c #686463",
+"X c #746A66",
+"o c #867B77",
+"O c #99938D",
+"+ c #A4A09C",
+/* pixels */
+"ooXoXoO  . o.XOo",
+"OooXoO+X  .. . O",
+"OOOOO+OO. ....Xo",
+"Oo...XoO+o..oOoX",
+"o.    .oO++OOo .",
+".  . . XooO+o  .",
+". ....Xo..oO. ..",
+"o .X.XO.XXOOO..o",
+"oX .oOoXXOO.XOOO",
+"+OoOOoOOOX.XX.Xo",
+"Oo+++OoX..XoXX.X",
+"o  oO+OX.ooXoXoo",
+"  . .OOOXoXoXOOo",
+" ..  .OoOXoXO+o.",
+".X.X. OOoOOOoo.X",
+"o.oX oOo..oooXX."
+};

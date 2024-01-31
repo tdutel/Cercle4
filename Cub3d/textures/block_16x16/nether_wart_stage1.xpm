@@ -1,0 +1,29 @@
+/* XPM */
+static char *nether_wart_stage1[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #480000",
+". c #521810",
+"X c #730408",
+"o c #831C20",
+"O c #A42429",
+"+ c #C53439",
+"@ c None",
+/* pixels */
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@XXXo@",
+"@@XXoX@@@@XOOO+X",
+"@XOO+O @@@o+OOo ",
+"@o+OOo @@@XoOoX ",
+"@XoOoX @@@@.oo @",
+"@@.oo @@@@@.oo @",
+"@@.XX @XoX@.oX @",
+"@X.XX XO+O .XX @",
+"XO.XX o+Oo .XX.@",
+" oX.X @.o @.X.@@",
+"@ X X @.X @.X @@"
+};

@@ -1,0 +1,28 @@
+/* XPM */
+static char *stripped_mangrove_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #6D2C2D",
+". c #6F2E2D",
+"X c #7A3D2F",
+"o c #753131",
+"O c #7A3731",
+"+ c #804533",
+/* pixels */
+"ooo.oXOXXOoOOo..",
+".OOoOOOOXXOOooo ",
+"..OXXXXooOOXXOoo",
+"OooOXOooXXO oOOo",
+" oO+XXOOXoOXXOo.",
+"oOXXXOOXXXO++XOo",
+" ..oOOXXOoXOoOoo",
+"ooOXXXOo .oXXXOo",
+"oOXOOXXOoXXXOo..",
+".oOOXOOXXooXXOo.",
+"oOOooOXXOO..OOXX",
+"oOXXXX++XOOXOo. ",
+"OXOOXXOXXXXXXOoo",
+" OOo.ooOXXXOOoo.",
+"oOOOXXOOooOOXXOo",
+" .oOOXXOO  ooOOO"
+};

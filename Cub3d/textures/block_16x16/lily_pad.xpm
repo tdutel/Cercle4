@@ -1,0 +1,28 @@
+/* XPM */
+static char *lily_pad[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c gray36",
+". c #686868",
+"X c gray50",
+"o c gray59",
+"O c gray64",
+"+ c None",
+/* pixels */
+"++++++++++++++++",
+"++++  .+++.  +++",
+"+++ Xo +++ XO ++",
+"+++ oOX.+.Xoo ++",
+"++ XOoo + oooO +",
+"++ OoOoX.XoOoO +",
+"++ OooOo.oOooo +",
+"++ OOoOOXoOoOo +",
+"++ OOooOoOooOo +",
+"++ OooOooOoooO +",
+"++ XOooOooOooX +",
+"+++ OooOoOooo ++",
+"+++ XOooXOoOX ++",
+"++++  Xo.oX  +++",
+"++++++     +++++",
+"++++++++++++++++"
+};

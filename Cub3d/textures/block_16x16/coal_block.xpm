@@ -1,0 +1,27 @@
+/* XPM */
+static char *coal_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c gray2",
+". c gray5",
+"X c #151515",
+"o c #1F1E1E",
+"O c #292828",
+/* pixels */
+"ooXX.XX  XX.  .X",
+"XXX.X.   X. .Xoo",
+"X.   .XX    XXXX",
+".  .XOoXXXX XX. ",
+"  .XooXXX.  X.  ",
+"X XXXXX.     .XX",
+" .oXX..  ..XXXXX",
+" XXX. .XXoOoXX. ",
+" X.. .XooXXX.   ",
+"  .X.XoXX.. oX  ",
+"X.X.XXX.   XX..X",
+"oX. X..XX.  .XXo",
+"   X..oOoX.XooXX",
+"   .XoOX  XoXX. ",
+"  .XoX.  .XXX.  ",
+".XXXX.XX.XXX.   "
+};

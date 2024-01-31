@@ -1,0 +1,30 @@
+/* XPM */
+static char *gravel[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #645B5B",
+". c #726B69",
+"X c #817F7F",
+"o c #89817E",
+"O c #968E8E",
+"+ c #979797",
+"@ c #B1A2A2",
+"# c #B0AEAE",
+/* pixels */
+" oO..+X+.X.XX+X.",
+"+XX.XXo.X. Xooo+",
+"XX. o.oo+XXo+.o+",
+"XXoXoX.+XX+.XoXX",
+".oX@O..XXX. X+oX",
+" X.O .oo+X#++XX.",
+"o. OXX#+.++o .XX",
+"++oX+o+XXo..XX+o",
+"+o+X.XXoo. X+#.X",
+"Xo..#+X.+XoXX.oX",
+".Xo++o. X+X.oX+ ",
+"XX+oo+#X..oXX+X.",
+"X.oXXXX+o@O.++X+",
+"oo. X+XoXOXXX.+X",
+"o+oXoo..XOoo. o+",
+".X@O.XXXoXoX.X.X"
+};

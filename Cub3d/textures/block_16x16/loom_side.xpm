@@ -1,0 +1,31 @@
+/* XPM */
+static char *loom_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #543229",
+". c #6F4237",
+"X c #806337",
+"o c #844F42",
+"O c #8F5647",
+"+ c #A48048",
+"@ c #BC935A",
+"# c #C6A067",
+"$ c #CAA671",
+/* pixels */
+"$$$$$@$$@@@@@$$$",
+"@..............$",
+"@. oooooooooo .@",
+"@oOoooooOOoooO.@",
+"@oooooooo....  @",
+"@ ..o.oooooooo.@",
+"@ooooooooooooo.@",
+"@+++++++++++++X@",
+"@#$$$@$@$$$@#$$@",
+"@..............@",
+"@oooOOOOOooooO.@",
+"@.....o.oooo...@",
+"@. oooooooooo .@",
+"@.OOOOOOooOOOo.@",
+"@$$$#@$$$@$$$@#@",
+"XXXXXXXXXXXXXXXX"
+};

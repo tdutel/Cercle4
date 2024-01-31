@@ -1,0 +1,29 @@
+/* XPM */
+static char *mud[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #322D36",
+". c #3E3836",
+"X c #33323A",
+"o c #3A383D",
+"O c #46403E",
+"+ c #434445",
+"@ c #494A4C",
+/* pixels */
+".O+oo.XOo.o+@oXX",
+"O+oXXOOo.X.oXXXX",
+"++XXo.XX o+.oXOO",
+".Oo@+oX X++oX.@+",
+"..++oXXoO+ooO++.",
+".OOoXXoOOooO.oX.",
+"ooXXXoOOoOo. XoO",
+"..OOXOo.XX.o@+Oo",
+"XOOoo+.XX.+@+oX ",
+"ooXX++O.OoOOXX X",
+"O+o+@O.o@+oXX...",
+"+oXo.oO++o o.o.+",
+"X ..oOOo  XXo+Oo",
+"  .X.++XXO+OXooX",
+"XXXo+@.XO+.  XoX",
+"XoOO.oXX.oXX++Xo"
+};

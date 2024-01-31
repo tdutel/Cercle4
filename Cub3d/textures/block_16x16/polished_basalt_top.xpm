@@ -1,0 +1,29 @@
+/* XPM */
+static char *polished_basalt_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #32333D",
+". c #353641",
+"X c #3D3E4C",
+"o c #4F4B4F",
+"O c gray36",
+"+ c #747474",
+"@ c #898989",
+/* pixels */
+" X++oo..++Oo.oX ",
+" +OO@OOo@OO+oOoX",
+"X+@+@++O@++@+OOO",
+"oO+oOoOOooooo++o",
+"XOOo@@@@++++oooX",
+"X@+O@OoOOoO+o+OO",
+"XOoo@o@+@+o+O@@O",
+"+@@o@o@oO+O+o+OO",
+"OOOo+o@Oo+o@o@+o",
+"X+@o+O++++o@O@@+",
+"oO+o+OoOooO@o+OO",
+"OO+o+++++@@@o++X",
+"o++OoooOoOooo@+o",
+"XO@@+o@O+@OO+++X",
+"X++@+O+++@O+O+OX",
+" XO+OOo+++OoO+X "
+};

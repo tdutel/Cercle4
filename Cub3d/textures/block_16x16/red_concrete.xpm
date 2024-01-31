@@ -1,0 +1,28 @@
+/* XPM */
+static char *red_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #8C2020",
+". c #8D2020",
+"X c #8E2020",
+"o c #8F2121",
+"O c #8F2222",
+"+ c #8F2323",
+/* pixels */
+"o...o..ooooooooo",
+"oo.o.o.oooooooo ",
+"oo.ooo..oo.ooo..",
+"..oXo.....oo....",
+".oo.oooo. oooooo",
+"oooo.oooo. ooo+o",
+"oooo..oooo ooo o",
+".oooo. ooooooooo",
+"o ooo+ooooo  ooo",
+"+oo  ooo oo+oo o",
+"oooooo o ooooooo",
+"o +o+oooooooo oo",
+"o+ooooo oo.o o o",
+"oooooooo...ooooo",
+"o oooooo.ooo ooo",
+"oo+oooooooo.. o "
+};

@@ -1,0 +1,30 @@
+/* XPM */
+static char *pink_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #D3648D",
+". c #D4648D",
+"X c #D4648E",
+"o c #D5648E",
+"O c #D6658F",
+"+ c #D6668F",
+"@ c #D66690",
+"# c #D66790",
+/* pixels */
+".o@@@o@o.@oO@@oo",
+".@o@@.@O.@@@O@@o",
+"o@..@@.o@Oo.@..@",
+"@@@@@.@oOOo@@@O@",
+"oo.@O@oo@O@oOo@O",
+"ooOOOOooOoO@o@O.",
+"o@O@@@oo@oo.O@OO",
+"@@@@OoOO@oooo..@",
+"O@@@o@OoO@@.@O@O",
+"OOo@OO@Ooo@O.@Oo",
+"@..@O.@oO@O.oOOo",
+"o@@#.@O@@@oOo@.O",
+"oOOoOo@@.@@O.@@@",
+"@OOo@@@o@@.@@.oO",
+"@.Oo..OOoO.@o.oO",
+"o@oO#.@O@@O@@ooo"
+};

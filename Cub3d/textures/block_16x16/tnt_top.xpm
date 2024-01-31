@@ -1,0 +1,29 @@
+/* XPM */
+static char *tnt_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #11111E",
+". c #565656",
+"X c #912D11",
+"o c #B11527",
+"O c #DB2F1A",
+"+ c #EA4318",
+"@ c #8E8E8E",
+/* pixels */
+"O++OO++OO++OO++O",
+"+@@o+@@o+@@o+@@o",
+"+@.X+@.  .@X  @X",
+"ooX.o XXoo  ooXX",
+"O++  ++OO++ O++O",
+"+@@o+@ o.@.o @@o",
+"+@...@    @X. @X",
+"ooXXo.   ...o XX",
+"O++O.      O ++O",
+"+@.. @   ..o @@o",
+"+@.X+ @  .@ ..@X",
+"ooXX. X..o XooXX",
+"O++.O+ O  +..++O",
+"+@.o+@.o+.@o+.@o",
+"+@@X+@@X+@@X+@@X",
+"ooXXooXXooXXooXX"
+};

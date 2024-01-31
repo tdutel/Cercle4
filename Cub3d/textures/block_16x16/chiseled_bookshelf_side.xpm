@@ -1,0 +1,28 @@
+/* XPM */
+static char *chiseled_bookshelf_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #967441",
+". c #9F844D",
+"X c #AF8F55",
+"o c #B8945F",
+"O c #C29D62",
+"+ c #CEAA71",
+/* pixels */
+"+++OO+++OOO++OOO",
+"+...       ..  O",
+"+.++O.++Oo ++O.o",
+"+ OoX.OooX OoX.o",
+"O OoX OooX OoX O",
+"O oX. oXX. oX. O",
+"O.    ..   .   O",
+"++OO+++OOoooOOO+",
+"OXXoooooXXXXXooo",
+"+...  ...   ...o",
+"+ ++O ++Oo ++O.o",
+"+ OoX OooX OoX.o",
+"O OoX.OooX.OoX X",
+"O.oX. oXX..oX. X",
+"O     ..   .   .",
+"XX....XXXXXX...."
+};

@@ -1,0 +1,29 @@
+/* XPM */
+static char *ancient_debris_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #331810",
+". c #411E15",
+"X c #4A2C23",
+"o c #5D342C",
+"O c #654740",
+"+ c #7E6059",
+"@ c #95867E",
+/* pixels */
+"..+@@@+OX. .o@o+",
+" +@.   .O+@@@+oO",
+"+@+O+@XX..  .@@O",
+"o@  .X@@+OXOXX.@",
+" XoX...  .+O + @",
+" oX+O O@+X.+ @ @",
+" oO.o @..+ + @.+",
+".X+ @ + .@ @X@.X",
+"X.@ @XOX++ @ +X.",
+"+.@.+.  ...o @X.",
+"@ +X.+@@O+oXX@X ",
+"@ O  ..X...  +X ",
+"@ oooO+@@+@Ooo+o",
+"+@+..    ..XXO@ ",
+".o++@@@+OO. .@.o",
+".O@oO+OOX+@+@+.+"
+};

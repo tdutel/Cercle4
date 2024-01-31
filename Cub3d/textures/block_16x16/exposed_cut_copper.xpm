@@ -1,0 +1,30 @@
+/* XPM */
+static char *exposed_cut_copper[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #736051",
+". c #7F7257",
+"X c #947661",
+"o c #A87762",
+"O c #7A9869",
+"+ c #988C69",
+"@ c #BA8277",
+"# c #CE8D83",
+/* pixels */
+"#@##@@@.#@##@+@.",
+"@X+@oX. @.X+@XX ",
+"#O@oX.X.#X@@X.X.",
+"#+oo.Xo #ooX.Xo ",
+"#oXX.o+.#@XoXo+ ",
+"@+XXX@O.@ooXo@O.",
+"@+OXo+O @X.o@+o.",
+".. ..   . .   . ",
+"##@#@@#.###@#@@.",
+"#oXoX@@.#X+@oX. ",
+"@X.Xo@X.@+OoXo. ",
+"#.Xo@X. #OoXoXX ",
+"@Xo@X.X.#+XX.oX.",
+"+o@@ooX @X..o@o ",
+"O+@ooXo.@..o+O@.",
+" ...  .   ..  .."
+};

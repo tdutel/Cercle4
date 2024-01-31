@@ -1,0 +1,29 @@
+/* XPM */
+static char *deepslate_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c gray14",
+". c #2D2D2D",
+"X c #383737",
+"o c #414141",
+"O c #4B4C4F",
+"+ c #585858",
+"@ c gray43",
+/* pixels */
+"+@@@@@@@@@@@++o ",
+"@+++++++O++++oX ",
+"@++++OO+++++Ooo ",
+"@oO+Ooo++OO+oOo ",
+"@X+oXoOoOOooOXo ",
+"+OXXoXooOoXooX. ",
+"XXXXXXXXXX.XX.X ",
+"..  ..   ...   .",
+"@@++@@+ +@@@@@@@",
+"++O++oX @++++O++",
+"+OO++Oo @+++o+++",
+"+OOO++X @+O+Oo++",
+"OXooO+X +Oo++O++",
+"XXXoooX +oX+OoOo",
+"XXXXXXX XXXXXXXX",
+"......    ......"
+};

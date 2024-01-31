@@ -1,0 +1,30 @@
+/* XPM */
+static char *birch_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #36342A",
+". c #605E54",
+"X c #BEBEAE",
+"o c #D8D8CE",
+"O c #DED3D5",
+"+ c #F0EEEB",
+"@ c #EEF1EA",
+"# c white",
+/* pixels */
+"++Ooo+++oO++oo++",
+"oO++++###+oOOOo+",
+"###OOo+#++++o+##",
+"##oX.  .o+####o#",
+"o++oX.. .o##+o.X",
+"..oo+oOOo+ooo.  ",
+".X++oOO+###++@oX",
+"oOo######ooO@@+o",
+"#+oo+##@@####@##",
+"##+OO@@@###++oo+",
+"oo+####+++oOO##+",
+"o+####+####@##+o",
+"OOo++oo++#@@oX. ",
+" X++###+oOOo.   ",
+"  .ooo###+..oX..",
+"+oo.+###+Ooo+oo+"
+};

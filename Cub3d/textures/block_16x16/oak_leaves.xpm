@@ -1,0 +1,27 @@
+/* XPM */
+static char *oak_leaves[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #686468",
+". c #777577",
+"X c #989998",
+"o c #B9BCB9",
+"O c None",
+/* pixels */
+"  OoOXXO.. XOOo.",
+"XOOO  .XOX.XOoXo",
+"OO..OXX.oOXOOooo",
+"OX.  OoXo OOOOoO",
+"X.X.OOXoOOO XXOO",
+"XX.OOo.   OO .XO",
+"..O oXoXO..OXX.o",
+".  OoooO  .XOo.X",
+"oXO  oXXO.X.XOX.",
+"oOOO   .XOXXXOoX",
+"OXXO OXX.oOXOOOo",
+"o.  OOOoXoO.XOOO",
+".XXOXXOOoO  .oOo",
+"XoOo.  OO OXo.Xo",
+"oOoXoXOO..OOoXoO",
+"XOoooOO   .OOoOX"
+};

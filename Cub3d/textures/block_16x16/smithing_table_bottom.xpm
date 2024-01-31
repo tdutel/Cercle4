@@ -1,0 +1,27 @@
+/* XPM */
+static char *smithing_table_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #1A1B1E",
+". c #2F1411",
+"X c #421C17",
+"o c #4A1F1A",
+"O c #52221D",
+/* pixels */
+"  oooXXooXXXoX  ",
+"  .X...X....X.  ",
+"o.oOOOOooOOOoo.o",
+"o.oXXXXXXXXXXO.X",
+"oXOXXXXXXXXXXO.o",
+"X.OXXXXXXXXXXoXo",
+"X.OXXXXXXXXXXO.X",
+"X.oXXXXXXXXXXO.X",
+"o.oXXXXXXXXXXoXo",
+"oXOXXXXXXXXXXoXo",
+"oXOXXXXXXXXXXO.X",
+"o.OXXXXXXXXXXO.o",
+"X.OXXXXXXXXXXOXo",
+"X.ooOOOoooOOooXo",
+"  .XX....X.XX.  ",
+"  XoooXXooXooX  "
+};

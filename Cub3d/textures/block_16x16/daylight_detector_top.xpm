@@ -1,0 +1,31 @@
+/* XPM */
+static char *daylight_detector_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #3C3322",
+". c #473D29",
+"X c #654F31",
+"o c #BEAA8E",
+"O c #CAB69C",
+"+ c #D2C1AB",
+"@ c #D9CBB8",
+"# c #DFD4C5",
+"$ c #E4DBCE",
+/* pixels */
+"                ",
+" X++X.X++X.X++X ",
+" +$@O.+#@O.+$@O ",
+" +@+o.+@+O.+@+o ",
+" XOoX.XOoX.XOoX ",
+" .............. ",
+" X++X.X++X.X++X ",
+" +$@O.+$$O.+$@O ",
+" +@+o.+@+o.+@+o ",
+" XOoX.XOoX.XOoX ",
+" .............. ",
+" X++X.X++X.X++X ",
+" +$@o.+$@O.+$@O ",
+" +$+o.+@+o.+@+o ",
+" XOoX.XOOX.XOoX ",
+"                "
+};

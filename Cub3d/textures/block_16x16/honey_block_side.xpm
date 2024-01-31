@@ -1,0 +1,28 @@
+/* XPM */
+static char *honey_block_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #F79909",
+". c #FAAB1C",
+"X c #FDC134",
+"o c #FFCE5D",
+"O c #F6DB70",
+"+ c #F8E38A",
+/* pixels */
+"...X++OooXX.  XX",
+".XXOOOOooOoX....",
+"X.oOOooOoXX..  X",
+".ooOX.XooXX.   .",
+".XXo.... .   .  ",
+".XX..     .ooX. ",
+" ...... .XoooXX.",
+". .XoooX.oX.  .X",
+"X...XooXX.  .XXX",
+".X.    ...XXO++O",
+"oXXXX.   ..O++OO",
+"OooXXXX...OOOooO",
+"OOooOOOXooooXXoO",
+"OOOooOOOoXoXXXoo",
+"oOOXXoooX....XXo",
+"ooX.XooX...    ."
+};

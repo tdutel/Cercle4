@@ -1,0 +1,27 @@
+/* XPM */
+static char *bee_nest_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #6F533A",
+". c #7A5737",
+"X c #A28166",
+"o c #BC986D",
+"O c #C8A671",
+/* pixels */
+"  .  ..    ..   ",
+" ooooXoooXooooo ",
+" oOOOoOOOoOOOOo.",
+" oO ..   ... Oo.",
+" oO.oOOOOOOo.oX ",
+".oO.OOOOOOOO Oo ",
+".Xo.OO .. OO Oo.",
+" oO OO.OO.OO Oo.",
+" oO OO.Oo.Oo.oX ",
+".oO OO .. Oo.Oo ",
+".Xo.OOOOOOOo.Oo.",
+".oO.oOOOOOoo.Oo.",
+" oO ........ oX ",
+" oOOOOoOOOoOOOo ",
+" ooooXooooXoooo ",
+"   ..   ..  .  ."
+};

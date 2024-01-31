@@ -1,0 +1,30 @@
+/* XPM */
+static char *chipped_anvil_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c gray22",
+". c gray24",
+"X c gray26",
+"o c gray29",
+"O c gray32",
+"+ c #5A5A5A",
+"@ c #727070",
+"# c None",
+/* pixels */
+"###XXooOOOoXX###",
+"###XoOOOOoooX###",
+"###. XXO OOOo###",
+"###o+ . @OOOX###",
+"### o+ @o Oo.###",
+"###.oo +o XX ###",
+"###X  OoX+  .###",
+"### @+. X @+ ###",
+"###o+o+@ @+O+###",
+"###+XXo+ OOoX###",
+"###..XXX.ooX.###",
+"###.+  .@+XX.###",
+"###.o+@@+OOo.###",
+"###XoOOOOooX.###",
+"###XXoooXXXX ###",
+"### XXXX.X.. ###"
+};

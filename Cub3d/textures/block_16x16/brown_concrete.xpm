@@ -1,0 +1,27 @@
+/* XPM */
+static char *brown_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #5F3B1F",
+". c #603B1F",
+"X c #613C20",
+"o c #613C21",
+"O c #613D21",
+/* pixels */
+" X..X..X XXXXXX ",
+"XXX.XXX..X..XXXX",
+"X. .X  XXXXXXXX ",
+"XX..X  XXX..X  X",
+".X ...X ... XXX.",
+"X.XXX.XX.XXXX.X ",
+".XXX.XXXXX XXXXX",
+"XXXXX.XX XXXXXX.",
+"XXXX.X .XXXX X X",
+"XXXX.XX.  XX.X..",
+" XXXX.X.. X.XX.X",
+"XX.X. . .X  ....",
+" XXX.XXXX..X.XX.",
+"XXXX.X.XX..X..X.",
+"XXX   X XXX.. .X",
+" X XXX XXXXX.XXX"
+};

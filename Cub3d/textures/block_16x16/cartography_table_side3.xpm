@@ -1,0 +1,30 @@
+/* XPM */
+static char *cartography_table_side3[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #291A0C",
+". c #301E0E",
+"X c #3A2411",
+"o c #3E2912",
+"O c #492F17",
+"+ c #4F3218",
+"@ c #53381A",
+"# c #6A461E",
+/* pixels */
+"@###@###@###@###",
+".oOo +O@ o+@.++O",
+".o++.O+@.O+o.+O+",
+" O+@XO++.+O@X+O@",
+" +o@Xo+OXOo@XOX@",
+".Oo+.o+O.OO@.+o@",
+"XoO+ oO@ Oo@ OO@",
+"XXoo oo@ XXo o+@",
+"X+o@ Oo@ +o@.o++",
+".++@.Oo@ +O@.o+@",
+" O+@XOO@.+O@ oO@",
+".oOo.Oo@.O++.OO@",
+" o+@.oO@.O+O O+@",
+" oO+ oo@Xo+O ++@",
+" oO@ +o+.o+o.+o+",
+" ... ... ... ..."
+};

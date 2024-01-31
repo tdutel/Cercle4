@@ -1,0 +1,28 @@
+/* XPM */
+static char *ice[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #86AEFD",
+". c #8CB3FE",
+"X c #92B9FE",
+"o c #A1C3FF",
+"O c #BCD4FF",
+"+ c #C8DCFF",
+/* pixels */
+"   XXOoXXX..oooX",
+"  XXooXXX..XoX. ",
+" .XXXXXX..XoX.  ",
+"XX.XXX...X.X.. .",
+"X..XX.X.   ...XX",
+"..XXX..   .XXXoo",
+" .XX..X ..XXooXX",
+"  ...XXX.XXoOoX.",
+" ..XXXX ..oOoXX ",
+".XXXXX   o+oXX  ",
+"XXXoX   XoXXX  .",
+"XooX.  XoXXXX. X",
+"ooXX   .XXXX..XX",
+"+oX.  .XXXX..XXX",
+"oX.   XXoXX..Xo+",
+"X   XXOoXX...oOo"
+};

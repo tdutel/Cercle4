@@ -1,0 +1,32 @@
+/* XPM */
+static char *bamboo_planks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #907E3A",
+". c #998741",
+"X c #B7AB49",
+"o c #BBA84C",
+"O c #C2B54E",
+"+ c #C8B14D",
+"@ c #D3BB50",
+"# c #D9C25E",
+"$ c #E3CC6A",
+"% c #EFD97E",
+/* pixels */
+"XXOOXX$OXXOOOOXX",
+"##$$$@%$$##$$##$",
+"@++@@X$#@@@@++++",
+"  ..  o...   o. ",
+"ooo++oo++++oX$+o",
+"$###$$##$$##@%$$",
+"+@+@@@@++OO+X$#@",
+".  o....   . o..",
+"+oX$+oo+o+++ooo+",
+"##@%$$$#####$$##",
+"+OX$#@+OO+@@+++@",
+".. o.....  o.   ",
+"o++oooOO++X$+ooo",
+"$###$$$###@%$##$",
+"++@@@+++OOX$#@@@",
+" ..   .  . o... "
+};

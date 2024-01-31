@@ -1,0 +1,28 @@
+/* XPM */
+static char *blue_glazed_terracotta[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #201B38",
+". c #231E43",
+"X c #2C2E8F",
+"o c #3C44AA",
+"O c #4577D3",
+"+ c #2389C7",
+/* pixels */
+"XO..X ..... X.XX",
+"OX..X ..... X..X",
+"+XX. X      XX..",
+" +X oO++++Oo XXX",
+" OXO+oXXXXo+OX..",
+" oOoXOoOoOXXo+X.",
+" OoXOoOoOooOXo+X",
+"OoXoOo+oOoOooXoO",
+"oOoXOo+oOo+oXoOX",
+".XO+XoOo+oOXOO..",
+".. o+XOo+oXOoX..",
+"  ..oOXoOXO ..XX",
+"XXX .o+XXOXX  ..",
+"..XX  OoOooXXX  ",
+"X..X .oOoO++OoXO",
+"XX.X . O .  oOOX"
+};

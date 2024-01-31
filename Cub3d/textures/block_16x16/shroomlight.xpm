@@ -1,0 +1,30 @@
+/* XPM */
+static char *shroomlight[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #B62F09",
+". c #D7510B",
+"X c #E47205",
+"o c #FE8738",
+"O c #FEAC6D",
+"+ c #FFC67F",
+"@ c #FEDD9F",
+"# c #FDF4B4",
+/* pixels */
+". .X.ooX.  O@@o.",
+" XXXX.OOoX.+@O+o",
+".ooOO++OO.ooO++O",
+".XoO@@@+OXOOoOOo",
+"X.O@#O+o.O++OoOX",
+".XO@OOo.O+##@OoX",
+".o..++O.O+##OOoX",
+"oX@@.XXo.+@OOXOo",
+"oO@+o@@+oX++o.OO",
+"oX+Oo@#O+Xo..OOo",
+"XoXo++OO+oOOOXXX",
+"ooX+XX++OXX@@@O.",
+"oX@+OOXo..O@#OXX",
+".++OOX++O.OOooX.",
+"XoOoXX+Oo.XXXX. ",
+"XX.XX.X.  .X..  "
+};

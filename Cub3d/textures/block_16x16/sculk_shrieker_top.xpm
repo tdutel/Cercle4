@@ -1,0 +1,25 @@
+/* XPM */
+static char *sculk_shrieker_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 3 1 ",
+"  c #BBC39B",
+". c #D1D6B6",
+"X c None",
+/* pixels */
+"XXXXXXXXXXXXXXXX",
+"X   .XXXXXX.   X",
+"X  ..XXXXXX..  X",
+"X ..XXXXXXXX.. X",
+"X..XXXXXXXXXX..X",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"X..XXXXXXXXXX..X",
+"X ..XXXXXXXX.. X",
+"X  ..XXXXXX..  X",
+"X   .XXXXXX.   X",
+"XXXXXXXXXXXXXXXX"
+};

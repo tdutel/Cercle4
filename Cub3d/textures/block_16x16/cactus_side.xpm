@@ -1,0 +1,31 @@
+/* XPM */
+static char *cactus_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #39581A",
+". c #426520",
+"X c #497122",
+"o c #527D26",
+"O c #5B8C2B",
+"+ c #649832",
+"@ c #9FA76D",
+"# c #BABF95",
+"$ c None",
+/* pixels */
+"$ O+OXo++O O+o $",
+"$.oOo#oO+O ++O#$",
+"#@oOo oo+OX++O $",
+"$ OOO oO+O@O+o.$",
+"$ O++.o++o oOo $",
+"$ ++O o++o oOO#$",
+"# ++o o#+o o+O $",
+"$ ++O o+Oo O+O $",
+"$ O+o.oOoo ++o.$",
+"$ o+O.o+oo ++o.$",
+"$.o+O@O+Oo +Oo@#",
+"$.oOO O+Oo +oo $",
+"#@oOO O++O.+Oo $",
+"$ o+o O++o.+Oo $",
+"$ o+O oO+O#OOo $",
+"$ O++ ooOO o+o $"
+};

@@ -1,0 +1,28 @@
+/* XPM */
+static char *large_fern_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #535553",
+". c #6B6E6B",
+"X c #7C7E7C",
+"o c #8C8A8C",
+"O c #A5A2A5",
+"+ c None",
+/* pixels */
+"++XooOoXOoXOoX++",
+"+XoX.XOOo.O.Xo.+",
+"+.X+XXX+OOoX..X+",
+"++. oOXooo.XOOo.",
+"+ oo.oOOO.OOX..o",
+"Xo..+XXooO. Xo.+",
+"+.X X.+XO .+XX++",
+"++XooOX+oX+XoOo+",
+"+++.X.OXooXOOX++",
+"+++++ooOXOoXX+++",
+"++ . .XOoo+X.X.+",
+"+ooooO.XOooOOooo",
+"+++ . OXooOo.X.+",
+"+++++XOoOOXo++++",
+"++++++oOoXX+++++",
+"+++++++oX.++++++"
+};

@@ -1,0 +1,27 @@
+/* XPM */
+static char *redstone_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #730C00",
+". c #941400",
+"X c #A41808",
+"o c #BD2008",
+"O c #E62008",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OooOooXXXooOoooO",
+"OooOXX XXXXXoXoO",
+"OooXo..  ..X XoO",
+"OOoX.. .X ..XOOO",
+"OoX.        OXoO",
+"Oo X.      ...oO",
+"OX..        .XXO",
+"OXXo.      ...oO",
+"OoXO.. X. ...XoO",
+"OoX..   O  .XXOO",
+"OooX.. .  ... oO",
+"OoXXX......XXXXO",
+"OOo.XOX.. XXoXoO",
+"OoooOOooXXoooooO",
+"OOOOOOOOOOOOOOOO"
+};

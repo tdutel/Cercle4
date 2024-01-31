@@ -1,0 +1,25 @@
+/* XPM */
+static char *powder_snow[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 3 1 ",
+"  c #ECFBFB",
+". c #F4FCFC",
+"X c white",
+/* pixels */
+".XXXX..X.XXXX...",
+"XXXXXX. XXXX.X.X",
+"XXXX. X  XX XXXX",
+"XX. X  XXX  .XXX",
+"XX X ..XX X.XXXX",
+"..X .X.XX. .XX.X",
+".XX.. XX.X.XXX .",
+"XX.X  .XX.XXX   ",
+"XXX. XX. .XX.X X",
+"X. X.X.   .X  .X",
+".X  XXX X.X X...",
+"X.XXXX.  . X.XX.",
+"XXXX..  .X..XXXX",
+"XXX..X ...X.XX  ",
+".XX   ...XXXX X.",
+"...X..X.XXXX  .."
+};

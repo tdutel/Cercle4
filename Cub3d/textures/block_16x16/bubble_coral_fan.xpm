@@ -1,0 +1,27 @@
+/* XPM */
+static char *bubble_coral_fan[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #670570",
+". c #7E0987",
+"X c #A51DA5",
+"o c #CD45BF",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOXOOOO .OOOOO",
+"OOO XOO.OXXOOOOO",
+"OOOXoXOXXoXOXOOO",
+"O.OoooXOoo.O. OX",
+"XoXOoX.XoXOoo.O ",
+".XooO.X.X.OoXO.o",
+"O.X.XoX. OXX.ooX",
+".oo..ooX .XoX.X.",
+"OXoX Xoo.XoX..oO",
+" .X.. XoX X..oXO"
+};

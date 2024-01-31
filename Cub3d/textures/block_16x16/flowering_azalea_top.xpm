@@ -1,0 +1,31 @@
+/* XPM */
+static char *flowering_azalea_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #575016",
+". c #495E27",
+"X c #50692C",
+"o c #647233",
+"O c #70922D",
+"+ c #6C8031",
+"@ c #9E5088",
+"# c #BA62CE",
+"$ c #D07BE3",
+/* pixels */
+"XOOXo+OoOoOoOoXX",
+"XOo++o+O+O+XO+++",
+"o+o#$@OoO$OX+oo+",
+"OO+$ #o+O#+o+++X",
+"oXX@#@XO+X+OOo+o",
+"O+o+O+++Xooo+Oo+",
+"oX+O+ooXoXoO#$@O",
+"OOO+O+OoXo++$ #o",
+"o$O+OoXXo+OO@#@O",
+"O#+OOOXoXoo+O+Xo",
+"+oO++Oo+o+oO+o+O",
+"oOoo#$@OoO+O+Xo+",
+"X+Oo$ #+o+O+$+OO",
+"+oo+@#@O+++o#oX+",
+"+++OX+XO+Oo++oo.",
+"XXoOoOoOoO+oXX.o"
+};

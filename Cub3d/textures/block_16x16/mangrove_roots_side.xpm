@@ -1,0 +1,27 @@
+/* XPM */
+static char *mangrove_roots_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #3C2F23",
+". c #443522",
+"X c #4E3F27",
+"o c #5A482C",
+"O c None",
+/* pixels */
+"O  OOXO.XOOXOoX ",
+"OXoO .O.oO.oOooO",
+"Oooo OOooOXoOXoO",
+"OOoX.OOoXOooO.XO",
+"OOX.OOOo OoXO .O",
+"OO..OO XOOXXO. O",
+"OO.XOOXXOO..O  O",
+"OOXXOOo.OO. O .O",
+"OOoXOXo.OO  O..X",
+"OOo.Ooo OO.XOOXo",
+"O o.OooOOOXoXOoo",
+"OXo OXoOOOXooOoo",
+"OooOO..OOOOXXO.X",
+"OXXOO .OOOO.XOO.",
+"O XOO  OOOO .OO.",
+"O  OO.  OOO .O X"
+};

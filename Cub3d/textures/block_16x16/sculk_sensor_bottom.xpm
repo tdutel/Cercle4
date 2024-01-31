@@ -1,0 +1,28 @@
+/* XPM */
+static char *sculk_sensor_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #0D1217",
+". c #111B21",
+"X c #052A32",
+"o c #194648",
+"O c #034150",
+"+ c #05625D",
+/* pixels */
+"    ...X.X  ..X ",
+"  .X   .... X...",
+"  XoX   .. X+X..",
+".. X..  .X. X .X",
+".X.....  .     .",
+" ....XO. X..  . ",
+"  X.... X+X  .O.",
+"  X   . .X.  ...",
+".X+X   . .  . X ",
+" .X.. .X...  .. ",
+" ..X   .. . X  .",
+". XoX ...  XOX  ",
+".. X   .o.  X.. ",
+".X.     .    .  ",
+" .   . . X    X.",
+"    .O..X+X .XOX"
+};

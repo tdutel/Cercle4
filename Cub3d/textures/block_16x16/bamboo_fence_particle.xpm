@@ -1,0 +1,29 @@
+/* XPM */
+static char *bamboo_fence_particle[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #B7AB49",
+". c #BBA84C",
+"X c #C2B54E",
+"o c #C8B14D",
+"O c #D3BB50",
+"+ c #D9C25E",
+"@ c #E3CC6A",
+/* pixels */
+"X@oO+@OXX@oO+@OX",
+" +oOo++O +oOo++O",
+"O+Oo@+@oO+Oo@+@o",
+"O@o. O oO@o. O o",
+"X@+o.+oOX@+o.+oO",
+"X+O.O+XOX+O.O+XO",
+"o+OoO@+Xo+OoO@+X",
+" Oo+o@o. Oo+o@o.",
+"X@oO+@OXX@oO+@OX",
+" +oOo++O +oOo++O",
+"O+Oo@+@oO+Oo@+@o",
+"O@o. O oO@o. O o",
+"X@+o.+oOX@+o.+oO",
+"X+O.O+XOX+O.O+XO",
+"o+OoO@+Xo+OoO@+X",
+" Oo+o@o. Oo+o@o."
+};

@@ -1,0 +1,30 @@
+/* XPM */
+static char *cracked_nether_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #0B0607",
+". c #190D10",
+"X c #211114",
+"o c #291519",
+"O c #30181C",
+"+ c #38181E",
+"@ c #3E1E24",
+"# c #44242A",
+/* pixels */
+"................",
+"@@#@X@##o@@@X#O@",
+"OoO+.+O.+OO+.@.O",
+"O+.oXOO.OOOoXOO.",
+"...XXX.....XXX..",
+"X@##@ +oX@+@+@@+",
+".@+O.OOO.#OOOooo",
+"X+OO OooX+Oooooo",
+"XX.......X.....X",
+"++X #+.X oX# .X+",
+"OO..OO. ++.+.O.+",
+"oOX+ OX+OOX OOX+",
+".XXX.XXX.XXX.XXX",
+"+X#+X+##+OoOXX +",
+"OXOO.+OOoOOo. #O",
+"OOXo.OOooooO.+OO"
+};

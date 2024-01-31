@@ -1,0 +1,30 @@
+/* XPM */
+static char *carved_pumpkin[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #2D0003",
+". c #441300",
+"X c #7E3D0E",
+"o c #A05A0B",
+"O c #A46312",
+"+ c #C47614",
+"@ c #E3901D",
+"# c #E3A64B",
+/* pixels */
+"+++o+++oO+++Oo+o",
+"@@@o+@@+o@@+o@@o",
+"+##o  +#o+ @o+#o",
+"o@#O . #o   +o#+",
+"o@@ ...@o .. o@+",
+"o@@ ...@o ...o@@",
+"o@@ ...+o ....@@",
+"o@@#..@+o#....#@",
+"o@@@#@+#+@##@#@@",
+"o@@ o +@ ++ o @@",
+"o@    .  .  . @@",
+"o@ ............@",
+"o+@ .#..+...+..+",
+"o+@ @@.@o@@.X@@o",
+"Xo+X++ooo+ooXo+X",
+"XooXo+ooXooXXooX"
+};

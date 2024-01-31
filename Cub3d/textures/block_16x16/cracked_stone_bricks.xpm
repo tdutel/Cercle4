@@ -1,0 +1,29 @@
+/* XPM */
+static char *cracked_stone_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #5A595A",
+". c gray39",
+"X c #6A6D6A",
+"o c #787678",
+"O c gray50",
+"+ c #8B898B",
+"@ c #9C999C",
+/* pixels */
+".O@@o@@@O@@@+++ ",
+"XOOO.O++o+O+O+O ",
+"@O..oOO+OXOO.OO ",
+"o.+@ OOOOO...oo ",
+"@OoO+.oOoOo.OoX ",
+"+oooooOX+Oo+. o ",
+"oXXXXoXXXoXoX . ",
+"..  ..   .......",
+"@@@.+o. O+ +@@@@",
+"OO+XOOX +o.oO+O+",
+"++O+.Oo o.o++O.O",
+"OOOO . .@O+OO.OO",
+"OOOX@++ @OOO+.oO",
+"ooX+OOo +oOo+ oo",
+"XXoXooO oXXoX  X",
+"......    ......"
+};

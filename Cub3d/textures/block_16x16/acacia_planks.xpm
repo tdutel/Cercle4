@@ -1,0 +1,29 @@
+/* XPM */
+static char *acacia_planks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #884728",
+". c #8F4C2A",
+"X c #99502B",
+"o c #A05630",
+"O c #AD5D32",
+"+ c #BA6337",
+"@ c #C26D3F",
+/* pixels */
+"+O+@@@@@+@@@@@+X",
+"++OOXoO+++OO++oo",
+"O+++O+OooooOO++X",
+"X..XX.  .. .  . ",
+"+@o@@@@o@@@+OOo+",
+"O++OoOoXoOO++++O",
+"ooO+OOOX+++OOooo",
+"  ..X.    ...X. ",
+"+@@+OO@@@+@@@@+o",
+"+O++++OoooOoOooX",
+"@+OOooooOOOOoo+o",
+"  .XX.   .X..   ",
+"@++@@++o@@@O@+@@",
+"OO++ooOoo++++OOO",
+"OooO+OoX++Oooooo",
+" ..  .XXX. .    "
+};

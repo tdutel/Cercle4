@@ -1,0 +1,28 @@
+/* XPM */
+static char *mangrove_leaves[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #4A4949",
+". c #6D6A6A",
+"X c #888787",
+"o c gray62",
+"O c gray71",
+"+ c None",
+/* pixels */
+" O++ OOOX XOoO  ",
+"  +. .O+X XOOO .",
+" .+. X++o.o+O. .",
+" .+X.X++oX ++..X",
+"..+X.o++oo .+o.X",
+" +.Xoo+. X..+O.o",
+"++o.o. X o.X+OOo",
+".+oXX. ..O.X .O.",
+"X+oXO. X.OoX X.X",
+"o+oOO..X.OOo.o.o",
+"o .O+ .XXX X.oXO",
+"o X ++.+X  ooOXO",
+"o.X +o X+X o.+O+",
+"O.o+.o.X+X.X..++",
+"OOO+.o.o+o.X.o +",
+"oOo+.OoO+oXo.o +"
+};

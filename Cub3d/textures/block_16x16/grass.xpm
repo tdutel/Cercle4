@@ -1,0 +1,29 @@
+/* XPM */
+static char *grass[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #6C6C6C",
+". c #767776",
+"X c #838183",
+"o c gray57",
+"O c #A0A0A0",
+"+ c #B8B7B8",
+"@ c None",
+/* pixels */
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@O@@O@@+@@O@@",
+"@@@@@O@+@@+@O@@@",
+"@@@O@+@+@XO@+@@@",
+"@O@@O+@O@O@+@@+@",
+"@@+@.O@OX+@O@+@@",
+"@@+@@Oo@o+@X@+@@",
+"@@+.@oO.Xo+.@O@@",
+"O@Oo@+@.O@O.+@.@",
+"O@oO@O.@OXo@O@.O",
+"OX@OOo.@oXO@oO@o",
+"o@Xo.o.o.XOoXooX",
+"ooXX.oXoX.O.XXo@",
+"@X.O X.OX o.OXXX",
+"oX O X OX X O X."
+};

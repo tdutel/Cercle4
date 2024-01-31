@@ -1,0 +1,28 @@
+/* XPM */
+static char *soul_sand[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #352922",
+". c #423127",
+"X c #49372C",
+"o c #5B4538",
+"O c #6A5244",
+"+ c #796152",
+/* pixels */
+"o.o  ooX X.  OoO",
+"Ooo.o++o..  XoO ",
+" OXO.O+.oX. .XO.",
+".OXoOoX+OXX.XXo ",
+" oXOOX.+OX.XX..o",
+"oXXoO. OoXXOooX.",
+"X  Xo.OoXXo.+ooX",
+"XX  XooXXoO++.o ",
+"oXoXXX..XooOO+o ",
+"Oo XooX .o+O OXo",
+"X XoOXoo XOX.oXo",
+" XoO. OoX.o oX X",
+" o+O OOoX.XoX X ",
+"Oo.OO+OX...XX Xo",
+"+ oO+.o..Xoo Xo+",
+"OX XOoX. oX.XO.+"
+};

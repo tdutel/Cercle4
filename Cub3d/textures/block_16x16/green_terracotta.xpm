@@ -1,0 +1,35 @@
+/* XPM */
+static char *green_terracotta[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 13 1 ",
+"  c #495227",
+". c #4B5227",
+"X c #495128",
+"o c #4B522A",
+"O c #4B522B",
+"+ c #4C522A",
+"@ c #4B542A",
+"# c #4C5428",
+"$ c #4C542C",
+"% c #4E562C",
+"& c #4F562C",
+"* c #4E572C",
+"= c #4F572D",
+/* pixels */
+"oooooo&&o&$oo. o",
+"o+&&%oOoo@&&oooo",
+"@oooo..+&@@$@%o#",
+"@@&o..o+ooo@ooo.",
+"@&&$oo..oo&&@o@o",
+"&&&Ooo%ooo&o%o+%",
+"o&ooooooooo&&&%.",
+"&ooo&oo%&&ooo+%+",
+"%%@.o.oooo&@&&$$",
+"%oooooooooooo$&*",
+"ooo.o%&o@&&&oo$o",
+"oooo.%@o&&o&&&&o",
+"oooo@ooo*o.+o&oo",
+"o%+%o%..+o..oo*%",
+"o%ooooooo@+%o.o%",
+"o@@oo%%%o%%oo.oo"
+};

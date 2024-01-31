@@ -1,0 +1,27 @@
+/* XPM */
+static char *mangrove_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #3C2F23",
+". c #443522",
+"X c #4E3F27",
+"o c #5A482C",
+"O c #675230",
+/* pixels */
+"XXXoOOOOOoooOOoX",
+"X.XXXoOOXX..  ..",
+"oXXoOOoXoooXOOOo",
+"XXXXX...XoOOoX..",
+"X..XXXXXoooooooo",
+"OOoXoooXXXXOOXXo",
+"....XoooOOOOX.X.",
+" .ooooX...XX.X. ",
+"oooOOooXoooXX..X",
+"..XXXoOOOOOooo  ",
+"   XXXoOOoooX.. ",
+"XXXoooO..ooOoooo",
+"OOOoXXXXXooXoOOO",
+"OOoX..XXXXOXXXoo",
+"oXX..X..   .oXXo",
+"XXOoXoooXXooooXX"
+};

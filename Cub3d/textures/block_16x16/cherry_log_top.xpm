@@ -1,0 +1,31 @@
+/* XPM */
+static char *cherry_log_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #271620",
+". c #301D29",
+"X c #3B232D",
+"o c #CD8580",
+"O c #DD9D97",
+"+ c #E1A8A1",
+"@ c #E6B5AD",
+"# c #E7BEB4",
+"$ c #E7C7BB",
+/* pixels */
+"  X..X  .XXX  XX",
+" ####@#@$@@#### ",
+"X#ooOO+O++++oo$X",
+"X#o$$####@###o#X",
+"X@O#@@@@@@@@#+@X",
+" #O#@OO++OO@#o@ ",
+"X@O@@o@@@@O@@o#X",
+"X@+#@O@++@+@#+@.",
+"X@+#@O@+O@O@#o@X",
+" @+#@O@@@@+@@o@ ",
+"X@O#@OOoO++@#+@X",
+".@+#@@@@@@@@#O@X",
+" #+##@#####$#o@ ",
+"X#+O+OOOOooooo$ ",
+"X###@@#@@$##$$$X",
+"X XX  XX. XX .XX"
+};

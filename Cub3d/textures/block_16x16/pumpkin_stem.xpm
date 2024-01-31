@@ -1,0 +1,27 @@
+/* XPM */
+static char *pumpkin_stem[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #626162",
+". c #8B8D8B",
+"X c #B4B2B4",
+"o c #C5C6C5",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOO.OOOOOOOOO",
+"OOOOOOo OOOOOOOO",
+"OOOOOOX.OOOOOOOO",
+"OOOOOOOXOOOOOOOO",
+"OOOOOOOX.OOOOOOO",
+"OOOOOXOo.OOOOOOO",
+"OOOOO..o OOOOOOO",
+"OOOOOO o.O.OOOOO",
+"OOOOOOOo XOOOOOO",
+"OOOOOOOo XOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOX.OOOOOOO",
+"OOOOOOOX.OOOOOOO",
+"OOOOOOOX OOOOOOO",
+"OOOOOOOX OOOOOOO"
+};

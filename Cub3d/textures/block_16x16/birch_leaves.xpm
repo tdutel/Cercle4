@@ -1,0 +1,27 @@
+/* XPM */
+static char *birch_leaves[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #706D70",
+". c #888787",
+"X c #989998",
+"o c #B7B9B7",
+"O c None",
+/* pixels */
+".OO .OOO  .O O  ",
+"O X.  O O.XOOO. ",
+"OO.  O. OOO  OO ",
+".XOO.OX.OO oX OO",
+". .oX OO O.XOO O",
+"O O. OO  X.OO  X",
+"OO OOoXO..O OO..",
+"O  .OX..OOX. OOO",
+"OO..OO O OoXOOO ",
+". OO OO.  OX.O. ",
+"XOO  .OX.OO.   .",
+"OO O.oOOOXXO O O",
+"O.  OOO O.  O  X",
+"OX.O O  XO OOOXo",
+"O OoX O.oOOXXOOO",
+"XOOX..OOO O.  O."
+};

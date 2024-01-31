@@ -1,0 +1,28 @@
+/* XPM */
+static char *pearlescent_froglight_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #C2A4C3",
+". c #D4BFC8",
+"X c #E2D3D3",
+"o c #EFE6E1",
+"O c #F9F4F3",
+"+ c #FFFEFD",
+/* pixels */
+" .XoXoOXooX.oX. ",
+".XoOoOOoOOOoOoX.",
+"XoO+O++O+++O+Oo.",
+"XO++++++++++++oX",
+".XO++++++++++++O",
+"XO++++++++++++Oo",
+"oO++++++++++++OO",
+"OO+++++++++++OoX",
+"XoO+++++++++++Oo",
+"oO+++++++++++++o",
+"OO++++++++++++OX",
+"XoO++++++++++OoX",
+"oO++++++++++++Oo",
+"XoO+O+++O+O++OoX",
+".XoOoOOOoOo+OoX.",
+" ..X.XoOXOoOo.. "
+};

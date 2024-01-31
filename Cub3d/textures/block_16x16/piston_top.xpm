@@ -1,0 +1,29 @@
+/* XPM */
+static char *piston_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #67502C",
+". c #7E6237",
+"X c #9F844D",
+"o c #AF8F55",
+"O c #C29D62",
+"+ c #CAC4C4",
+"@ c gray86",
+/* pixels */
+"@+...  @@ ....+@",
+"++OOOo ++OOOOO++",
+" ooooo.XooXXooX.",
+"                ",
+".oOOoOOo XoOOOo.",
+".XXooooX.oooXXX ",
+"...   .  .....  ",
+"@+oO oOOOo OOo+@",
+"++oX ooXXX XXX++",
+"  ..   . ..  ...",
+".oOoOOo oOooOOO.",
+".oXXXoo XoXXXoo.",
+"      .        .",
+".OooOOOo oOOOoO ",
+"@+XXXoo@@XooXX+@",
+"++.    ++   . ++"
+};

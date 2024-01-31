@@ -1,0 +1,27 @@
+/* XPM */
+static char *attached_melon_stem[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #626162",
+". c #8B8D8B",
+"X c #B4B2B4",
+"o c #C5C6C5",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"oo OOOOOOOOOOOOO",
+"....oOOO.OOOOOOO",
+"OOOO.  . OOOOOOO",
+"OOOO... OOOOOOOO",
+"OOOX O.. OOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOX.OOOOOOO",
+"OOOOOOOX.OOOOOOO",
+"OOOOOOOX OOOOOOO"
+};

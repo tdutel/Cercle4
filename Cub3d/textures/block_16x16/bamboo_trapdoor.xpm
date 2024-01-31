@@ -1,0 +1,34 @@
+/* XPM */
+static char *bamboo_trapdoor[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 12 1 ",
+"  c #998741",
+". c #A99846",
+"X c #B7AB49",
+"o c #BBA84C",
+"O c #C2B54E",
+"+ c #C8B14D",
+"@ c #D3BB50",
+"# c #D9C25E",
+"$ c #E3CC6A",
+"% c #EFD97E",
+"& c #F8E7A2",
+"* c None",
+/* pixels */
+" ...o. &% .oo.  ",
+".+$$%@#%$#@%$$+ ",
+"o#.+$XXX++X$+.#.",
+"o$O*X*#**#*X*O# ",
+".$O@O@$@@$@O@O$.",
+" $X*O*$**$*O*X$o",
+" #O#$$%**%$$#X$.",
+" #X*X******X*+$.",
+".#X*O******O*+#o",
+"o$O#$$%**%$$#X#o",
+"o$O*X*$**$*X*O$o",
+"o#X@O@$@@$@O@O$.",
+".#X*O*#**#*O*X#.",
+" $.@$X@+X+X$X.#.",
+" +$$%@$$$#@%$#+ ",
+".  .o ..o. o.   "
+};

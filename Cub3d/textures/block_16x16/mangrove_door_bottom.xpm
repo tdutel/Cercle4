@@ -1,0 +1,32 @@
+/* XPM */
+static char *mangrove_door_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #353535",
+". c #5D1C1E",
+"X c #642423",
+"o c #6F2A2D",
+"O c #753136",
+"+ c #773934",
+"@ c #7F4234",
+"# c #6F6F6F",
+"$ c #8B4D3A",
+"% c #945440",
+/* pixels */
+"#OoOXOXooX+.X$o.",
+"XOXOX+oXXoOX.$+.",
+"$OXOoO+oo++X@$+.",
+"%OXOoO+OO+Oo..+X",
+"%O.OXoO++OoXXXOX",
+"%+.OXOO@@OOXOXOX",
+"%O.O.O@%$@OXOXOX",
+"$O.+.+XooX+.OXO.",
+"@+.+.+oXXoO.+XO.",
+"@+.+.O+oo+O.+.+.",
+" o.O.OOO+OO.O.+.",
+"#o.Oo@$$$$@oO.O.",
+"X+.O+OOOOO+++.O.",
+"@Oo@@$$$$@@@@oOX",
+"$OOOOOO++++OOO+X",
+"$XX.....XXX...XX"
+};

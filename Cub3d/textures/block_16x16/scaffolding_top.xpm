@@ -1,0 +1,35 @@
+/* XPM */
+static char *scaffolding_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 13 1 ",
+"  c #684526",
+". c #7B5735",
+"X c #8C6847",
+"o c #AB7341",
+"O c #998741",
+"+ c #AF825B",
+"@ c #BBA84C",
+"# c #C18958",
+"$ c #C8B14D",
+"% c #D3BB50",
+"& c #D9C25E",
+"* c #E3CC6A",
+"= c None",
+/* pixels */
+"%*%&X@o&X$X@X%%*",
+"*%$@oOX@X@oOo$*%",
+"%$ X.X X.X.X. %$",
+"&@Xo=o=o=o=oX.Xo",
+"Xo.o+oo+o#o+oX@O",
+"@OX#=#=#=o=#=.Xo",
+"oX.o+o#o+#o+oX$@",
+"&@X#=+=+=o=o= XX",
+"XX.oo#o#o#o#oX&@",
+"$@X#=o=+=#=o=.oX",
+"Xo o+#oo#+o#oX@O",
+"@OXo=#=+=o=#=.Xo",
+"Xo.X#+#o#o#ooX&@",
+"%$ .X.X X.X.X %$",
+"%*%X@X$X&o@X&%%*",
+"*%$oOo@X@XOo@$*%"
+};

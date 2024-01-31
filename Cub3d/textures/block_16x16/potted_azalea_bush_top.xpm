@@ -1,0 +1,27 @@
+/* XPM */
+static char *potted_azalea_bush_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #50692C",
+". c #647233",
+"X c #70922D",
+"o c #6C8031",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOXXo.X.o.OOOO",
+"OOOOo.o o oXOOOO",
+"OOOOXX.  ...OOOO",
+"OOOOo.. . XXOOOO",
+"OOOOXoX.  .oOOOO",
+"OOOOX.  .oXXOOOO",
+"OOOO.o . ...OOOO",
+"OOOO.X.o.o.XOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO"
+};

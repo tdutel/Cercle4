@@ -1,0 +1,26 @@
+/* XPM */
+static char *blue_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #2C2E8E",
+". c #2C2E8F",
+"X c #2D2F90",
+"o c #2E3090",
+/* pixels */
+"X.....XX.X...o.X",
+".XX..X...X.XXo.X",
+".XoXXXXX.X.o....",
+"...X...XX.X.....",
+"oo..o..XX..Xoo.o",
+"o...XX..X..X...X",
+".o..X.oX..X.....",
+"....XXXX...Xo.X.",
+"X.X...XX.o.XXXXX",
+".......X.oXoXXXX",
+"X.XX..X..o...X.X",
+"X.o.o.X.o..X.X..",
+"XX.X...o.....oXX",
+"XX.X.....o.o...X",
+"o.....X.o.....XX",
+"....o..XX......o"
+};

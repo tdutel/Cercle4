@@ -1,0 +1,28 @@
+/* XPM */
+static char *cobblestone[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c gray32",
+". c gray38",
+"X c #6E6D6D",
+"o c #888788",
+"O c gray65",
+"+ c gray71",
+/* pixels */
+"X.OO ..O+Oo.o+Oo",
+".O+oo ++Ooo .oXo",
+".OoOX.OooOX. .oX",
+"..oX..oXoX.oOo. ",
+" X.o+O.o..+OOOo.",
+"+XO+ooX. oo+OoXo",
+"Oo.oOooX..XOoX.+",
+"ooXXooX.o+O.Xo.o",
+"X.+OXX.o+ooo.. X",
+".+OoXoXXoo.X.oO.",
+"oXoXo.. .XX. OO+",
+"oXX..Xo+O.. o++o",
+"Xo+OX.+OoOX.ooXo",
+".+Ooo.OoXooX..oX",
+"OOoXoX.XooX.Oo..",
+".o..XoX.X..o+OoX"
+};

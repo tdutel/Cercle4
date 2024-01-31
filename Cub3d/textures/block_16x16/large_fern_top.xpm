@@ -1,0 +1,27 @@
+/* XPM */
+static char *large_fern_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #5A5D5A",
+". c #737573",
+"X c #949194",
+"o c #ACAAAC",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOO. OOOOOOOOOOO",
+"OO.XX.OOOOO .OOO",
+"OOO .X OOO.XX.OO",
+"OOOO .X.O o  OOO",
+"OOO . o..o  OOOO",
+"OO.Xo..X.o. OOOO",
+"O X .o.o. oX.OOO",
+"OO OO.oXXo. OOOO",
+"OOOO. .o. ..OOOO",
+"OOO.Xo.Xo.oX.OOO",
+"OO.X. ooXo. X.OO",
+"OO. ..OXX.....OO"
+};

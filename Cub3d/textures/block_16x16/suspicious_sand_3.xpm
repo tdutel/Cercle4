@@ -1,0 +1,30 @@
+/* XPM */
+static char *suspicious_sand_3[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #BD9B75",
+". c #C6AE71",
+"X c #D1BA8A",
+"o c #D5C496",
+"O c #DACFA3",
+"+ c #E3DBB0",
+"@ c #E7E4BB",
+"# c #EDEBCB",
+/* pixels */
+"@OO+Oo+O+Oo+Ooo+",
+"oO@o.oo@X.@O#XO@",
+"+@Xoo.@XO..oOo@O",
+".++oO..X.+o+O@X.",
+"o.+Oo+O.O+OO  .X",
+"OX.XO+. oO. .OoO",
+"o@.   .    .OoOo",
+"Oo.O.    ..o..Oo",
+"o+.oX..   .@+OoO",
+"@.X.O.   .OX@O+o",
+"XoO..  .. .X..oo",
+"o.. .O. .+..oO..",
+"oOo .XO @#+O.#O+",
+"+O@..XX..+O+..oO",
+"O+.X#.+OX.+OX.OO",
+"+.+O++O+Oo.O+O+O"
+};

@@ -1,0 +1,27 @@
+/* XPM */
+static char *cyan_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #157687",
+". c #157787",
+"X c #157788",
+"o c #167889",
+"O c #177889",
+/* pixels */
+"XXXoXX XooXXXo o",
+"X  XoXoooXXXXoo ",
+"ooooooXXX XXXXo ",
+"o  oooXoX ooOXoo",
+"o  o oXXXooXXXX ",
+" o oX.XX oXoXOoX",
+"ooo oXX.oo Oo oo",
+"o.ooX.XX  X oXoo",
+"  ooXXX o o  o  ",
+" o  XX X.o o ooo",
+"ooooXoXXoo oo oo",
+"oo o oooo  oo oo",
+"     X oXX X ooo",
+"ooooXoOXoXXoo  o",
+"XXo.ooXXXXXXooo.",
+"X.X.oXXXX oX.oXX"
+};

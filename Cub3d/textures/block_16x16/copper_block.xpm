@@ -1,0 +1,30 @@
+/* XPM */
+static char *copper_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #904931",
+". c #9A5038",
+"X c #A75A40",
+"o c #B26247",
+"O c #C26B4C",
+"+ c #C87456",
+"@ c #D67B5B",
+"# c #E3826C",
+/* pixels */
+"###@#@@#####@+OX",
+"#++OO++@#@@@OOo.",
+"#+#o++@#@@@O#oo.",
+"#Oo.+@#@+@OOo.o ",
+"#O++@@@++OOXXoO ",
+"#++@@@++OOX.XOo ",
+"#+@#@++OOX.XOoo ",
+"#@#@++OOX.XOOo+ ",
+"##@++OoX.XOOo++ ",
+"#@++OooXXOOO++@.",
+"#++OooXoOOO++@#.",
+"#+OooooOOo++@#@.",
+"#O#oXoOOo++@#o+ ",
+"#oo.oOoo++@@o.O ",
+"#X.oOoo++@@@+OO.",
+"@.X.. . XXX.. .."
+};

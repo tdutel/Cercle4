@@ -1,0 +1,32 @@
+/* XPM */
+static char *orange_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #DE6000",
+". c #DF6000",
+"X c #E06000",
+"o c #E06100",
+"O c #E16100",
+"+ c #E16101",
+"@ c #E16201",
+"# c #E16202",
+"$ c #E16302",
+"% c #E16303",
+/* pixels */
+"$.$XX+XX+$$.XXXX",
+"$X$.$$$$XX$XX.X$",
+"$XX.XXXXXXXX$.$X",
+"$$X.X$$$++X$$.X$",
+"..X$XXX$$+XXX$X$",
+"XX$X$$XX$+X$$XX$",
+"$X$$$X$XXX+$$XXX",
+"$XX$$XXO$XX$$$XX",
+"XXXX$X$X$XX$.$X$",
+"$.$.XX$XX$X.XXXX",
+"XX..XXX$XX$XXXX$",
+"XX$X$$XXX$..$$$.",
+"$X$$$X$X$XXXXXX$",
+"XX$XX$X$%XXXXXXX",
+"$X$$$XX$$$$XXX$X",
+"$XXX$XX$XXX$$X$$"
+};

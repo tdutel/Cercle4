@@ -1,0 +1,29 @@
+/* XPM */
+static char *lectern_sides[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #67502C",
+". c #7E6237",
+"X c #967441",
+"o c #A6824D",
+"O c #B58D50",
+"+ c #B8945F",
+"@ c #C19F6A",
+/* pixels */
+".XXoOoOOoOOOoXX.",
+".X            X.",
+"X..............X",
+"XXXXXXXXXXXXXXXX",
+"+++@++++++@+++@@",
+"OOO+XOOOOO+XOOO+",
+"OOO+XOOOOO+XOOO+",
+"XoooXooooooXoooX",
+"  ...XXXooOOOOOo",
+"     ...XXXooXOo",
+"   ...XXXooOOoOo",
+"   ...XXXooOOoOo",
+"   ...XXXooOOoOo",
+"    ...XXXooOoOo",
+"       ...XXooOo",
+"    ...XXXooOOOo"
+};

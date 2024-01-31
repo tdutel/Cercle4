@@ -1,0 +1,28 @@
+/* XPM */
+static char *cobbled_deepslate[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #353539",
+". c #3F3F45",
+"X c #4A4A4F",
+"o c #5A5A5A",
+"O c DimGray",
+"+ c gray48",
+/* pixels */
+"XX O.X.O++XoXOoo",
+"X. oX. +OX.X.OoX",
+"   ..  OX. . o..",
+".X+OooXoX .  . .",
+"++OoXX ..   o++X",
+"OoOXX. Xo+OX++o.",
+"OoX..  O+Xo.OXX.",
+"X.  . .OoXX oXX ",
+"++O.XoXoX.X ... ",
+"Ooo.XXoo.X.   oo",
+"OXX .X.XX.o+OXXo",
+"oX.    ...+XX XX",
+"o.X.. O++.oXX X.",
+". .Xo.+oOXX  .. ",
+". X++.OoXoX .oXX",
+"o .+o  X.. oo++O"
+};

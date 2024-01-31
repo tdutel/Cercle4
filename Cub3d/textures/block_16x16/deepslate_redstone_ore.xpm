@@ -1,0 +1,38 @@
+/* XPM */
+static char *deepslate_redstone_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 16 1 ",
+"  c #3B2C2C",
+". c #2F2F37",
+"X c #4D3737",
+"o c #3D3D43",
+"O c #515151",
+"+ c #646464",
+"@ c #797979",
+"# c #970303",
+"$ c #960606",
+"% c #C60404",
+"& c #CA0707",
+"* c red",
+"= c #F71C1C",
+"- c #845959",
+"; c #FD5E5E",
+": c #FF8989",
+/* pixels */
+"@+OOOOoo+++OOoOO",
+"Oo..ooooO+OOooOo",
+"++@++XX ...oo.oo",
+"oO+XX$$$ +@@+++O",
+".oO&$&*;%#+@++Oo",
+"@@O+%*:*-+O+&=-+",
+"@++OO---OOoo--oO",
+"+XX oo+@++XX.oOO",
+"X=;$ oO@+$&$&;=O",
+"o$=-OOO+OOo;:=-o",
+"+--OoOOoo..o--@@",
+"++O XX @OoOooO@+",
+"+O $=&=$+Oo&=O++",
+"ooo-;:++Oo.o..oo",
+"@@++--o.o@+OO++@",
+"@@+O+OO.O@++OO++"
+};

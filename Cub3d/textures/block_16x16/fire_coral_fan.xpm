@@ -1,0 +1,28 @@
+/* XPM */
+static char *fire_coral_fan[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #791A26",
+". c #8C1D2A",
+"X c #A4222F",
+"o c #C62A37",
+"O c #E23F36",
+"+ c None",
+/* pixels */
+"++++++++++++++++",
+"++++++++++++++++",
+"++++++++++++++++",
+"++++++++++++++++",
+"+++++++o++++++++",
+"+++++ +O+X+X++++",
+"+++o+o+.oX. + ++",
+"+++o O +.O+ +X++",
+"+X+.oo  +oX Xo+X",
+"+O. +o.+.X+X+OX+",
+"+OX+ . Xo++X+X++",
+"+ oX +.O  X+ o +",
+" ++ X+ O Xo X+ X",
+" X+Xo +o. Xo+ o+",
+"+ O+X+  o++o+XX+",
+"+++  X+ X+ X +++"
+};

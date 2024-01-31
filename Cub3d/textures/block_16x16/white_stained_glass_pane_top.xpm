@@ -1,0 +1,27 @@
+/* XPM */
+static char *white_stained_glass_pane_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c gray93",
+". c #F4F4F4",
+"X c #F8F8F8",
+"o c #FEFEFE",
+"O c None",
+/* pixels */
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOO..OOOOOOO",
+"OOOOOOO.oOOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOO. OOOOOOO",
+"OOOOOOO. OOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOO. OOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOo.OOOOOOO",
+"OOOOOOOo OOOOOOO",
+"OOOOOOOoXOOOOOOO"
+};

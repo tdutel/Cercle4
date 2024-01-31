@@ -1,0 +1,29 @@
+/* XPM */
+static char *sandstone[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #C6AE71",
+". c #D1BA8A",
+"X c #D5C496",
+"o c #DAD2A3",
+"O c #E3DBB0",
+"+ c #E7E4BB",
+"@ c #EDEBCB",
+/* pixels */
+"@@@@@+@++++++++O",
+"OooXXXXXooXoooXX",
+"    ..   ..     ",
+"+ .O++++.+++. .+",
+"o.oXoX+.OOooo.oo",
+"o+..OO. OoOoO +o",
+"ooo..   .ooX.  o",
+"ooo+ O++.X.O++. ",
+".o .OoooO.OoOo+ ",
+".  Xoo+o  oXoooO",
+"oOOX+oo.++.OOoo.",
+"ooo . .+oX+. O .",
+".o.++o oXoooo XO",
+"O.+OO.+oooXO.o+X",
+"o.OOX .+O.   .oo",
+"oo...O+..O+.XX.."
+};

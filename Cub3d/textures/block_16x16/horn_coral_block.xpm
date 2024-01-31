@@ -1,0 +1,28 @@
+/* XPM */
+static char *horn_coral_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #B68930",
+". c #BEA035",
+"X c #D5CB3E",
+"o c #D1B341",
+"O c #E4DA4A",
+"+ c #EDEC4C",
+/* pixels */
+"o.++oXX++oXX++X+",
+"XX++OXO++ooX+.++",
+" oXOO+OOo++X o++",
+"X  ooXOXO++. XXX",
+"ooO+ooXXOo.Xo+OX",
+"oO+OooooXoXXoO+O",
+"XOOXO+o.XoX++XOO",
+"o.OO+Ooo..oO+OXO",
+"++.o .XX. XXOOo.",
+"++O o++X  oXXX X",
+"X+XoO++ooXoX oo ",
+"XXooXXoo ++ oO+o",
+"XO+oXX++X++.O+Oo",
+"O+Oo.o+X.O+XOOXX",
+"OO.XooXo oOOXXXX",
+"X.XXOXX X XX++XX"
+};

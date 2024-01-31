@@ -1,0 +1,27 @@
+/* XPM */
+static char *obsidian[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #000001",
+". c #06030B",
+"X c #100C1C",
+"o c #271E3D",
+"O c #3B2754",
+/* pixels */
+".    .X. Oo..oOo",
+". .X X. OX..oOX.",
+"  OOo .ooXX Xo .",
+" OoXXo.X.X  .X. ",
+" oXXX      ... .",
+"XXX  X....Oo..  ",
+"XX.XoOOo. o .  .",
+". XOXX X     Oo ",
+"  OoXXXoo.  oXXX",
+"oX  X.ooX. X.X..",
+"X.. ...X..  X. o",
+" X..X .X.OOoXXXX",
+".OOX XXXoOX.XOX.",
+"ooX... XXX... o.",
+" o..X.o..XX .  .",
+"X. X .XoX ......"
+};

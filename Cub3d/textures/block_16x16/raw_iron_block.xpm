@@ -1,0 +1,29 @@
+/* XPM */
+static char *raw_iron_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #665237",
+". c #7C623F",
+"X c #8E7454",
+"o c #AF8E77",
+"O c #D8AF93",
+"+ c #E9C8B1",
+"@ c #FEDEC8",
+/* pixels */
+"X..OooXoO+OooX. ",
+"+oXXXX.XoOoXXO@+",
+"OOo.X. XXX.Xo++o",
+".X ..oO+o ..ooOX",
+"X. o+@+OOX .OOoo",
+". XoO+OoX.XO+OOo",
+" ..XOooXX oOOooX",
+"oOoXooX.. oooX.X",
+"O+OOoXX. .XX   .",
+"oO+oo..X+O+oOX .",
+"XXooXX.+@+Oooo..",
+".  .XXo+OOoXoXX.",
+"OX  .XoOOooXX.OO",
+"oOX. ..oooXo@++O",
+".oXoOOoX.XXO+OoX",
+"XX.++OO...oOooo."
+};

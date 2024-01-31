@@ -1,0 +1,35 @@
+/* XPM */
+static char *deepslate_lapis_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 13 1 ",
+"  c #2F2F37",
+". c #3D3D43",
+"X c #515151",
+"o c #646464",
+"O c #797979",
+"+ c #10349C",
+"@ c #1034BD",
+"# c #16448D",
+"$ c #20598B",
+"% c #1044AC",
+"& c #1855BD",
+"* c #446FDC",
+"= c #6995F4",
+/* pixels */
+"OoXXXX..oooXX.XX",
+"X. .  ..XoXX .X.",
+"oo&$&#X .  .@#O.",
+".XOoo%O#*OoOOOoX",
+" .XX.O.OOoooooX.",
+"OOX..&%ooo$@XXXo",
+"Oo.@*=*#XX*=Oo.X",
+"o%*oOOOOooOOo.XX",
+"X*=X..X%o&##o .X",
+".OOOXXo%&**#o% .",
+"oOoX%XXO@*=OX*$O",
+"oo#++OOoXOOoo=*o",
+"oX.OO+oo#**Xo@*O",
+"... *=&o*=@OXOO.",
+"OOoo&*#OXOOXXooO",
+"OOoXoOOX.OooXXoo"
+};

@@ -1,0 +1,30 @@
+/* XPM */
+static char *lodestone_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #38383F",
+". c #4A4A53",
+"X c #686868",
+"o c #747474",
+"O c gray50",
+"+ c gray56",
+"@ c #A2A4AC",
+"# c #ABB1B8",
+/* pixels */
+"#@##@+@++++@+@@#",
+"#@O  ...X.XX.O@@",
+"@OOXoOoOooXOXOO@",
+"@..XOo    OoX. @",
+"@.ooo+ oO O+Oo +",
+"O.+O+ OOoO OO+.+",
+"OX+  o+  Oo  +.+",
+"O.o oO    +O O.O",
+"OXO.O+. ..++.o.+",
+"OXO..o@..@O..+XO",
+"OXO@@.+@@+.@@+.O",
+"OXX+O@.++X@oO+X+",
+"OXOO++.XXX++XXX+",
+"O##X++@@@@+OX@@+",
+"+++XXOXXXXXOX@+O",
+"O++@@@+@+++@@@++"
+};

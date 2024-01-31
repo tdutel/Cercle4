@@ -1,0 +1,28 @@
+/* XPM */
+static char *jukebox_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #292820",
+". c #412818",
+"X c #5A3420",
+"o c #5A3C29",
+"O c #7B5039",
+"+ c #945D41",
+/* pixels */
+"                ",
+" oO++OO++++O+Oo ",
+" O+.+.+.+.+.O.O ",
+" +.+X.X+X.X+X.+ ",
+" ++.+X+.+X+.OX+ ",
+" OX.X+X.X+X.XO+ ",
+" ++X+.+XO.+XO.O ",
+" O.+X.X+X.X+X.o ",
+" oO.+XO.+XO.OX+ ",
+" OX.X+X.X+X.XOO ",
+" +OXO.+XO.+XO.O ",
+" O.OX.XOX.XOX.o ",
+" Oo.OXO.OXO.O.O ",
+" o...O...O...Oo ",
+" oooooooooooooo ",
+"                "
+};

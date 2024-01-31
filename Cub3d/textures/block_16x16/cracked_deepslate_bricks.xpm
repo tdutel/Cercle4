@@ -1,0 +1,30 @@
+/* XPM */
+static char *cracked_deepslate_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c gray10",
+". c gray14",
+"X c #2D2D2D",
+"o c #383737",
+"O c #414141",
+"+ c #4B4C4F",
+"@ c #585858",
+"# c gray43",
+/* pixels */
+"@##+#######@OoX.",
+"#@@o@@@@+@@@@OX.",
+"#@@@o++@ooo@oOO.",
+"#O+@+ooo@++oO+O.",
+"#o@O.O+O++OO.oO.",
+"@+o.OoO..O..O.X.",
+"ooo.ooXoo.Xoo.o.",
+"XX. X.    XX. .X",
+"##@o#o+ +o###+@#",
+"@@+O@Oo.o#@@@+OO",
+"O+X@o+O.#@@@+@@@",
+"@X++@oo.+@XO+O@@",
+"+XOO+@X.oXO@X+@@",
+"o.oOOOo.@Oo@+X+O",
+"o.Xoooo.oooooooo",
+"X..XXX....XXXXXX"
+};

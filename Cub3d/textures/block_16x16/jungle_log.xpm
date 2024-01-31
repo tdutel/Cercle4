@@ -1,0 +1,31 @@
+/* XPM */
+static char *jungle_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #3E3013",
+". c #403612",
+"X c #503F16",
+"o c #59461A",
+"O c #544D1A",
+"+ c #684E20",
+"@ c #635820",
+"# c #7D5D26",
+"$ c #766626",
+/* pixels */
+"o+##oXXXXX+++ooo",
+"ooo..oo.ooo.  ..",
+"...O$@.  ..oo.#+",
+"++oo++##oXoXXXXo",
+".o++ooo...oO@$Oo",
+"oooXXXO@O.. .   ",
+"++o+ooXXXXooo##+",
+". .   o++o.XXXXo",
+"oo+##o.. +##oooo",
+"..XX@$@O..XXX.  ",
+"$@@ooo+++++oO@@$",
+"o..  ..XXo.X .++",
+"..oo#+++oOOo....",
+"+XO@OOoXX...ooo+",
+"oo...  o++.++ooo",
+"o++o.XXXooooXXXX"
+};

@@ -1,0 +1,28 @@
+/* XPM */
+static char *white_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #CED3D4",
+". c #CED4D4",
+"X c #CED4D5",
+"o c #CFD5D6",
+"O c #D0D6D7",
+"+ c #D1D6D7",
+/* pixels */
+"o oooooooooOooOo",
+"oooOoooooooooOOo",
+"ooOoo ooooo oooo",
+"oOoOooOoo oooooo",
+"oooOOOooo oooooo",
+"oOoooooOo oooooo",
+"oooooooOoooooooo",
+"oo o ooooooooooo",
+"oOooOooooooooooo",
+"oooooOOooooooooo",
+"OOoooooooooooooo",
+"OOoooooooooooooo",
+"ooOoOOooooOOoooo",
+"ooooOOoOooOOOooo",
+"oo ooOoooooooooo",
+"ooooOoooooOOoooo"
+};

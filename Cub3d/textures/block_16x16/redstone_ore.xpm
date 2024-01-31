@@ -1,0 +1,36 @@
+/* XPM */
+static char *redstone_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 14 1 ",
+"  c #695C5C",
+". c #686868",
+"X c #747474",
+"o c gray50",
+"O c #970303",
+"+ c #960606",
+"@ c #C60404",
+"# c #CA0707",
+"$ c red",
+"% c #F71C1C",
+"& c #FD5E5E",
+"* c #938C8C",
+"= c #BF9393",
+"- c #FF8989",
+/* pixels */
+"****oXXoX.XXoooo",
+"ooXoXoooooo..XoX",
+"oX..X.  XXXooooo",
+"oooX.+++..XXoXXX",
+"XoX#+#$&@OoX Xoo",
+"o*X*@$-$=*oo#%X*",
+"Xooo*===*XoXo*oo",
+"X  .X.XXooX   oo",
+"X%&+*oo**+#+#&%X",
+"o+%ooo***o=&-%=o",
+".oXoXX..XoX===XX",
+"ooo..   oooo**o*",
+"oXX+%#%+ oo#%*.X",
+"**o*&-=*XXo**XX*",
+"oXXo*=*ooooo****",
+"ooooooXXo**ooXoo"
+};

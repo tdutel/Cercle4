@@ -1,0 +1,29 @@
+/* XPM */
+static char *birch_planks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #9E8B61",
+". c #A59467",
+"X c #AE9F76",
+"o c #B8A875",
+"O c #C8B77A",
+"+ c #D7C185",
+"@ c #D7CB8D",
+/* pixels */
+"+O+@@@@@+@@@@@+X",
+"++OOXoO+++OO++oo",
+"O+++O+OooooOO++X",
+"X..XX.  .. .  . ",
+"+@o@@@@o@@@+OOo+",
+"O++OoOoXoOO++++O",
+"ooO+OOOX+++OOooo",
+"  ..X.    ...X. ",
+"+@@+OO@@@@@@@@+o",
+"+O++++OoooOoOooX",
+"@+OOooooOOOOoo+o",
+"  .XX.   .X..   ",
+"@o+@@++o@@@o@+@@",
+"OO++ooOoo++O+OOO",
+"OooO+OoX++Oooooo",
+" ..  .XXX. .    "
+};

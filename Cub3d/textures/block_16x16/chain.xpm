@@ -1,0 +1,26 @@
+/* XPM */
+static char *chain[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #252C3D",
+". c #3E4453",
+"X c #495065",
+"o c None",
+/* pixels */
+"ooo o oooooooooo",
+"X..  .oooooooooo",
+".o ooooooooooooo",
+"  .X..oooooooooo",
+"ooo.o oooooooooo",
+"ooo o oooooooooo",
+"X..  .oooooooooo",
+".o ooooooooooooo",
+" o ooooooooooooo",
+"  ....oooooooooo",
+"ooo.o oooooooooo",
+"ooo o oooooooooo",
+"X..  .oooooooooo",
+".o ooooooooooooo",
+"  .X..oooooooooo",
+"ooo.o oooooooooo"
+};

@@ -1,0 +1,34 @@
+/* XPM */
+static char *deepslate_emerald_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 12 1 ",
+"  c #2F2F37",
+". c #007B18",
+"X c #375B3E",
+"o c #3D3D43",
+"O c #515151",
+"+ c #646464",
+"@ c #797979",
+"# c #1C9829",
+"$ c #17C544",
+"% c #17DD62",
+"& c #41F384",
+"* c #D9FFEB",
+/* pixels */
+"@+OOOOoo+++OOoOO",
+"Oo  ooooO+  ooOo",
+"+ *%+OO   *%o oo",
+"oO%.@oooO+%.@++O",
+" o@@+ XO++@@++Oo",
+"@@Oo &&#++O+OOO+",
+"@++X&*.#XOoo  oO",
+"+o X&.#$X+Oo *%O",
+"o*%o$#@@+O+Oo%.@",
+"o%.@@@O+O  oo@@+",
+"+@@OoOOo &&Xo+@@",
+"++Oo+@@@.&*.#O@+",
+"+Ooo  ++.$.#$O++",
+"ooo *%++OX#@@ oo",
+"@@++%.@ o@@OO++@",
+"@@+O@@O O@++OO++"
+};

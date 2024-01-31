@@ -1,0 +1,30 @@
+/* XPM */
+static char *damaged_anvil_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c gray22",
+". c gray24",
+"X c gray26",
+"o c gray29",
+"O c gray32",
+"+ c #5A5A5A",
+"@ c #727070",
+"# c None",
+/* pixels */
+"###XXooOOOoX ###",
+"###Xo OOOoo X###",
+"###. +XO ..+o###",
+"###o+ . @@+OX###",
+"### o+ @o.Oo.###",
+"###.oo +o XX ###",
+"###X  OoX+  .###",
+"### @+. X @ .###",
+"###o+o+@ @+.+###",
+"###+XXo+ +o X###",
+"###. XXo.ooO ###",
+"###.+  .@+XoO###",
+"###. +@@.OOX.###",
+"### oOOOo. ..###",
+"###XXoOO ++ .###",
+"###  XX OX.X ###"
+};

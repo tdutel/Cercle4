@@ -1,0 +1,30 @@
+/* XPM */
+static char *scaffolding_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #7B5735",
+". c #998741",
+"X c #BBA84C",
+"o c #C8B14D",
+"O c #D3BB50",
+"+ c #D9C25E",
+"@ c #EFD97E",
+"# c None",
+/* pixels */
+"Oo+ X o O X oOOo",
+"OooX.+XXXX.+XXOX",
+"+X+ O o O O oOoX",
+"@+XX+.XXXX+.Xo++",
+"X.############X.",
+"oX############oX",
+"Oo############OX",
+"+o############OX",
+"+X############OX",
+"OX############oX",
+"oX############oX",
+"@+############@+",
+"X.############X.",
+"Oo############OX",
+"OoOOX@oO+oX@+O+o",
+"Oooo.+XXXX.+XoOo"
+};

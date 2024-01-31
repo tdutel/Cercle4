@@ -1,0 +1,27 @@
+/* XPM */
+static char *mushroom_block_inside[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #AB9066",
+". c #BF9F6E",
+"X c #C7A877",
+"o c #CEAE7B",
+"O c #D7B680",
+/* pixels */
+"XX.oooXX.ooXXXoX",
+"XXoo XXOXoXXXo o",
+"OoXXXoooXooo.ooO",
+" OoXo.oooXoXoXXo",
+"oXX.ooOo oXXOXo.",
+"Xoo oXOOoXo oXoo",
+"XXXoXXoooXooXo.o",
+"oOOXXo.XXoXXXoXo",
+" oXooOOoX oXooXX",
+"ooXo oXXoOOoX oX",
+"XooXXoOOXXXooooX",
+"ooOOOooooo. oXo.",
+"XX.oXXo.Xo .oXOo",
+"oXoXXXoOOoooXXXo",
+"O oo oXXX XooXXX",
+"OXXXoXooOOOoo.oO"
+};

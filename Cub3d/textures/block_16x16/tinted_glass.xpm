@@ -1,0 +1,26 @@
+/* XPM */
+static char *tinted_glass[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #28182E",
+". c #2B2030",
+"X c #35283B",
+"o c None",
+/* pixels */
+"XXXX.X...  .X.XX",
+"XooooooooooooooX",
+"XooooooooooooooX",
+"Xoooooooooooooo.",
+"Xoooooooooooooo ",
+".oooooooooooooo.",
+"Xoooooooooooooo ",
+".oooooooooooooo.",
+".oooooooooooooo.",
+" oooooooooooooo.",
+".ooooooooooooooX",
+".oooooooooooooo.",
+" ooooooooooooooX",
+".ooooooooooooooX",
+"XooooooooooooooX",
+"XX. .  ....XX.XX"
+};

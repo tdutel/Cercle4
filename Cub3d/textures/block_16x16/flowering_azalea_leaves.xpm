@@ -1,0 +1,30 @@
+/* XPM */
+static char *flowering_azalea_leaves[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #3A4C26",
+". c #50692C",
+"X c #70922D",
+"o c #6C8031",
+"O c #9E5088",
+"+ c #BA62CE",
+"@ c #D07BE3",
+"# c None",
+/* pixels */
+".# ..oX..#   #.o",
+"o##  XX..#ooX##o",
+" #....##Xoo+@+# ",
+"Xo.Xo. #XX.@ @# ",
+"XX#XX  # ..+@O##",
+"###.. #   ##XXoo",
+"X. ###oXXX. #.oo",
+"X+@O##.XXXo  ..X",
+" @ +o.o..XX.  ..",
+".O+OX.Xo.XooX#oo",
+"o..X.#XXo##XX#oo",
+"o##  .o.#O+O..#o",
+"# .. ..#.+ +o.  ",
+"#ooXoo #.O+Oo.  ",
+".oXoXo  ##.. oo#",
+"...XX## ###  oo."
+};

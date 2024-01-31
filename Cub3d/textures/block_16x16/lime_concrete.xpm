@@ -1,0 +1,30 @@
+/* XPM */
+static char *lime_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #5DA718",
+". c #5DA818",
+"X c #5EA818",
+"o c #5EA918",
+"O c #5FAA19",
+"+ c #5FAA1A",
+"@ c #60AA1A",
+"# c #60AA1B",
+/* pixels */
+".@@@oooOOoo  ooo",
+"..oo@.o@oO@.oo o",
+"..o.o.O@.oo.....",
+"@.oooo@@.@..@..@",
+".@@..@..o@@.@.oo",
+"ooo@....o.o.oo.o",
+"o o..@@@o @.o@@.",
+"o ...@..o....@. ",
+" oooo@@@o @.@o..",
+".oo@..@.o@o@@@@@",
+"ooo@@oo. @o.@o..",
+".o@.oooo..o oo@.",
+".@..@@o@..ooooo ",
+"..O@.#oo.oo. oo.",
+".ooo.@...@ooOO@@",
+" ooo......ooo@@."
+};

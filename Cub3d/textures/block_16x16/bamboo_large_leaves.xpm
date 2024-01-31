@@ -1,0 +1,28 @@
+/* XPM */
+static char *bamboo_large_leaves[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #2F4517",
+". c #375A15",
+"X c #457616",
+"o c #528919",
+"O c #67A124",
+"+ c None",
+/* pixels */
+"+++.+. .ooOo.+++",
+"++XoooXX.O Oo.X+",
+"+XOOoOXo.o ...Oo",
+"+OoOoO .+.XXoo.O",
+"+o+o.o+++ooOXO+o",
+"++.. .+  .O.OXO+",
+"+.OOo.    o.o+o+",
+"XOOoOX .. X o+++",
+"OoO.OX .. ++X+++",
+"o+o.o +.+XOoo.O+",
+"+Xo+o++ +OOoOoXO",
+"++.X+ +++O.OoOXo",
+"+.oX.Oo  +.O.O..",
+"+oXOoOo..  o+o+.",
+"+X+ooO+.. .. +++",
+"+++X+o+ + +.+ ++"
+};

@@ -1,0 +1,27 @@
+/* XPM */
+static char *blue_ice[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #6B9DFB",
+". c #6CA3FD",
+"X c #74ABFE",
+"o c #8EB8FE",
+"O c #A9C8FF",
+/* pixels */
+" ..XXX.  XoOoX..",
+"  ..X..   OoX...",
+"  .....X. XoX. .",
+". . .XooX .o.  .",
+"..  XOoXX .X. .X",
+"X. .ooOoX  . XXX",
+"X  XoooXo   ooXX",
+". .oooXX..  XOoX",
+". XooXXX..X. oOo",
+"..XXo.XX..XX .X.",
+" .X.X.XX. X.  X.",
+"   .X.X.   .. ..",
+" .. .. .  .XXX. ",
+"....XX.  .XXXXX ",
+"...XooX  XXXXXoX",
+"..XooXX XoXXooX."
+};

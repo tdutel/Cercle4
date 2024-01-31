@@ -1,0 +1,28 @@
+/* XPM */
+static char *chiseled_polished_blackstone[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #160F10",
+". c #1F121B",
+"X c #27221C",
+"o c #312C36",
+"O c #3C3947",
+"+ c #4E4B54",
+/* pixels */
+"+++O++++++++OO+X",
+"+oOoOOoooooOooO ",
+"+o...X.XXXXX.+o.",
+"+o.+++++++O+X+O.",
+"+O.+OOOOOOoOXOO.",
+"OOX+oOoooooOX+o.",
+"+O.o++++++Oo.+O.",
+"+OXO+.+++.+oX+O.",
+"+OXo+.+OO.Oo.+o.",
+"+oXoOOOOOOOoXOo.",
+"+OX+ooXXXXoO.+O.",
+"+OXOOOOoOOoo.+o.",
+"Oo.XXXX.X....+o.",
+"oo+++O++++O+O+o.",
+"XoooOoOOoooooooX",
+"XX.X.     . X.X."
+};

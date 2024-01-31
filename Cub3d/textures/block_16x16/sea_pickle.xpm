@@ -1,0 +1,33 @@
+/* XPM */
+static char *sea_pickle[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 11 1 ",
+"  c #2E3012",
+". c #3F4316",
+"X c #424618",
+"o c #4B4F19",
+"O c #575C1D",
+"+ c #626824",
+"@ c #6C722A",
+"# c #B4E3B1",
+"$ c #C5F4C2",
+"% c #D8FFD6",
+"& c None",
+/* pixels */
+"&%&&&&&&&&&&&&&&",
+"&&$&+@@+  oo&%&&",
+"&%#&@&&@  ..&$#&",
+"&$#&@&&@o. o&&#&",
+"&$&&++@+ .o &&#&",
+"+@o+@o@++@@o+@++",
+"+@X+@X@o+@+X+@o@",
+"+o@+o+@X+@o+@@X@",
+"+X@+X+@@o@X@@@@o",
+"o+o@+o@@X@+@+o@X",
+"X@X@+XO@@@Oo+XO+",
+"+OO+oOOX+OOX+OX+",
+"XoO+XOO +Oo+@O O",
+" oXOoXOOXOXX+XoX",
+"Oo oo oO oo o o ",
+"oXXoXooXooXoooXo"
+};

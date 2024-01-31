@@ -1,0 +1,27 @@
+/* XPM */
+static char *cherry_log[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #271620",
+". c #301D29",
+"X c #3B232D",
+"o c #462C39",
+"O c #543543",
+/* pixels */
+".XooXX...XX..XX.",
+"X....oooXX.   ..",
+"  .XXXoOOOoo.  .",
+"XXX.   .XXXoooX.",
+"X....XX.      ..",
+"oooXX....  .XXoo",
+"oX...   XoooX..o",
+"...XX. .XX.   ..",
+"  ooOOoo...XX.  ",
+"  ..Xoo.   .   .",
+"..    .. ..X. .X",
+"oX .XXX.XoooOOOo",
+"X..XoOOoooX...XX",
+".  ....XoooXX...",
+"..XXX  ...XXXXoo",
+"ooooXX.  oOOoXXX"
+};

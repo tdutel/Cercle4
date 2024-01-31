@@ -1,0 +1,30 @@
+/* XPM */
+static char *pearlescent_froglight_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #B08ABB",
+". c #B796BC",
+"X c #C2A4C3",
+"o c #D4BFC8",
+"O c #E2D3D3",
+"+ c #EFE6E1",
+"@ c #F9F4F3",
+"# c #FFFEFD",
+/* pixels */
+" XXoXoO+o+O+oX. ",
+"XoO+o+@+O@O++Oo.",
+"oO+@+@@@+@++@+OX",
+"oO@#@@#@+#@+@+@o",
+"O+@#@@#@@#@@#@#o",
+"O@@##@#@###@#@#O",
+"+@@##########@#+",
+"+#@######@###@#O",
+"+#@###@##@##@#@O",
+"+@####@##@##@#@o",
+"O@@##@@#@@#@+@+o",
+"O+@#@+@@@+@@+@OX",
+"o++#+O@+@+@+O+OX",
+"XO+@+O+O+O++O+o.",
+".oOoOo+oOo+OoOX.",
+" ..X.XOXooX.oX. "
+};

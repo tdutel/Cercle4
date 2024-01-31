@@ -1,0 +1,32 @@
+/* XPM */
+static char *stripped_bamboo_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #907E3A",
+". c #998741",
+"X c #B7AB49",
+"o c #BBA84C",
+"O c #C2B54E",
+"+ c #C8B14D",
+"@ c #D3BB50",
+"# c #D9C25E",
+"$ c #E3CC6A",
+"% c #EFD97E",
+/* pixels */
+"X$+ o$@.+#@ o$@ ",
+"X#+.+$#.o#+ o#@.",
+"O#+o$%$oo$+ o#@.",
+"O$+ X@X o$+.+$#.",
+"O$@ o#+.+#@o$%$o",
+"O#@ +#O +#@ X@X ",
+"X#@.+$O +#+ +#O.",
+"X$@.+$+ o#O.+#O ",
+"O$#.+#+.+#O.O#+ ",
+"$%$oo#@.o$+.O$+.",
+"X@X o$@.o$@.o$+ ",
+"X$@ +$@.+$#.o$@ ",
+"O$@.+#@o$%$oo#@ ",
+"O$+.o#+ X@X +#@.",
+"X#+ o#@ o#O.+#+.",
+"X#@ o$+.+#+.o$+ "
+};

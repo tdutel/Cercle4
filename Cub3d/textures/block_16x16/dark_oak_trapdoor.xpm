@@ -1,0 +1,30 @@
+/* XPM */
+static char *dark_oak_trapdoor[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #291A0C",
+". c #32210F",
+"X c #3D2812",
+"o c #412B13",
+"O c #493116",
+"+ c #53361A",
+"@ c #624224",
+"# c #724A24",
+/* pixels */
+"OO++++O++OOOOOOO",
+"Oo    .++o    .O",
+"O XXXX#+O XXXX#O",
+"O XOOO#OO XOOO#+",
+"O.OOO+#+O.OOO+#+",
+"O.O+++#++.O+++#+",
+"O.@@##@++.@@##@O",
+"O++O+++++O+++O+O",
+"OO++++O+OOO+++OO",
+"Oo    .+Oo    .+",
+"O XXXX#O+ XXXX#+",
+"O XOOO#++ XOOO#+",
+"O.OOO+#++.OOO+#+",
+"O.O+++#++.O+++#O",
+"O.@@##@O+.@@##@O",
+"OOO+++OO++++OOOO"
+};

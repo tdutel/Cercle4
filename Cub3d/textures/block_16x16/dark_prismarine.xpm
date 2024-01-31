@@ -1,0 +1,28 @@
+/* XPM */
+static char *dark_prismarine[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #273E36",
+". c #315041",
+"X c #345648",
+"o c #386251",
+"O c #3F6D5C",
+"+ c #3B8268",
+/* pixels */
+"O++.OO+.O++.O++.",
+"+OX +OX +OX +OX ",
+"OX. oXX OX..OX. ",
+".  ......  ..  .",
+"XO+.+XO.OO+.++o.",
+"++o O+o o+X oO+ ",
+"OXX OoX OX. OXo.",
+".  .. ...  ..  .",
+"O++.O++.oO+.O++.",
+"+Oo +OX ++o +OX ",
+"OXX OX. oOO.OoX ",
+". ...  .. ...  .",
+"oO+.O++.O++.O+O.",
+"+OX +Oo +OX +OX ",
+"OX. OXX OXo OX. ",
+".  ..  ..  ..  ."
+};

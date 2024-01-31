@@ -1,0 +1,28 @@
+/* XPM */
+static char *cracked_polished_blackstone_bricks[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #160F10",
+". c #23161F",
+"X c #27221C",
+"o c #312C36",
+"O c #3C3947",
+"+ c #4E4B54",
+/* pixels */
+"o++ ++O++O++OOo ",
+"oOo.o+OOoX.oooO ",
+"oO++..XoXXo.O.O ",
+"O.Oo+oOOOoo  .o ",
+" XXoooOXOX OOoo ",
+"XXooXXXoo.XoX.X ",
+"X..X .XoX..X... ",
+"..  ..    . .  .",
+"o.o ooX .oOX++O+",
+"oXO.oXX XOXOO+Oo",
+"XoO+.oX  OO+OOoo",
+"OOoO.oo ++oOO.OO",
+"o XoO.  O+Oo.+O ",
+"X XXXoX OOoo o.o",
+"X. .... X... ...",
+"   ..     . ..  "
+};

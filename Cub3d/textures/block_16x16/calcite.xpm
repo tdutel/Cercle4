@@ -1,0 +1,28 @@
+/* XPM */
+static char *calcite[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c gray70",
+". c #C9C9C4",
+"X c #D9DBD7",
+"o c #EDECE6",
+"O c #F0F5F4",
+"+ c white",
+/* pixels */
+"OoXo.XoX..O+OXoo",
+"oXXX. XX.++ooXXo",
+"oXX.  .Xo+OoooXo",
+"oX.  ..XoOOOOoXX",
+"X.. .XooOOOoOX.X",
+".X .XoXXXOooo.  ",
+"++oXXX.XooXoX .X",
+"oOooX..XoXXX..Xo",
+"oXX++Oo.XO+XXoOO",
+"XXooO+o..XOX++Oo",
+".XoooOX.XoooOoXX",
+"XoooXoXoOoooOXX.",
+"oooXXO+++oXXoX..",
+".XoX.o+OoXX.  .X",
+"X++O.oOOXX.  .XX",
+"+OooXoOoX.X...XO"
+};

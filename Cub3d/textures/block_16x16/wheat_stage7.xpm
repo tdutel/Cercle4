@@ -1,0 +1,29 @@
+/* XPM */
+static char *wheat_stage7[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #5B6B0F",
+". c #75772F",
+"X c #8A8636",
+"o c #A69553",
+"O c #CDB159",
+"+ c #DCBB65",
+"@ c None",
+/* pixels */
+"@@@@@@+@@@@@@@@@",
+"@O+@@@O+@@@@@@@@",
+"@+o@@@+O@@@+@@@@",
+"@oO@@@.o.@+O@@@@",
+"@o.o@@oOOoO+@@+@",
+"@@oOo@@ooO@oo+O@",
+"@@OXX@@O@@@X.O+.",
+"X@oXo@+O@X@o@oo@",
+"O+oXOXOo@X@X@oO@",
+"oOO@oX.o@O+o@@O@",
+"XXo@o.@o@ooO@@O@",
+"XXo@X@@O@XXO@@o@",
+"X@O@.@XO@X@o.@oO",
+".@+@ @XoO@@.o@Xo",
+" @OoO@. oO@O.@X@",
+" @o. @. @ @o @ @"
+};

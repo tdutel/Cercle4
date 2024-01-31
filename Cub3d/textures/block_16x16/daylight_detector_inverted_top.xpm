@@ -1,0 +1,30 @@
+/* XPM */
+static char *daylight_detector_inverted_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #3C3322",
+". c #473D29",
+"X c #354359",
+"o c #8B9AB1",
+"O c #97A7BD",
+"+ c #A5B3C7",
+"@ c #B0BDCE",
+"# c #C3CCD9",
+/* pixels */
+"                ",
+" XoOX.XoOX.XoOX ",
+" o++@.o++@.o++@ ",
+" O+@#.O+@#.O+@# ",
+" X@#X.X@#X.X@#X ",
+" .............. ",
+" XoOX.XoOX.XoOX ",
+" o++@.o++@.o++@ ",
+" O+@#.O+@#.O+@# ",
+" X@#X.X@#X.X@#X ",
+" .............. ",
+" XoOX.XoOX.XoOX ",
+" o++@.o++@.o++@ ",
+" O+@#.O+@#.O+@# ",
+" X@#X.X@#X.X@#X ",
+"                "
+};

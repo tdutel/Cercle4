@@ -1,0 +1,26 @@
+/* XPM */
+static char *wet_sponge[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #8E8D34",
+". c #96A846",
+"X c #B0BF4C",
+"o c #CDCE4A",
+/* pixels */
+"ooX  Xo.oXoX. oo",
+"Xoo.XooX .ooX Xo",
+".oX .oXX  oo..XX",
+" X..XX.o..Xo Xo.",
+".X.Xo. .oXXX.XX ",
+"oXXXX..XXX .XXoX",
+"oo.X..XX ... XXo",
+"ooX.. .XXX.X .XX",
+"oXX.   ..XXo.ooX",
+"XooX  .. XX.XoXo",
+"XoX. .XoX.  oX X",
+"X .XX.oX.o ..XXo",
+"o  .o.X...X. oXo",
+"oXXX..X  Xo.XX .",
+"XoXXXXX. XooXX  ",
+"ooo. XooXX.XXXX."
+};

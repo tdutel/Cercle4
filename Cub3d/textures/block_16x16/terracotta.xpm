@@ -1,0 +1,27 @@
+/* XPM */
+static char *terracotta[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #945B43",
+". c #965D43",
+"X c #9C5D41",
+"o c #985F45",
+"O c #9B6045",
+/* pixels */
+"o....ooo Xo....o",
+"oXOOOOX..OOO oo.",
+"o .. ...o.ooXOXo",
+"oooXX oOOX.....o",
+"OOO.......XOOOOX",
+"..ooo...o oo....",
+"oooOO.oOOOOOXo. ",
+"..o.....   ..ooo",
+"XOO OXXXXOOOoOOO",
+"o.oo...o.oo...Oo",
+"ooOOOOO. .OOOooo",
+" XXo.XooOOXXoOO ",
+"o..   ..oo.....X",
+"oOOOOXX... .oXOO",
+"ooX.....oXOOX..o",
+".... OOXooo...oo"
+};

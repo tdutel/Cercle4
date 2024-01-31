@@ -1,0 +1,29 @@
+/* XPM */
+static char *spruce_leaves[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c gray26",
+". c gray31",
+"X c #555555",
+"o c gray54",
+"O c #989898",
+"+ c #9A9A9A",
+"@ c None",
+/* pixels */
+"o@o.o@OO@o@O@@o+",
+"XO@o@OO@ o @O+X+",
+"O@ o @O@o+ooXo@+",
+"@@oOo@@OXOX+o@O@",
+"@OXOX+oXo+@ o @O",
+"@@@O@O@o@O@oOo@@",
+"@ @@O@ o @+XOXO@",
+"oXo@@@o+o@@@+@@@",
+"@o@O@+XOX+@ @@@O",
+" o @O@@O@@oXo@O@",
+"o+o@@@ @@O@o@O@@",
+"X+X+@oXoO@ o @OO",
+"@+@@O@o@O@o+o@@ ",
+"o@@O@ o @+XOXOoX",
+"@O@@@oOo@ @O@O@o",
+" @O OXOXoXo@O@ o"
+};

@@ -1,0 +1,27 @@
+/* XPM */
+static char *purple_concrete[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #631F9B",
+". c #641F9B",
+"X c #641F9C",
+"o c #65209D",
+"O c #65219D",
+/* pixels */
+"oXXXoXX oooooooo",
+"oooo.Xoo o   ooo",
+"o.ooo    ooooooo",
+"o   ooX oooooooo",
+"ooooooo     oooo",
+"ooooooo  oo     ",
+"ooooo ooooo ooo ",
+"oooo oo o oooooo",
+"oX o    o o..  o",
+"oX oooooX. oXooo",
+"ooXo oooXoX oX X",
+"  XoX.oo ooooXXX",
+".XXo oooXooooooo",
+" .XXooooXooXXoo ",
+"oX XooooXooXoo o",
+"XoXoooooooo oooX"
+};

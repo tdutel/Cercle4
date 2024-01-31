@@ -1,0 +1,29 @@
+/* XPM */
+static char *warped_nylium[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #3E4F58",
+". c #16615B",
+"X c #456B52",
+"o c #568353",
+"O c #167E86",
+"+ c #119B85",
+"@ c #14B485",
+/* pixels */
+"oo. XXO+ . ++.OX",
+"O..XooOO.OXOOO++",
+" X.o@XX.O+X.O+O.",
+"X  .X...OXoXO.OO",
+"oX. +O .Xo@oX.X@",
+"X..O XO. +.OoXoo",
+".O.XOo.++OXo.X .",
+"X.XXoO+O@+X@X .O",
+"OoX.O.O.+.XXoX .",
+"...O.XXoO .X.O+X",
+"O.X@oXoX. . OX..",
+"X OoXX.. O.O+.XO",
+".O++OO.OXoX.O+X ",
+"..O.XoOXoooXOOO.",
+".X  OX.O@oXO.X .",
+"XoX.X ..XoO+O .O"
+};

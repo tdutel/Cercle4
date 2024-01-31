@@ -1,0 +1,28 @@
+/* XPM */
+static char *farmland_moist[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #341907",
+". c #3F210A",
+"X c #552E0F",
+"o c #6E3C15",
+"O c #555555",
+"+ c #6F6F6F",
+/* pixels */
+"XX. ..XXXX. .Xoo",
+"oXX X.XoXXX. XXo",
+"XoX .XXXooX. XoX",
+"oo. ..XooXX...oo",
+"oX.O ..XooX. .Xo",
+"XX . .XXXo. ..oo",
+"oo.X X.X+X. X.Xo",
+"oXX. XXoX.X .Xo.",
+"ooX .XXXo.. .Xoo",
+"XoX ..XooX. .Xoo",
+"oX.. .oXoX.. XXo",
+"XXO.X.ooooX. .Xo",
+"oX. .XoooXX. OXX",
+"ooX .XXoXoX ..XX",
+"XoX. XoXooX .XoX",
+"Xo.. .XXoX. .ooX"
+};

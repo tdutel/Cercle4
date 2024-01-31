@@ -1,0 +1,26 @@
+/* XPM */
+static char *bone_block_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #DEDAC5",
+". c #E1DDCA",
+"X c #E6E2D2",
+"o c #E9E6D4",
+/* pixels */
+"  XoXoooooXoX.. ",
+"  XoXoooooooX.  ",
+" .XoooooooooX.  ",
+" .XoooooooooX.  ",
+" .XXooooooooX.. ",
+" .XXooooooooX.. ",
+" .XXoooooooXX.. ",
+"..XooooooooXX.. ",
+"..XoXooooooXX.. ",
+" .XoXoooooXoX.. ",
+" .XoXoooooXoXX. ",
+" .XXXoooooooXX  ",
+" .XXoooooooXXX  ",
+" .XXoooooooXXX  ",
+"  XoXoooooXXXX. ",
+"  XoXoooooXXX.. "
+};

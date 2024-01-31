@@ -1,0 +1,25 @@
+C		  42, 			231,227
+F	123,55,40
+EA ./textures/block_16x16/white_wool.xpm
+WE ./textures/block_16x16/white_wool.xpm
+NO ./textures/block_16x16/blue_wool.xpm
+SO ./textures/block_16x16/red_wool.xpm
+DOOR ./textures/block_16x16/dark_oak_trapdoor.xpm
+
+
+11111111111
+10000010001
+10000010001
+1OOOOO00001
+100O0010001
+100O0010001
+10000010001
+10000010001
+10000010001
+10000010001
+1C11O110001
+10000000001
+1N000000001
+10000000001
+10000000001
+11111111111

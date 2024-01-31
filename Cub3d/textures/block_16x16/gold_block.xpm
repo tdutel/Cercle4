@@ -1,0 +1,31 @@
+/* XPM */
+static char *gold_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #CC8E27",
+". c #D39632",
+"X c #F9BD23",
+"o c #F5CC27",
+"O c #FFD83E",
+"+ c #FEE048",
+"@ c #FFEC4F",
+"# c #FFFD90",
+"$ c #FEFFBD",
+/* pixels */
+"ooooXXoooXXXXoo.",
+"o#$$@@###@@OO##.",
+"o$OO+#@@OoXXo+#.",
+"o$O+#@@+Oooo++@.",
+"X@+@@@+OooO++O@.",
+"X@@@@+OooO@@OoX ",
+"o#@@+++OO@@OoXX ",
+"o#@+++OO++OooXo ",
+"X@+++OO++OOoooO.",
+"X@++OO++OOOOo+O.",
+"XO+OO@@OOOOO@+o ",
+"XoOO@@OooOo@@Oo ",
+"XoO@@OoXXo++OoO.",
+"XX++OoXXoOOOoo+.",
+"XoXooXXoOOooO+@ ",
+".. ..   ..  ..  "
+};

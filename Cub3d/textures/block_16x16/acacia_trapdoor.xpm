@@ -1,0 +1,32 @@
+/* XPM */
+static char *acacia_trapdoor[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #353535",
+". c #515151",
+"X c #727272",
+"o c #884728",
+"O c #8F4C2A",
+"+ c #99502B",
+"@ c #AD5D32",
+"# c #BA683B",
+"$ c #C87243",
+"% c None",
+/* pixels */
+"oooooooooooooooo",
+"o++@@########@@o",
+"oOOO#@oOO#@oOO#o",
+"o+%%$@o%%$@o%%#o",
+"o+%%$@o%%$@o%%#o",
+"o+%%$@o%%$@o%%#o",
+"o+%%$@o%%$@o%%#o",
+"o+%%$@o%%$@o%%#o",
+"o+%%$@O%%$@O%%#o",
+"o+%%$@O%%$@O%%#o",
+"o+%%$@O%%$@O%%#o",
+"o+%%$@O%%$@O%%#o",
+"o+%%$@O%%$@O%%#o",
+"o@@#$#@@#$#@@#$o",
+"o+#$#.XXXX.#$#+o",
+"ooooo .... ooooo"
+};

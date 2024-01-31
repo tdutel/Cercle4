@@ -1,0 +1,26 @@
+/* XPM */
+static char *black_stained_glass_pane_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c gray9",
+". c #181818",
+"X c #191919",
+"o c None",
+/* pixels */
+"ooooooo..ooooooo",
+"ooooooo..ooooooo",
+"ooooooo..ooooooo",
+"ooooooo..ooooooo",
+"ooooooo..ooooooo",
+"ooooooo..ooooooo",
+"ooooooo..ooooooo",
+"ooooooo..ooooooo",
+"oooooooX.ooooooo",
+"ooooooo. ooooooo",
+"oooooooX.ooooooo",
+"ooooooo. ooooooo",
+"ooooooo..ooooooo",
+"ooooooo..ooooooo",
+"ooooooo. ooooooo",
+"ooooooo..ooooooo"
+};

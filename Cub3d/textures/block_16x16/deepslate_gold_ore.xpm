@@ -1,0 +1,31 @@
+/* XPM */
+static char *deepslate_gold_ore[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 9 1 ",
+"  c #2F2F37",
+". c #3D3D43",
+"X c #515151",
+"o c #646464",
+"O c #797979",
+"+ c #9C6420",
+"@ c #EB9D0E",
+"# c #FCEE4B",
+"$ c #FFFFB5",
+/* pixels */
+"OoXXXX.XoooXX.XX",
+"X.  +OX.XoXX.  .",
+"ooOoOX +   . ++.",
+".XoXX +@+oOO+@+X",
+" .XX.+@#+ooO@@O.",
+"OOXo@##$@oXoOOXo",
+"OooXO@#@+X..  .X",
+"oX...O@OOoX.X@+O",
+"X.+@X.+OoXoX.OOo",
+"..@#OXOoXX  .o .",
+"oXOOooX.. ++@XOO",
+"oo  .OO.X+@@$#+o",
+"o ++@Oo+oO@##OOo",
+".+@#$#oOX.+@Oo..",
+"OOo@#O. .OOOXX@O",
+"OOoOOXX XOooXXOo"
+};

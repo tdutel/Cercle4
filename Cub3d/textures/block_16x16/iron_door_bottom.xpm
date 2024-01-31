@@ -1,0 +1,32 @@
+/* XPM */
+static char *iron_door_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c gray18",
+". c #434343",
+"X c gray63",
+"o c gray65",
+"O c #B1B1B1",
+"+ c gray",
+"@ c #CDCACA",
+"# c #D2D2D2",
+"$ c #DBDADA",
+"% c #E6E6E6",
+/* pixels */
+" @O@@++%O@@OO%@X",
+"#@+#%%%#+#%%%#@X",
+"#@##@@++@@@++@@X",
+"$@XOOOO@XOOOO#@X",
+"$@O@@@@#O@@@@#@X",
+"$@O@@@+%O@@@+%@X",
+"$@O@@++%O@@++%@X",
+"$@+#%%%#+#%%%#+X",
+"#@###@++@##@+++o",
+"$@XOOOO@+OOOO#@X",
+".@O@@@@#O@@@@#@o",
+" @O@@@+%O@@@+%@X",
+"#@O@@++%O@@++%@X",
+"#@+#%%%#+#%%%#+o",
+"$++@##@++@##@+Xo",
+"OXoooooooooooooo"
+};

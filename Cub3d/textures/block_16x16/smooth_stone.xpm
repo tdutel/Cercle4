@@ -1,0 +1,29 @@
+/* XPM */
+static char *smooth_stone[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #747474",
+". c gray50",
+"X c gray56",
+"o c #9D9D9D",
+"O c gray64",
+"+ c gray66",
+"@ c gray69",
+/* pixels */
+". ..  XX  XX .X.",
+" +O++@@@@++oOO+X",
+" OooOO+OOOO++++ ",
+".@@@O+++@@@++OOX",
+"X++OOO+O+@@@@O+ ",
+" @++++++++OoOoO.",
+"X++@@@O@@++O+++ ",
+"XOooOoOOoOoOO@@.",
+".@@+@+O++++O++@X",
+" +++++O+@@@+@@@.",
+" +O+OOooOO+OO+OX",
+".++++@@@@@++@@@X",
+"XOOO+@@O+OOooO+X",
+".@+OO+++@+++O++.",
+" OO+@@@++@@+OOO ",
+". XX..XXX.   .X."
+};

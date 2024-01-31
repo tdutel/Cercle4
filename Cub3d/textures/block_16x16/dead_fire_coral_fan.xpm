@@ -1,0 +1,28 @@
+/* XPM */
+static char *dead_fire_coral_fan[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #5D5A59",
+". c #746A66",
+"X c #867B77",
+"o c #99938D",
+"O c #A4A09C",
+"+ c None",
+/* pixels */
+"++++++++++++++++",
+"++++++++++++++++",
+"++++++++++++++++",
+"++++++++++++++++",
+"+++++++o++++++++",
+"+++++ +O+X+X++++",
+"+++o+o+.oX. + ++",
+"+++o O +.O+ +X++",
+"+X+.oo  +oX Xo+X",
+"+O. +o.+.X+X+OX+",
+"+OX+ . Xo++X+X++",
+"+ oX +.O  X+ o +",
+" ++ X+ O Xo X+ X",
+" X+Xo +o. Xo+ o+",
+"+ O+X+  o++o+XX+",
+"+++  X+ X+.X.+++"
+};

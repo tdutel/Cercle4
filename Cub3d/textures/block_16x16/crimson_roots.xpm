@@ -1,0 +1,27 @@
+/* XPM */
+static char *crimson_roots[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #50062A",
+". c #660627",
+"X c #AD101C",
+"o c #920636",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOO.OO.OOOOOOO",
+"OOOOXO.O.O.OOOOO",
+"OOO XXoO.OO.OOOO",
+"OO.OXoXOoO.O.OOO",
+"OO.Oo.X oOoOOoOO",
+"OOOo.XXo.O.o.XOO",
+"o.OX X.Oo.X OX.O",
+".OOXOo OXOXOOOXO",
+"oOOoOOoOXOoOO oO",
+"OoOo O..oO.o o O",
+"OOoOo . O. oX OO",
+"OO Oo O O O oOOO"
+};

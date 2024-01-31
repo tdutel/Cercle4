@@ -1,0 +1,29 @@
+/* XPM */
+static char *azalea_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #495E27",
+". c #42552D",
+"X c #50692C",
+"o c #647233",
+"O c #70922D",
+"+ c #6C8031",
+"@ c None",
+/* pixels */
+" ++XO+X OoX  XXO",
+"+XOo+o+ o   + oo",
+"X O+OXOX+o XO +O",
+"XXXOX+Oo+OXoOoO ",
+"XOXoXoXOoOo+ O X",
+" OXOoOX+X+O+X Xo",
+" XO XOoOo+XX+X+ ",
+".+ Xo.O+oOX.+XOo",
+"@XOX+X.O+O.@OoOo",
+"@XO+O@@XOX@@@O @",
+"@@XOX@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@"
+};

@@ -1,0 +1,28 @@
+/* XPM */
+static char *frosted_ice_0[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #70A4FC",
+". c #80ADFB",
+"X c #92B9FE",
+"o c #A1C3FF",
+"O c #C8DCFF",
+"+ c #CEE0FF",
+/* pixels */
+"....X+oXX...ooo.",
+"...XooXX...XoX..",
+"..XoXXXXX.XoX...",
+"XX.XXXXX.XXX....",
+"X...XXX.......XX",
+"...XXX.  ..XXXoo",
+"..XX..  ..XXooX.",
+".........XXo+oX.",
+".XX..X....o+oXX.",
+"XXXXXX...oOoXX..",
+"XXXoX...XoXXX..X",
+"XooX...XoX.XX..X",
+"ooX.. .X...X..XX",
+"Oo..  ...X...XXX",
+"o..  ..XoX....oO",
+".....X+oX....o+o"
+};

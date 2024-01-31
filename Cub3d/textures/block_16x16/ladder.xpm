@@ -1,0 +1,29 @@
+/* XPM */
+static char *ladder[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #3A2F1E",
+". c #513D24",
+"X c #67502C",
+"o c #7E6237",
+"O c #967441",
+"+ c #B58D50",
+"@ c None",
+/* pixels */
+"@@O.@@@@@@@@O.@@",
+"@o+oO+O++++O+o+@",
+"@XoX.XXXXXX.oXX@",
+"@@. @@@@@@@@. @@",
+"@@O.@@@@@@@@O.@@",
+"@++oO+++O+OO+o+@",
+"@XoX.XXXXXX.oXX@",
+"@@. @@@@@@@@. @@",
+"@@O.@@@@@@@@O.@@",
+"@++oO++++++O+oo@",
+"@XoX.XXXXXX.oXX@",
+"@@. @@@@@@@@. @@",
+"@@O.@@@@@@@@O.@@",
+"@++oO+O++++O+o+@",
+"@XoX.XXXXXX.oXX@",
+"@@. @@@@@@@@. @@"
+};

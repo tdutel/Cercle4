@@ -1,0 +1,28 @@
+/* XPM */
+static char *quartz_block_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #DDD9CB",
+". c #E2DED0",
+"X c #EAE2DA",
+"o c #EEE6DE",
+"O c #EEEAE6",
+"+ c #F2EFED",
+/* pixels */
+"++++++++++++++++",
+"+OooooXXXXXOOOO.",
+"+ooXXXXXXoOOOOo ",
+"OXXXXXooOOOoooo ",
+"OXooooXXXooXXXX.",
+"+ooXXXXXooXXXXX.",
+"+oooOOOOXXXXooo ",
+"+OOOOOOoooooooo ",
+"+OOooXXXooOOOOO ",
+"+ooXXoOOOOOOOOo ",
+"+OOOOOOOOOoXXXX.",
+"+OOOOOooXXXXXXO ",
+"+OOOooXooXooOOO ",
+"+oooXXooOOOOOOo ",
+"OXoXooOOOOOoooo.",
+"..   .......    "
+};

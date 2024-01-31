@@ -1,0 +1,28 @@
+/* XPM */
+static char *end_stone[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 6 1 ",
+"  c #C5BE8B",
+". c #CDC68B",
+"X c #D5DA94",
+"o c #DEE6A4",
+"O c #EEF6B4",
+"+ c #F6FABD",
+/* pixels */
+"oXXoOOXoO .XXO.X",
+"XXoO.XOO..XoXoOo",
+"oOOX .XoOXOOoXoO",
+" .XOX .XoO..+OO.",
+".XX+OXoXO. XX+  ",
+"X.oO+OXoO.X.oO.X",
+"XoOX.XO+OOXoOOXo",
+"OO ...XO+oOX .OX",
+"+XX .XoX o. XXoO",
+"OOo.XoO .XOX.XXo",
+"X .OoXOXXXooXXoO",
+" XXXOO+ooO .ooOX",
+"XXOoOX.OO .XoXoo",
+"OooO+.. XoXoXOO+",
+".OO+X  XXooOOoX ",
+"X.oOXXoXoX .oO ."
+};

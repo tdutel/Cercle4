@@ -1,0 +1,29 @@
+/* XPM */
+static char *brain_coral_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #9D2F77",
+". c #AC3382",
+"X c #BF4692",
+"o c #D6549B",
+"O c #D962A3",
+"+ c #E47EB9",
+"@ c #E88EC1",
+/* pixels */
+"OOoOoO+..X.OXo+O",
+"+OOoO+@o..XX.X.+",
+"+++++@++X.XXXXoO",
+"+OXXXoO+@OXXO+Oo",
+"OX  ..XO+@@++O.X",
+"X .X.X.oOO+@O .X",
+"X.XXXXoOXXO+X XX",
+"O.XoXo+Xoo+++XXO",
+"Oo.XO+Ooo++Xo+++",
+"@+O++O+++oXooXoO",
+"+O@@@+OoXXoOooXo",
+"O..O+@+oXOOoOoOO",
+"..X.X+++oOoOo++O",
+".XX..X+O+oOo+@OX",
+"XoXoX.++O+++OOXo",
+"OXOo.O+OXXOOOooX"
+};

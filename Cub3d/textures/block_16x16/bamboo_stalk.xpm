@@ -1,0 +1,30 @@
+/* XPM */
+static char *bamboo_stalk[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #3D6317",
+". c #466D0C",
+"X c #538209",
+"o c #599003",
+"O c #609816",
+"+ c #79A842",
+"@ c #8DC24F",
+"# c #97D155",
+/* pixels */
+"oXX.X.XX.oOoo@#@",
+"ooXXoo@#@XoXo#+#",
+"oooooo.  XXXo@#@",
+"oXooooXX.@#@oooo",
+"XXXoOooXX.  o@@@",
+"@#@oOooooXX.o@+@",
+"   XooooooXXo@@@",
+".X.@#@oXXooXoooo",
+"ooX.. XX.oOXoooo",
+"oooX.X@#@XOooooo",
+"oXoooo  .XoXoooo",
+"XXooOoX.X@#@oooo",
+"XXXoOoXXX   oooo",
+"@#@XoooXoXX.oooo",
+".  XoXoooooXoooo",
+"X.X@#@XXXoOXoooo"
+};

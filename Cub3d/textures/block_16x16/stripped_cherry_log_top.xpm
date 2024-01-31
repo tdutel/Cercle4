@@ -1,0 +1,30 @@
+/* XPM */
+static char *stripped_cherry_log_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #C97D79",
+". c #CD8580",
+"X c #D2898D",
+"o c #DD9D97",
+"O c #E1A8A1",
+"+ c #E6B5AD",
+"@ c #E7BEB4",
+"# c #E7C7BB",
+/* pixels */
+"..  ..    ...XXX",
+".@@@@+@+#++@@@@X",
+".@..ooOoOOOO..#.",
+"X@.##@@@@+@@@.@ ",
+"X+o@++++++++@O+ ",
+".@o@+ooOOoo+@.+.",
+" +o++.++++o++.@X",
+" +O@+o+OO+O+@O+X",
+" +O@+o+Oo+o+@.+.",
+" +O@+o++++O++.+ ",
+".+o@+oo.oOO+@O+ ",
+".+O@++++++++@o+ ",
+".@O@@+@@@@@#@.+.",
+" @OoOoooo.....#.",
+" @@@++@++#@@###.",
+"   .XX.     ...."
+};

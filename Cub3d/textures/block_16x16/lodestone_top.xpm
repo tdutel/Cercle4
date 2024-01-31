@@ -1,0 +1,27 @@
+/* XPM */
+static char *lodestone_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #686868",
+". c gray50",
+"X c gray56",
+"o c #A2A4AC",
+"O c #ABB1B8",
+/* pixels */
+"OoOOOooOOOOooOOO",
+"O...  . ..   ..O",
+"O.OOOOoOOOoOOO.o",
+"O.OooXoXoXoXoO o",
+"o OoX.XoX.Xooo.O",
+"O.oXX....X.XXO o",
+"O OX.X......Xo.O",
+"O OXX.......oo.O",
+"o.OX.......XXO O",
+"o.ooX....X..oO O",
+"O oXXX.X..XXXO o",
+"o.OoXoX..XoXoo.O",
+"O OooXXXXoXooO O",
+"O.OOOOooOOoOOO.O",
+"O..    .  . ...O",
+"OOOooooooOOoOOOO"
+};

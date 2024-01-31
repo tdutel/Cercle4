@@ -1,0 +1,27 @@
+/* XPM */
+static char *glass[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #7BAEB7",
+". c #8BC1CD",
+"X c #A8D0D9",
+"o c #D0EAE9",
+"O c None",
+/* pixels */
+"oooooooooooooooX",
+"oOOOOOOOOOOOOOOX",
+"oOOOoOOOOOOOOOO ",
+"oOOoOOOOOOOOOOO ",
+"oOXOOOOOOOOOOOO ",
+"oOOOOOOOOOOOOOO.",
+"oOOOOOOOOOOOOOO ",
+"oOOOOOOOOOOOOOO.",
+"oOOOOOOOOOOOOOO.",
+"oOOOOOOOOOOOOOO.",
+"oOOOOOOOOOOOOOO.",
+"oOOOOOOOOOOOOOO.",
+"XOOOOOOOOOOOOoO.",
+"oOOOOOOOOOOOoOO.",
+"XOOOOOOOOOOOOOOX",
+"XX.X..........XX"
+};

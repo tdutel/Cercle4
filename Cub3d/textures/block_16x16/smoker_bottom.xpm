@@ -1,0 +1,30 @@
+/* XPM */
+static char *smoker_bottom[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #3A2F1E",
+". c #3C3B3B",
+"X c #67502C",
+"o c #504E4E",
+"O c #5D5B5B",
+"+ c #686868",
+"@ c #777777",
+"# c gray52",
+/* pixels */
+"XXoo.ooo...o..XX",
+"X oO+##@O++@#o X",
+"oo@##@@O###+##oo",
+"o+####O@####+@@o",
+"o@###@O+@###O@+.",
+".+O++O#@++@#OOo.",
+"oO##+#####OO##+o",
+".@###+###+####@.",
+".####@@#+####@#o",
+"o#####++#+@###oo",
+"o@###@#####+OO+.",
+".O@#@+######+#@o",
+".#OO+O@####@###o",
+"oo#OO@O+@@@+##oo",
+"X o+@#@oO++O+o X",
+"XXoo.ooo....ooXX"
+};

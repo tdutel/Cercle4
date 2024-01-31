@@ -1,0 +1,29 @@
+/* XPM */
+static char *amethyst_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #5D3A9A",
+". c #64479E",
+"X c #7A5BB5",
+"o c #8D6ACC",
+"O c #A678F1",
+"+ c #C890F0",
+"@ c #FECBE6",
+/* pixels */
+".XoXX.X+@@Oo.Xo ",
+"XoOo.XoXoO  Xoo.",
+".oX..oOX.O .OXX.",
+".Xo.  X..X.O+oXX",
+"Xo+X ...Xo.Xo. X",
+"oO@oX.XXO+oXX ..",
+"+@@OOXX.Xo.X...o",
+"XoO..XOXoXXoX.o.",
+".XO.oO+oX..X.oO.",
+"XXXoOXo.  XoXO+o",
+"XXoO+oX .XoOoXo.",
+"XoOO+Oo.XoO+OoX.",
+".O+@@OOX..XO .OX",
+".Xoo+ .. XXX.X+o",
+"X.XoO.X.X+X.X+@O",
+" ..XoXXX+@oX X+ "
+};

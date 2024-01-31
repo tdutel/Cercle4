@@ -1,0 +1,27 @@
+/* XPM */
+static char *slime_block[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #5AAA43",
+". c #62B64A",
+"X c #73C262",
+"o c #7BCA62",
+"O c #7BCE6A",
+/* pixels */
+"XX.ooX..XXX.ooOX",
+"XOOOOOXXoXXXXX O",
+"oOoX.XX...XoX.Xo",
+".OX. .oXXXXXX.X.",
+"XO.  XXX.X  X.XX",
+"XoX...XXoO .XXXX",
+"XoX.XXXXooXXX.XX",
+"Xo.X. XXXXXXX.oX",
+"Xo.X  XXXXXXX oX",
+"XX.XXXoXXX ..XoX",
+".XX.XXXXX...XoX.",
+".XoXXXXXXX.  oX.",
+"oXXOoXX X.. .oOX",
+"o  ..X...XXXooOX",
+"O .XooooOOOOOOOX",
+"XOoXXX..XXXXX.XX"
+};

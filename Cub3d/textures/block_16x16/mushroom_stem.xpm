@@ -1,0 +1,26 @@
+/* XPM */
+static char *mushroom_stem[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #C2BCAC",
+". c #C7C1B4",
+"X c #CDC6BD",
+"o c #D3CCC4",
+/* pixels */
+"oooo.Xoooooooooo",
+"XoX.XoooooooXooX",
+"oX..XXooooooooXo",
+"XXX....XoXXooXX.",
+"XX.  ...XX.XXX..",
+".       .. ..   ",
+"  ooX  ..   .XX.",
+"XooooXX.. .XXooX",
+"ooooooooXXoooooo",
+"XX..XXoooXXooooX",
+".XXXXXXoXXXX Xoo",
+"  .XX..XX.   .XX",
+"   .  ..       .",
+" ...    ......  ",
+"XX...X.  .......",
+".oooooX. ..XoooX"
+};

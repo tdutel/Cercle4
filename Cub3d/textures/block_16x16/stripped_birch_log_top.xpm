@@ -1,0 +1,30 @@
+/* XPM */
+static char *stripped_birch_log_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #A78E56",
+". c #A59467",
+"X c #B19860",
+"o c #AE9F76",
+"O c #B8A875",
+"+ c #C8B77A",
+"@ c #D7C185",
+"# c #D7CB8D",
+/* pixels */
+" XXXX X  XXXXXX ",
+"X@@@@+@+#++@@@@X",
+" @..ooOoOOOOoo# ",
+"X@.##@@@@+@@@o@X",
+"X+o@++++++++@O+X",
+"X@O@+ooOOoo+@o+X",
+" +o++.++++o++o@X",
+" +O@+o+OO+O+@O+X",
+" +O@+o+Oo+o+@o+X",
+"X+O@+o++++O++o+X",
+" +o@+oo.oOO+@O+ ",
+"X+O@++++++++@o+X",
+" @O@@+@@@@@#@o+X",
+" @OoOooooooooo@X",
+" @@@++@++#++@@@ ",
+"XXX XXXXXXX  XXX"
+};

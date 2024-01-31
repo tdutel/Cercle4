@@ -1,0 +1,25 @@
+/* XPM */
+static char *destroy_stage_7[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 3 1 ",
+"  c gray24",
+". c #9B9B9B",
+"X c None",
+/* pixels */
+"XXXXXXXXXXXXXXXX",
+"XXXX  XXXXXXXXXX",
+"XXXX.. X  XXXXXX",
+"XX  XX. ..XXX XX",
+"XX.. X .X  XX  X",
+"XXXX X XX .X .. ",
+"XXXX   XX.  .XX.",
+"XXX ... X . XXXX",
+"XX .X X. .X XXXX",
+"XX X .XX XX. XXX",
+"XX.X. XX  XX.XXX",
+"XXXXX   ..  XXXX",
+"X XX ... X..XXXX",
+"X.  .XXX.   XXXX",
+"XX.. XXX ... XXX",
+"XXXX.XXX.XXX.XXX"
+};

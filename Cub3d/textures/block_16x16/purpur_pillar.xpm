@@ -1,0 +1,29 @@
+/* XPM */
+static char *purpur_pillar[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #906590",
+". c #9D6F9C",
+"X c #A472A3",
+"o c #AC7BAC",
+"O c #B286B2",
+"+ c #BA95BA",
+"@ c #C7A8C7",
+/* pixels */
+"@oO @++X@++X@Xo ",
+"@OO @OOX+OO.@oO ",
+"@OO +Oo +Oo.@OO ",
+"+OO ... ... +OO ",
+"@Oo @++X@++.@Oo ",
+"@OX +OOX+OO.@Oo ",
+"@oX +Oo +Oo.@oo ",
+"+oo ... ... +oO ",
+"@oO @++X@@+.@OO ",
+"@OO +OOX+OO.@OO ",
+"@OO +Oo +Oo.@oO ",
+"+OO ... ... +XO ",
+"@OO @++X@++.@XO ",
+"@Oo +OOX+OO.@oO ",
+"@Oo +Oo +Oo.@oo ",
+"+oo ... ... +oo "
+};

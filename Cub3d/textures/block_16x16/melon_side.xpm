@@ -1,0 +1,27 @@
+/* XPM */
+static char *melon_side[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #32691C",
+". c #34791E",
+"X c #52811C",
+"o c #6F9323",
+"O c #A7AC1D",
+/* pixels */
+"oO.XOoO..OoOX.Oo",
+"oO..OoO.XOoO.Ooo",
+"oOX.OoOoXOoO.Ooo",
+"oOXXOooOXoOOXoOo",
+"OoXXoOoOXXOOXXOo",
+"OXXXXOoOXXOoXXOo",
+"OXXXXOoOXXOoXXOo",
+"OoXXoOoOXoOoXXOo",
+"oOX.OooOXOoO.XOo",
+"oO..OooO.OoO..Oo",
+"oO. OoOX.OooO Oo",
+"oOX OXO. OoXO OX",
+"XO. OXO. OXXO OX",
+"XO  OXO  OXXO OX",
+"XO  OXO  OXoO Oo",
+"oO .OoO .OooO Oo"
+};

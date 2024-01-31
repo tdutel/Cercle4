@@ -1,0 +1,30 @@
+/* XPM */
+static char *respawn_anchor_top_off[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1 ",
+"  c #06030B",
+". c #1C1421",
+"X c #211B31",
+"o c #2C2943",
+"O c #2B0178",
+"+ c #573F7F",
+"@ c #6006AB",
+"# c #8308E4",
+/* pixels */
+"+oO+++O+++++O+o+",
+"oXXXoooXXXoo#XXo",
+"+X............XO",
+"O@.          .o+",
+"+X.          .o+",
+"+X.          .o+",
+"+o.          .#O",
+"+o.          .X+",
+"+X.          .X+",
+"Oo.          .X+",
+"+X.          .o+",
+"+o.          .o+",
+"+o.          .@O",
+"OX............X+",
+"oXX#XooXXoXooXXo",
+"+o+@+++++O+++Oo+"
+};

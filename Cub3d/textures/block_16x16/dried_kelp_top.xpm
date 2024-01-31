@@ -1,0 +1,36 @@
+/* XPM */
+static char *dried_kelp_top[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 14 1 ",
+"  c #10140E",
+". c #151811",
+"X c #181D14",
+"o c #1D2712",
+"O c #232F17",
+"+ c #242D1B",
+"@ c #282A1D",
+"# c #2C3820",
+"$ c #333D2D",
+"% c #404A38",
+"& c #807E69",
+"* c #898771",
+"= c #908E76",
+"- c #99967E",
+/* pixels */
+"O#O%##Oo-OX##O##",
+"O#O%#@Oo=OX##O##",
+"X##%#XXo-OX%#O##",
+"X##%#XXo=OX%#OO#",
+"X####XX.=OO%#XO#",
+"##O##XX.=OX%%XX#",
+"%#O##o..-oX%%#X#",
+"---**&&&==**===-",
+"$oo$ooXO-oX#%%X#",
+"%OO#OO.#*o.++$o+",
+"#OO##OX#*oX##%O#",
+"OOX#%OX#*oXO##OO",
+"#OXO%OO#=oXOO#OO",
+"#XX#%OX#=OXXO#OO",
+"OXX%#OX#-OXXOOO%",
+"X X##OX#-OXXXXO#"
+};

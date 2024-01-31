@@ -6,7 +6,7 @@
 /*   By: llevasse <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/18 23:48:52 by llevasse          #+#    #+#             */
-/*   Updated: 2024/01/14 18:06:55 by llevasse         ###   ########.fr       */
+/*   Updated: 2024/01/16 14:07:08 by llevasse         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,6 +37,8 @@ static int	get_rgb_value(char *s, int *value, char *err)
 		return ((void)ft_putstr_fd(err, 2), 0);
 	b = ft_atoi(tmp);
 	*value = (r * 256 * 256) + (g * 256) + b;
+	if (s[0])
+		return ((void)ft_putstr_fd(err, 2), 0);
 	return (1);
 }
 

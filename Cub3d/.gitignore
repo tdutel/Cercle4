@@ -5,3 +5,5 @@
 !*.cub
 !*/
 *.cub
+!Makefile
+!en.subject.pdf
